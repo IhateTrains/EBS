@@ -27,6 +27,7 @@ MINOR:
 
 BUGFIXES:
 - Fixed Theodosius II becoming the Eastern Roman Emperor in 421 instead of 408
+- Added the missing "Steel Arms" nickname
 
 2018-08-02 v2.0
 -----------

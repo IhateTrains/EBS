@@ -11,3 +11,4 @@
 ################
 nick_gosgorddfawr = {}
 nick_the_grey = {}
+nick_arueu_dur = {}
