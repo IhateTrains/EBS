@@ -1,0 +1,42 @@
+380.1.1={
+	holder=1300002 # Mesalinus
+	liege = "k_asia"
+}
+395.9.3={
+	holder=1300003 # Aurelianus
+}
+396.3.21={
+	holder=1300004 # Aetermalis
+}
+396.3.25={
+	holder=1300005 # Simplicius
+}
+396.7.22={
+	holder=1300006 # Nebridius
+}
+397.1.9={
+	holder=1300007 # Iulianus
+}
+400.1.1 = {
+	holder = 1300900 #Herminus
+	liege = k_asia
+}
+460.1.1 = {
+	holder=215003 # Probulus
+	liege = e_byzantium
+}
+470.1.1 = {
+	holder = 1300862 # Demophilus
+	liege = k_asia
+}
+530.1.1={
+	holder=6826 #fictional
+	liege = e_byzantium
+}
+540.1.1={
+	holder=6825 #fictional
+}
+566.1.1={
+	holder = 1300717 #Strategius
+	liege = k_asia
+}

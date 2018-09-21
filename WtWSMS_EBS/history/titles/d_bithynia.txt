@@ -1,0 +1,23 @@
+98.1.1={
+	holder=1007505
+}
+99.1.1={
+	holder=0
+}
+390.1.1 = {
+	holder = 1300892 #Sabinus
+	liege = k_pontus
+}
+430.1.1 = {
+	holder = 1300715 #Strategius
+}
+460.1.1 = {
+	holder = 1300716 #Theophilus
+}
+490.1.1={
+	holder = 1300858 #Theodorus
+}
+540.1.1={
+	holder=6835 #fictional
+	liege = e_byzantium
+}

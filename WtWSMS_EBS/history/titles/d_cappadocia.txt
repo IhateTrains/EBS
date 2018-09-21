@@ -1,0 +1,34 @@
+395.1.1 = {
+	holder = 1300321 #fictional
+	liege = e_roman_empire
+}
+395.1.17 = {
+	liege = "e_byzantium"
+}
+400.1.1 = {
+	holder = 1300738 #Achilles
+	liege = k_pontus
+}
+425.1.1 = {
+	holder = 1300739 #Eupnius
+}
+450.1.1 = {
+	holder = 1300740 #Helladius
+}
+475.1.1={
+	holder = 1300860 #Anthemius
+}
+493.1.1={
+	holder=0
+}
+497.5.5={
+	holder = 1300860 #Anthemius
+	liege = k_pontus
+}
+530.1.1={
+	holder=6859 #fictional
+	liege = e_byzantium
+}
+540.1.1={
+	holder=6835 #fictional
+}

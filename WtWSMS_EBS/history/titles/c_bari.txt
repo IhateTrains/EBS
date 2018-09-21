@@ -1,0 +1,50 @@
+390.1.1 = {
+	holder = 1300890 # Anonymus
+	liege = e_roman_empire
+}
+395.1.17 = {
+	liege = e_wre
+}
+450.1.1 = {
+	holder = 1300914 # Cassius Ruferius
+}
+476.9.4={
+	liege = "k_italy"
+}
+494.1.1 = { #Constantius, gov of Apulia
+	holder=1200132
+	liege=d_apulia
+}
+500.1.1={
+	holder= 154006 # Cassiodorus the Elder 
+}
+507.1.1={
+	holder= 154007 # Faustus
+}
+512.1.1={
+	holder= 190096 # Rufius Magnus Faustus Avienus
+}
+528.1.1={
+	holder= 190095 # Cassiodorus the Younger
+}
+536.1.1 = {
+	holder = 31062 # Gallienus Marcellus 
+	liege="e_byzantium"
+}
+543.1.1={
+	holder = 190118 # Totilla
+	liege=0
+}
+552.1.1={
+	holder = 155147 # Thila
+}
+553.1.1 = { #Constantinus
+	holder = 1300698
+	liege = e_byzantium
+}
+570.1.1 = {
+	holder = 31062 # Gallienus Marcellus 
+}
+580.1.1 = {
+	holder = 31063 # Faustus Vigilius 
+}

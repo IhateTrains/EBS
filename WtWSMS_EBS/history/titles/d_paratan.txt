@@ -1,0 +1,17 @@
+#fictional governors of Paratan
+390.1.1={
+	holder = 1300830
+	liege = e_persia
+}
+440.1.1={
+	holder = 1300831
+}
+490.1.1={
+	holder = 1300832
+}
+540.1.1={
+	holder = 1300833
+}
+590.1.1={
+	holder = 1300834
+}

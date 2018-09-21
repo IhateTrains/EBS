@@ -1,0 +1,57 @@
+Next v2.X
+-----------
+
+MINOR:
+- Added two historical governors of Arabia
+- Added Phoebammon, comes et praeses Thebaidis
+- Added Basilianus Macedonius, historical governor of Rhodope
+- Added one historical governor of Galatia
+- Added Agerochius, historical governor of Haemimontus in 535
+- Added Iustinianus, historical governor of Moesia Secunda in 538
+- Added twenty other historical governors in the Eastern Roman Empire
+- Added nine historical governors of Campania
+- Added Claudius Lepidus, historical governor of Germania Prima
+- Added Claudius Postumus Dardanus, historical consularis Viennensis before 407
+- Added two historical governors of Sicily
+- Added two historical governors of Dalmatia
+- Added two historical governors of Apulia
+- Added Valerius Dalmatius, historical praeses of Lugdunensis Tertia
+- Added three historical governors of Tripolitania
+- Added five historical governors of Numidia
+- Added seven other historical governors in the Western Roman Empire
+- Added Demosthenes, historical pater civitatis in the Eastern Roman Empire
+- Added Flavius Vincentius, consul of 401
+- Added Flavius Rumoridus, consul of 403
+- Added Flavius Mallius Theodorus, praetorian prefect of Italy 397-399 and consul of 399
+- Added a lot of Wikipiedia links, mostly to indicate which characters are historical
+
+BUGFIXES:
+- Fixed Theodosius II becoming the Eastern Roman Emperor in 421 instead of 408
+
+2018-08-02 v2.0
+-----------
+
+MAJOR:
+- A 445 bookmark and scrollable history extension
+- Greatly reduced the submod size thanks to @loup99
+
+MINOR:
+- Fixed Syagrius being theocratic in 476
+- Added twenty historical comites Orientis
+- Added Pergamius, praefectus augustalis in 482 with his relatives, including John the Silent
+- Added six other historical praefecti augustales
+- Made Londinium remain under Brittonic control until 470, as suggested by @abian363
+- Added eight historical governors of Palaestina Prima (Iudea in game)
+- Added two historical governors of Syria Salutaris
+- Added three other historical governors
+- Added Theodorus, pater civitatis of Smyrna
+- Added Hilarion, pater civitatis of Jerusalem
+- Added Hierodoxus, pater civitatis of Attalia
+- Fixes for the pentarchy setup
+- Added four kings of the Kidarites
+- Gave Sassanid de-jure province of Paradan to Sassanid empire
+
+2018-07-10 v1.0
+-----------------
+
+- Inital release of Early Bookmarks Submod for WtWSMS, featuring a 459 bookmark and scrollable history extension

@@ -1,0 +1,20 @@
+390.1.1 = {
+	holder = 1300842 #Lupicinius
+	liege = e_roman_empire
+}
+395.1.17 = {
+	liege = e_wre
+}
+430.1.1 = {
+	holder = 1300564 # fictional
+}
+455.1.1={
+	holder = 0
+}
+585.1.1={
+	holder = 1300642 #Anastasius
+	liege = k_africa_prefect
+}
+591.7.1={
+	liege = k_africa
+}

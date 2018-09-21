@@ -1,0 +1,82 @@
+215015 = {
+	name="Youssef"
+	dynasty=1042281
+	religion="miaphysite"
+	culture="coptic"
+	450.1.1={
+		birth="450.1.1"
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+
+215016 = {
+	name="Krystafer" #fictional
+	dynasty=1042282
+	religion="miaphysite"
+	culture="coptic"
+	445.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+
+215017 = {
+	name="Aarôn"
+	dynasty=1042283
+	religion="miaphysite"
+	culture="coptic"
+	450.1.1={
+		birth="450.1.1"
+	}
+	500.1.1={
+		death="500.1.1"
+	}
+}
+1300679 = {
+   	name="Touma" # PLRE vol. 3 Thomas 14
+	#praeses Arcadiae 566
+	religion=miaphysite
+	culture=coptic
+	500.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+
+1300823 = {
+	name = "Strategius" #PLRE vol.2 Fl. Strategius 9
+	# praefectus augustalis a. 518/523
+	dynasty = 1300824 #Apion
+	religion = nicene
+	culture = coptic #of Egyptian origin
+	father = 1300824
+	470.1.1 = { birth = yes }
+	540.1.1 = { death = yes }
+}
+1300824 = {
+	name = "Apion" #PLRE vol.2 Apion 2
+	dynasty = 1300824 #Apion
+	religion = monophysite
+	culture = coptic #native of Egypt
+	450.1.1 = { birth = yes }
+	510.1.1 = { add_trait = detached_priest } #forcibly ordained priest
+	518.1.1 = { remove_trait = detached_priest }
+	519.1.1 = { religion = nicene }
+	530.1.1 = { death = yes }
+}
+1300825 = {
+	name = "Heraclides" #PLRE vol.2 Heraclides
+	dynasty = 1300824 #Apion
+	religion = nicene
+	culture = coptic #of Egyptian origin
+	father = 1300824
+	475.1.1 = { birth = yes }
+	510.1.1 = { add_trait = detached_priest }
+	545.1.1 = { death = yes }
+}

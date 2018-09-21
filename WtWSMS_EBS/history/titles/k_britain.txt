@@ -1,0 +1,16 @@
+395.1.1 = {
+	holder = 1300836 # Chrystanthus
+	liege = e_roman_empire
+}
+395.1.17 = {
+	liege = e_wre
+}
+445.1.1 = {
+	holder = 159056 # Vortigern
+}
+459.1.1 = {
+	holder = 190007 # Ambrosius Aurelianus
+}
+470.1.1={
+	holder = 0
+}

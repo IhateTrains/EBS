@@ -1,0 +1,13 @@
+390.1.1 = {
+	holder = 1300901 #Valerius Dalmatius
+	liege = k_gallia
+}
+450.1.1 = {
+	holder = 1300581 #fictional
+}
+457.1.1 = {
+	liege = k_soissons
+}
+466.1.1={
+	holder=307 #Romano Gauls
+}

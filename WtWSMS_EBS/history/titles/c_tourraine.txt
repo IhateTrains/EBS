@@ -1,0 +1,63 @@
+380.1.1 = {
+	de_jure_liege = d_lugdunensis_tertia
+}
+390.1.1 = {
+	holder = 1300901 #Valerius Dalmatius
+	liege = k_gallia
+}
+408.1.1={
+	liege="e_britannia"
+}
+409.1.1 = {
+	liege = k_gallia
+}
+450.1.1 = {
+	holder = 1300581 #fictional
+}
+457.1.1 = {
+	liege = k_soissons
+}
+466.1.1={ 
+	holder=307 #Romano Gauls
+}
+486.1.1={
+	holder = 40
+	liege = k_franks
+}
+511.1.1={
+	holder = 10076 # Chlodomer Meroving 
+}
+524.1.1={
+	holder = 106520 # Childebert Meroving 
+}
+558.1.1={
+	holder = 106522 # Chlothar Meroving 
+}
+561.11.29={
+	holder = 206851 # Charibert Meroving 
+}
+567.1.1={
+	holder = 30021 # Chilperic Meroving 
+}
+580.1.1={
+	holder = 1300762 # Eunomius
+	liege = k_neustria
+}
+584.1.1={
+	holder = 30021 # Chilperic Meroving
+	liege = 0
+}
+584.9.27={
+	holder = 1300750 # Willacharius
+	liege = k_neustria #not very accurate
+}
+585.1.1 = {
+	liege = d_limonum
+}
+588.1.1 = {
+	liege = k_neustria
+}
+590.1.1={
+	holder = 30029 # Chlothar II Meroving 
+	liege = 0
+}

@@ -1,0 +1,40 @@
+380.1.1={
+	holder = 1300916 # Theodotus
+	liege = k_asia
+}
+406.6.1={
+	holder=1300007 # Iulianus
+	liege = e_byzantium
+}
+408.1.1={
+	holder=1300008 # Anatolius
+}
+410.1.1={
+	holder=1300009 # Anthemius
+}
+436.1.1={
+	holder=1300010 # Nonnus
+}
+437.1.1={
+	holder=1300011 # Ignatius
+}
+438.1.1={
+	holder=1300012 # Zosimianus
+}
+439.1.1={
+	holder=1300013 # Heliodorus
+}
+449.1.1={
+	holder=215003 # Probulus
+}
+470.1.1 = {
+	holder = 1300863 # Epiphanius
+	liege = k_asia
+}
+530.1.1={
+	holder=6826 #fictional
+	liege = e_byzantium
+}
+540.1.1={
+	holder=6825 #fictional
+}

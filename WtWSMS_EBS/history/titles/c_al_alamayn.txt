@@ -1,0 +1,26 @@
+1.1.1={
+	liege="k_egypt"
+}
+392.7.30 = {
+	holder = 1300323 #Damonicus
+}
+394.1.1 = {
+	holder = 1300324 #Theodorus
+}
+395.1.1={
+	holder = 1300813 # Donatus
+	liege = "k_egypt"
+}
+465.1.1={
+	holder=215017
+}
+470.1.1={
+	holder = 1300865 #Hilarius
+}
+530.1.1	= {
+	holder = 1300823 #Fl. Strategius
+	liege = e_byzantium
+}
+538.1.1={
+	holder=154003 # Petrus Marcellinus Felix Liberius
+}

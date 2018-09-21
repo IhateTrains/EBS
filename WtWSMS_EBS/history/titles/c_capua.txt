@@ -1,0 +1,81 @@
+328.1.1={
+	holder=190016 
+	liege = "e_roman_empire"
+}
+380.1.1={
+	holder = 1300912 #Pontius Salutus
+}
+395.1.17={
+	liege = e_wre
+}
+395.6.1 = {
+	holder = 1300554 #Sibidius
+}
+396.1.1 = {
+	holder = 1300020 # Helpidius
+}
+397.1.1={
+	holder = 1300910 # Gracchus
+}
+398.1.1 = {
+	holder = 1300911 #Caecina Decius Albinus Iunior
+}
+400.1.1 = {
+	holder = 1300849 #Severus
+}
+401.6.1 = {
+	holder = 1300850 #Felix
+}
+405.1.1 = {
+	holder = 1300851 #Postumius Lampadius
+}
+408.1.1 = {
+	holder = 1300852 #Pontius Proserius Paulinus
+}
+425.1.1 = {
+	holder = 1300913 #Aemilius Rufinus
+}
+455.1.1 = {
+	holder = 1300915 #Anonymus
+}
+476.9.4={
+	liege = "k_italy"
+}
+507.1.1={
+	holder=1200146 # Ioannes
+}
+512.1.1={
+	holder= 190096 # Rufius Magnus Faustus Avienus
+	liege = k_italy
+}
+528.1.1={
+	holder= 190095 # Cassiodorus the Younger
+}
+536.1.1 = {
+	holder = 31062 # Gallienus Marcellus 
+	liege="e_byzantium"
+}
+543.1.1={
+	holder = 190118 # Totilla
+	liege=0
+}
+552.1.1={
+	holder = 155147 # Thila
+}
+553.1.1 = {
+	holder = 31062 # Gallienus Marcellus 
+	liege="e_byzantium"
+}
+570.1.1={
+	holder = 31106 # Faroald Farualding 
+	liege="k_lombardia"
+}
+592.1.1={
+	holder = 31108 # Ariulf Farualding
+}
+599.1.1={
+	holder = 1300638 #Gudescalcus
+}
+602.1.1={
+	holder = 31113 # Theodelap Farualding
+}

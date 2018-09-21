@@ -1,0 +1,41 @@
+380.1.1={
+	holder=1300002 # Mesalinus
+	liege = "k_asia"
+}
+395.9.3={
+	holder=1300003 # Aurelianus
+}
+396.3.21={
+	holder=1300004 # Aetermalis
+}
+396.3.25={
+	holder=1300005 # Simplicius
+}
+396.7.22={
+	holder=1300006 # Nebridius
+}
+397.1.9={
+	holder=1300007 # Iulianus
+}
+400.1.1={
+	holder = 1300869 # Demosthenes, pater civitatis
+	liege = k_asia
+}
+460.1.1={
+	holder=215003 # Probulus
+	liege = e_byzantium
+}
+490.1.1={
+	holder = 1300810 # Theodorus, pater civitatis
+	liege = k_asia
+}
+521.1.1={
+	liege = d_lydia
+}
+540.1.1={
+	liege = k_asia
+}
+550.1.1={
+	holder=6825
+	liege="e_byzantium"
+}
