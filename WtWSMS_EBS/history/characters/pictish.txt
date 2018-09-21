@@ -172,7 +172,7 @@
 	trait="strong"
 	trait="duelist"
 	trait="brilliant_strategist"
-	388.1.1={
+	368.1.1={
 		birth="368.1.1"
 	}	
 	425.1.1={
