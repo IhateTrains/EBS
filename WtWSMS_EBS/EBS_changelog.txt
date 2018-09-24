@@ -7,7 +7,7 @@ MINOR:
 - Added Basilianus Macedonius, historical governor of Rhodope
 - Added one historical governor of Galatia
 - Added Iustinianus, historical governor of Moesia Secunda in 538
-- Added twenty other historical governors in the Eastern Roman Empire
+- Added nineteen other historical governors in the Eastern Roman Empire
 - Added nine historical governors of Campania
 - Added Claudius Lepidus, historical governor of Germania Prima
 - Added Claudius Postumus Dardanus, historical consularis Viennensis before 407
