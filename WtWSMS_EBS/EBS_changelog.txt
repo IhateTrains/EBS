@@ -6,7 +6,6 @@ MINOR:
 - Added Phoebammon, comes et praeses Thebaidis
 - Added Basilianus Macedonius, historical governor of Rhodope
 - Added one historical governor of Galatia
-- Added Agerochius, historical governor of Haemimontus in 535
 - Added Iustinianus, historical governor of Moesia Secunda in 538
 - Added twenty other historical governors in the Eastern Roman Empire
 - Added nine historical governors of Campania
