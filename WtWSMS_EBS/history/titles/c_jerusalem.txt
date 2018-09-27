@@ -1,3 +1,6 @@
+1.1.1 = {
+	set_global_flag = pat_jerusalem
+}
 390.1.1 = {
 	holder = 1300802 #Anonymus
 	liege = k_oriens
