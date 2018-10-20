@@ -19,8 +19,8 @@ bm_end_severans = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
@@ -45,8 +45,8 @@ bm_crisis_third_century = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
@@ -71,8 +71,8 @@ bm_disident_empires = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
@@ -97,8 +97,8 @@ bm_aurelian = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
@@ -123,8 +123,8 @@ bm_tetrarchy = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
@@ -149,8 +149,8 @@ bm_constantine = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
@@ -175,8 +175,8 @@ bm_division = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
@@ -201,8 +201,8 @@ bm_julian = {
 			#culture =
 			#government =
 			#dynasty =
-		}
-	}
+		#}
+	#}
 	
 }
 
