@@ -79,7 +79,7 @@ bm_disident_empires = {
 bm_aurelian = {
 	name = "BM_AURELIAN_ERA"
 	desc = "BM_AURELIAN_ERA_INFO"
-	date = 238.3.19
+	date = 270.3.19
 	
 	#era = no
 		
