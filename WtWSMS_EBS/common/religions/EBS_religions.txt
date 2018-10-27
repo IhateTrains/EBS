@@ -12,15 +12,15 @@ pagan_group = {
 	
 	# Names given only to Pagan characters (base names)
 	male_names = {
-		Anund Asbjörn Aslak Audun Bagge Balder Brage Egil Emund Frej Gnupa Gorm Gudmund Gudröd Hardeknud Helge Odd Orm 
-		Orvar Ottar Rikulfr Rurik Sigbjörn Styrbjörn Starkad Styrkar Sämund Sölve Sörkver Thorolf Tjudmund Toke Tolir 
-		Torbjörn Torbrand Torfinn Torgeir Toste Tyke
+		Anund AsbjÃ¶rn Aslak Audun Bagge Balder Brage Egil Emund Frej Gnupa Gorm Gudmund GudrÃ¶d Hardeknud Helge Odd Orm 
+		Orvar Ottar Rikulfr Rurik SigbjÃ¶rn StyrbjÃ¶rn Starkad Styrkar SÃ¤mund SÃ¶lve SÃ¶rkver Thorolf Tjudmund Toke Tolir 
+		TorbjÃ¶rn Torbrand Torfinn Torgeir Toste Tyke
 	}
 	female_names = {
-		Aslaug Bothild Björg Freja Grima Gytha Kráka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde
+		Aslaug Bothild BjÃ¶rg Freja Grima Gytha KrÃ¡ka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde
 	}
 	
-	cult_of_despoina = {
+	hellenic_pagan_solar = {
 		graphical_culture = westerngfx
 
 		pre_reformed = yes
@@ -31,21 +31,20 @@ pagan_group = {
 		heresy_icon = 91
 
 		color = { 0.07 0.3 0.65}
-		parent = hellenic_pagan\
+		parent = hellenic_pagan
 
-		high_god_name = GOD_DESPOINA
+		high_god_name = GOD_SOL INVICTUS
 		god_names = {
-			GOD_DEMETER GOD_ARTEMIS GOD_POSEIDON
+			GOD_APOLLO GOD_HELIOS
 		}
 		evil_god_name = {
-			GOD_HADES #We don't know who this was, so I'm going with the Panhellenic god of death
+			GOD_NYX #Their wasn't really a concept of evil gods in Sol Invictus's cult,so I put the goddess of night
 		}
 
 		crusade_name = GREAT_HOLY_WAR
 		can_call_crusade = yes
-		scripture_name = THE_LEGENDS
-		priest_title = AUGUR #Mystery Religion so I'm going with hellenic title
+		scripture_name = BOOK_OF_SOL_INVICTUS #fictional scripture name
+		priest_title = AUGUR 
 		priests_can_marry = yes
-		female_temple_holders = yes
 	}
 }
