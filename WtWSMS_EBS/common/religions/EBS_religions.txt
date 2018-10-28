@@ -19,32 +19,5 @@ pagan_group = {
 	female_names = {
 		Aslaug Bothild Björg Freja Grima Gytha Kráka Malmfrid Thora Thordis Thyra Ragnfrid Ragnhild Svanhild Ulvhilde
 	}
-	
-	hellenic_pagan_solar = {
-		graphical_culture = westerngfx
 
-		pre_reformed = yes
-
-		ai_convert_other_group = 2
-
-		icon = 90
-		heresy_icon = 91
-
-		color = { 0.07 0.3 0.65}
-		parent = hellenic_pagan
-
-		high_god_name = GOD_SOL INVICTUS
-		god_names = {
-			GOD_APOLLO GOD_HELIOS
-		}
-		evil_god_name = {
-			GOD_NYX #Their wasn't really a concept of evil gods in Sol Invictus's cult,so I put the goddess of night
-		}
-
-		crusade_name = GREAT_HOLY_WAR
-		can_call_crusade = yes
-		scripture_name = BOOK_OF_SOL_INVICTUS #fictional scripture name
-		priest_title = AUGUR 
-		priests_can_marry = yes
 	}
-}
