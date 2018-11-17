@@ -3,16 +3,77 @@
 	law = succ_seniority
 	law = agnatic_succession
 }
-355.1.1 = {
-	holder = 190016 
+235.3.20 = {
+	holder = 145265
 	liege = "e_roman_empire"
+	de_jure_liege = "e_roman_empire"
+}
+238.5.3 = {
+	holder = 145262
+}
+244.2.11 = {
+	holder = 70526
+}
+247.5.1 = {
+	holder = 70525
+}
+249.9.1 = {
+	holder = 1400004
+}
+251.6.3 = {
+	holder = 1400005
+}
+251.11.3 = {
+	holder = 1400006
+}
+253.8.1 = {
+	holder = 145256
+}
+253.10.22 = {
+	holder = 145255
+}
+260.6.1 = {
+	holder = 145255
+}
+268.9.1 = {
+	holder = 145252
+}
+270.1.15 = {
+	holder = 145253
+}
+275.9.25 = {
+	holder = 145247
+}
+276.6.1 = {
+	holder = 145248
+}
+276.9.1 = {
+	holder = 145245
+}
+282.10.1 = {
+	holder = 145242
+}
+283.1.1 = {
+	holder = 145244
+}
+283.8.1 = {
+	holder = 145243
+}
+285.7.1 = {
+	holder = 145241
+}
+286.4.1 = {
+	holder = 0
+}
+355.1.1 = {
+	holder = 190016
 }
 395.1.17={
 	liege = "e_wre"
 }
-397.1.1 = { #397-399
-	holder = 1300877 # Flavius Mallius Theodorus
-}
+397.1.1 = { #397-399 
+	holder = 1300877 # Flavius Mallius Theodorus 
+} 
 409.1.1 = {
 	holder = 1300117 # Iovius
 }
