@@ -24,12 +24,16 @@
 	religion="pagan"
 }
 1308 = { #credits to BTWK
-	name="Uí Fiachrach"
+	name="UÃ­ Fiachrach"
 	culture = irish
 }
 1310 = {
-	name="Uí Briúin" #credits to BTWK
+	name="UÃ­ BriÃºin" #credits to BTWK
 	culture = irish
+}
+	1300839 = { 
+	name = "tes Kyrene" 
+	culture = greek 
 }
 1000124279 = {
 	name = "Ingving"
@@ -47,7 +51,23 @@
 	name = "Paradan"
 	culture = persian
 }
-1300839 = {
-	name = "tes Kyrene"
-	culture = greek
+10000000000 = {
+	name = "Iulius"
+	culture = roman
+}
+10000000001 = {
+	name = "Scipio"
+	culture = roman
+}
+10000000002 = {
+	name = "Decius"
+	culture = roman
+}
+10000000003 = {
+	name = "Gothicus"
+	culture = roman
+}
+10000000004 = {
+	name = "Carus"
+	culture = roman
 }
