@@ -1210,7 +1210,13 @@
 		death="290.1.1"
 	}
 }
-
+145250 = {
+	name="Aurelian"
+	religion="latin_solar"
+	culture="roman"
+	214.9.9 = { birth = yes }
+	275.10.1 = { death = yes }
+}
 145251 = {
 	name="Valerius"
 	dynasty=1022205
@@ -1224,7 +1230,23 @@
 		death="240.1.1"
 	}
 }
-
+145252 = {
+	name = "Claudius"
+	dynasty = 10000000003
+	religion = "hellenic_pagan"
+	culture = "roman"
+	trait = "tough_soldier"
+	214.5.10 = { birth = yes }
+	270.1.15 = { death = yes }
+}
+145253 = {
+	name = "Quintillus"
+	dynasty = 10000000003
+	religion = "hellenic_pagan"
+	culture = "roman"
+	210.5.10 = { birth = yes }
+	270.5.1 = { death = yes }
+}
 145254 = {
 	name="Valerian"
 	# Caesar Publius Licinius Valerianus Augustus
@@ -1286,7 +1308,15 @@
 		death="253.7.1"
 	}
 }
-
+145258 = {
+	name = "Decius"
+	dynasty=10000000002
+	religion = "hellenic_pagan"
+	culture = "roman"
+	add_trait = "tough_soldier"
+	201.1.1 = { birth = yes }
+	251.6.4 = { death=yes }
+	
 145259 = {
 	name="Gordian"
 	# Caesar Marcus Antonius Gordianus Sempronianus Africanus Augustus
@@ -3114,7 +3144,7 @@
 	}
 }
 190008 = {
-	name="Anicius Acilius" #PLRE vol.2 Anicius Acilius Aginantius Faustus 4
+	name="Anicius Acilius"  #PLRE vol.2 Anicius Acilius Aginantius Faustus 4
 	# Consul of 483 and Prefect of Rome in 475- 482
 	dynasty=1042300
 	religion="nicene"
@@ -4081,7 +4111,6 @@
 }
 1300013 = {
 	name="Heliodorus" #PLRE vol.2 Fl. Heliodorus 9
-	#?provincial governor, later proconsul of Asia
 	religion="nicene"
 	culture="roman"
 	370.1.1={
@@ -4161,8 +4190,8 @@
 	}
 }
 1300020 = {
-	name="Helpidius" #PLRE vol.2 Helpidius 1
-	#?consularis Campaniae a. 396, ?proconsul Africae 402
+	name="Helpidius" PLRE vol.2 Helpidius 1 
+	#?consularis Campaniae a. 396, ?proconsul Africae 402 
 	religion="hellenic_pagan" #pagan
 	culture="roman"
 	361.1.1={
@@ -4904,12 +4933,6 @@
 	470.1.1={
 		birth=yes
 	}
-	516.1.1 = {
-		employer = 1300864
-		effect = {
-			give_minor_title = title_commander
-		}
-	}
 	540.1.1={
 		death=yes
 	}
@@ -5407,8 +5430,8 @@
 	# governor of Sicily 400
 	religion = nicene
 	culture = roman
-	380.1.1 = { birth = yes }
-	439.1.1 = { death = yes }
+	350.1.1 = { birth = yes }
+	410.1.1 = { death = yes }
 }
 
 1300713 = {
@@ -5823,8 +5846,8 @@
 	religion = nicene
 	culture = roman
 	trait = zealous
-	430.1.1 = { birth = yes }
-	490.1.1 = { death = yes }
+	410.1.1 = { birth = yes }
+	480.1.1 = { death = yes }
 }
 1300806 = {
 	name = "Palladius" #PLRE vol.2 Palladius 16
@@ -5905,3 +5928,87 @@
 	450.1.1 = { birth = yes }
 	520.1.1 = { death = yes }
 }
+1400000 = {
+	name - "Claudius"
+	dynasty = 10000000000
+	religion = hellenic_pagan
+	culture = roman
+	205.1.1 = { birth = yes }
+	255.1.1 = { death = yes }
+}
+1400001 = {
+	name = "Valerius"
+	dynasty = 10000000000
+	religion = hellenic_pagan
+	culture = roman
+	236.1.5 = { birth = yes }
+	268.9.1 = { death = yes }
+}
+1400002 = {
+	name = "Octavius"
+	dynasty = 10000000000
+	religion = hellenic_pagan
+	culture = roman
+	268.1.1 = { birth = yes }
+	314.9.18 = { death = yes }
+}
+1400003 = {
+	name = "Brutus"
+	dynasty = 10000000000
+	religion = nicene
+	culture = roman
+	298.1.1 = { birth = yes }
+	363.1.1 = { death = yes }
+}
+1400004 = {
+	name = "Herennius"
+	#Herennius Etruscus
+	dynasty = 10000000002
+	religion = "hellenic_pagan"
+	culture = "roman"
+	trait = "tough_soldier"
+	227.1.1 = { birth = yes }
+	251.6.3 = { death = yes }
+}
+1400005 = {
+	name = "Hostilian"
+	dynasty = 10000000002
+	religion = "hellenic_pagan"
+	culture = "roman"
+	230.1.1 = { birth = yes }
+	251.11.3 = { death = yes }
+}
+1400006 = {
+	name = "Volusianus"
+	dynasty = 1022208
+	religion = "hellenic_pagan"
+	culture = "roman"
+	230.1.1 = { birth = yes }
+	253.8.1 = { death = yes }
+}
+145242 = {
+	name = "Carus"
+	dynasty = 10000000004
+	religion = "hellenic_pagan"
+	culture = "roman"
+	trait = "inspiring_leader"
+	222.4.5 = { birth = yes }
+	283.8.1 = { death = yes }
+}
+145243 = {
+	name = "Numerian"
+	dynasty = 10000000004
+	religion = "hellenic_pagan"
+	culture = "roman"
+	251.1.1 = { birth = yes } #Conjectural
+	284.11.20 = { death = yes }
+}
+145244 = {
+	name = "Carinus"
+	dynasty = 10000000004
+	religion = "hellenic_pagan"
+	culture = "roman"
+	244.1.1 = { birth = yes } #Conjectural
+	2857.1 = { death = yes }
+}
+
