@@ -51,23 +51,23 @@
 	name = "tes Kyrene"
 	culture = greek
 }
-10000000000 = {
+1320000 = {
 	name = "Iulius"
 	culture = roman
 }
-10000000001 = {
+1320001 = {
 	name = "Scipio"
 	culture = roman
 }
-10000000002 = {
+1320002 = {
 	name = "Decius"
 	culture = roman
 }
-10000000003 = {
+1320003 = {
 	name = "Gothicus"
 	culture = roman
 }
-10000000004 = {
+1320004 = {
 	name = "Carus"
 	culture = roman
 }
