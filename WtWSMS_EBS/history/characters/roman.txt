@@ -1210,13 +1210,6 @@
 		death="290.1.1"
 	}
 }
-145250 = {
-	name="Aurelian"
-	religion="latin_solar"
-	culture="roman"
-	214.9.9 = { birth = yes }
-	275.10.1 = { death = yes }
-}
 145251 = {
 	name="Valerius"
 	dynasty=1022205
@@ -1229,23 +1222,6 @@
 	240.1.1={
 		death="240.1.1"
 	}
-}
-145252 = {
-	name = "Claudius"
-	dynasty = 10000000003
-	religion = "hellenic_pagan"
-	culture = "roman"
-	trait = "tough_soldier"
-	214.5.10 = { birth = yes }
-	270.1.15 = { death = yes }
-}
-145253 = {
-	name = "Quintillus"
-	dynasty = 10000000003
-	religion = "hellenic_pagan"
-	culture = "roman"
-	210.5.10 = { birth = yes }
-	270.5.1 = { death = yes }
 }
 145254 = {
 	name="Valerian"
@@ -1308,15 +1284,6 @@
 		death="253.7.1"
 	}
 }
-145258 = {
-	name = "Decius"
-	dynasty=10000000002
-	religion = "hellenic_pagan"
-	culture = "roman"
-	add_trait = "tough_soldier"
-	201.1.1 = { birth = yes }
-	251.6.4 = { death=yes }
-	
 145259 = {
 	name="Gordian"
 	# Caesar Marcus Antonius Gordianus Sempronianus Africanus Augustus
@@ -4111,6 +4078,7 @@
 }
 1300013 = {
 	name="Heliodorus" #PLRE vol.2 Fl. Heliodorus 9
+	#? provincial governor,later proconsul of Asia
 	religion="nicene"
 	culture="roman"
 	370.1.1={
@@ -4190,7 +4158,7 @@
 	}
 }
 1300020 = {
-	name="Helpidius" PLRE vol.2 Helpidius 1 
+	name="Helpidius" #PLRE vol.2 Helpidius 1 
 	#?consularis Campaniae a. 396, ?proconsul Africae 402 
 	religion="hellenic_pagan" #pagan
 	culture="roman"
@@ -5430,8 +5398,8 @@
 	# governor of Sicily 400
 	religion = nicene
 	culture = roman
-	350.1.1 = { birth = yes }
-	410.1.1 = { death = yes }
+	380.1.1 = { birth = yes }
+	439.1.1 = { death = yes }
 }
 
 1300713 = {
@@ -5846,8 +5814,8 @@
 	religion = nicene
 	culture = roman
 	trait = zealous
-	410.1.1 = { birth = yes }
-	480.1.1 = { death = yes }
+	430.1.1 = { birth = yes }
+	490.1.1 = { death = yes }
 }
 1300806 = {
 	name = "Palladius" #PLRE vol.2 Palladius 16
