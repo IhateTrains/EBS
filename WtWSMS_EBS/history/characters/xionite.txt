@@ -33,14 +33,15 @@
 }
 
 1300508 = {
-   	name="Ara" # fictional
-   	dynasty=1044035
-	religion="pagan" #animist
+	name="Ara" # fictional
+	dynasty=1044035
+	#xionites probably had animist beliefs
+	religion="hepthal_religion"
 	culture="xionite"
-   	400.1.1={
+	400.1.1={
 		birth=yes
 	}
-   	466.1.1={
+	466.1.1={
 		death=yes
 	}
 }
