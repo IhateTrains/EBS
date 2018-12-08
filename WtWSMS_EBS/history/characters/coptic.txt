@@ -37,7 +37,7 @@
 	}
 }
 1300679 = {
-   	name="Touma" # PLRE vol. 3 Thomas 14
+	name="Touma" # PLRE vol. 3 Thomas 14
 	#praeses Arcadiae 566
 	religion=miaphysite
 	culture=coptic
@@ -49,6 +49,65 @@
 	}
 }
 
+1300771 = {
+	name="Isidorus"
+	# Isidorus of Alexandria
+	dynasty = 13100022
+	religion = nicene
+	culture = coptic
+	trait="mastermind_theologian"
+	trait="scholar"
+	450.1.1={
+		birth=yes
+	}
+	470.1.1 = {
+		add_spouse = 1300772 #Domna
+	}
+	480.1.1={
+		employer=168352 
+	}
+	520.1.1={
+		death=yes
+	}
+}
+1300773 = {
+	name="Proclus"
+	# son of Isidorus
+	dynasty = 13100022
+	religion = nicene
+	culture = coptic
+	father = 1300771
+	mother = 1300772
+	480.1.1={
+		birth=yes
+	}
+	520.1.1={
+		death=yes
+	}
+}
+
+1300323={
+	name=Damonicus #PLRE vol.1 Damonicus
+	culture=coptic
+	religion="monophysite"
+	370.1.1={
+		birth=yes
+	}
+	420.1.1={
+		death=yes
+	}
+}
+1300335 = {
+	name="Cleopater" #PLRE vol.2 Cleopater
+	religion="nicene"
+	culture="coptic"
+	390.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
 1300823 = {
 	name = "Strategius" #PLRE vol.2 Fl. Strategius 9
 	# praefectus augustalis a. 518/523
@@ -79,4 +138,16 @@
 	475.1.1 = { birth = yes }
 	510.1.1 = { add_trait = detached_priest }
 	545.1.1 = { death = yes }
+}
+1300868 = {
+	name="Phoebammon" #PLRE vol.3 Phoebammon 1
+	#comes et praeses Thebaidis 534/535
+	religion = nicene
+	culture = coptic
+	500.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death = yes
+	}
 }
