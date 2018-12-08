@@ -3370,7 +3370,7 @@
 	#consularis Germaniae Primae L IV/E V
 	religion = nicene
 	culture = romano_gallic
-	father = 1300856
+	father = 1300966
 	380.1.1={
 		birth=yes
 	}
@@ -3383,18 +3383,18 @@
 	#consularis Viennensis before 407
 	religion = nicene
 	culture = romano_gallic
-	father = 1300856
+	father = 1300966
 	trait = erudite
 	trait = zealous
 	370.1.1={
 		birth=yes
 	}
-	390.1.1 = {	add_spouse = 1300855 }
+	390.1.1 = {	add_spouse = 1300967 }
 	440.1.1={
 		death = yes
 	}
 }
-1300855 = {
+1300967 = {
 	name="Galla" #PLRE vol.2 Naevia Galla 6
 	female = yes
 	religion = nicene
@@ -3407,7 +3407,7 @@
 	}
 }
 
-1300856 = {
+1300966 = {
 	name="Claudius" #unknown father of 1300853 and 1300854
 	religion = nicene
 	culture = romano_gallic
@@ -3419,7 +3419,7 @@
 	}
 }
 
-1300857 = {
+1300965 = {
 	name="Iulianus" #PLRE vol.2 Iulianus 17
 	#consularis (?East) ?M V/VI
 	religion = nicene
