@@ -1,87 +1,87 @@
 ### Theodosian dynasty, inlaws and Stilichos family ###
 1000000 = {
-	name=" Flavius Theodosius"
+	name = "Flavius Theodosius"
 	# Count Theodosius, father of Theodosius I
-	religion=nicene
-	culture=romano_hispanic
-	dynasty=1022191
-	310.1.1={
+	religion = nicene
+	culture = romano_hispanic
+	dynasty = 1022191
+	310.1.1 = {
 		birth = yes
 	}
-	340.1.1={
+	340.1.1 = {
 		add_spouse = 1000001
 	}
-	376.1.1={
+	376.1.1 = {
 		death = yes
 	}
 }
 
 1000001 = {
-	name="Thermantia"
+	name = "Thermantia"
 	# Mother of Theodosius I
-	religion=nicene
-	culture=romano_hispanic
-	female=yes
-	321.1.1={
+	religion = nicene
+	culture = romano_hispanic
+	female = yes
+	321.1.1 = {
 		birth = yes
 	}
-	340.1.1={
+	340.1.1 = {
 		add_spouse = 1000000
 	}
-	386.1.1={
+	386.1.1 = {
 		death = yes
 	}
 }
 1000002 = {
-	name="Flavius Honorius"
+	name = "Flavius Honorius"
 	# Brother of Theodosius I
-	religion=nicene
-	culture=romano_hispanic
-	father=1000000
-	mother=1000001
-	dynasty=1022191
-	340.1.1={
+	religion = nicene
+	culture = romano_hispanic
+	father = 1000000
+	mother = 1000001
+	dynasty = 1022191
+	340.1.1 = {
 		birth = yes
 	}
-	359.1.1={
+	359.1.1 = {
 		add_spouse = 1000003
 	}
-	384.1.1={
+	384.1.1 = {
 		death = yes
 	}
 }
 1000003 = {
-	name="Maria"
+	name = "Maria"
 	# Wife of Flavius Honorius
-	religion=nicene
-	culture=romano_hispanic
-	female=yes
-	352.1.1={
+	religion = nicene
+	culture = romano_hispanic
+	female = yes
+	352.1.1 = {
 		birth = yes
 	}
-	359.1.1={
+	359.1.1 = {
 		add_spouse = 1000002
 	}
-	408.1.1={
+	408.1.1 = {
 		death = yes
 	}
 }
 10000030 = {
-	name="Serena"
+	name = "Serena"
 	# Wife of Stilicho, married in 384
-	religion=nicene
-	culture=romano_hispanic
-	dynasty=1022191
-	female=yes
-	father=1000002
-	mother=1000003
-	360.1.1={
+	religion = nicene
+	culture = romano_hispanic
+	dynasty = 1022191
+	female = yes
+	father = 1000002
+	mother = 1000003
+	360.1.1 = {
 		birth = yes
 	}
-	384.1.1={
+	384.1.1 = {
 		add_spouse = 1100003
 	}
-	408.1.1={
+	408.1.1 = {
 		death = yes
 	}
 }
