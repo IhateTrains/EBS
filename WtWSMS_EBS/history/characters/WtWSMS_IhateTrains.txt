@@ -2018,17 +2018,6 @@
 ######################################
 #Dioecesis Aegypti (Diocese of Egypt)
 ######################################
-1300323={
-	name=Damonicus #PLRE vol.1 Damonicus
-	culture=coptic
-	religion="monophysite"
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
 1300324={
 	name=Theodorus #PLRE vol.1 Theodorus 19
 	culture=roman
@@ -2139,28 +2128,6 @@
 		death=yes
 	}
 }
-1300335 = {
-	name="Cleopater" #PLRE vol.2 Cleopater
-	religion="nicene"
-	culture="coptic"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
-1300336 = {
-	name="Charmosynus" #PLRE vol.2 Charmosynus
-	religion="nicene"
-	culture="greek"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
 1300337 = {
 	name="Theodorus" #PLRE vol.2 Theodorus 27
 	religion="nicene"
@@ -2180,28 +2147,6 @@
 		birth=yes
 	}
 	470.1.1={
-		death=yes
-	}
-}
-1300339 = {
-	name="Nicolaus" #PLRE vol.2 Nicolaus 1
-	religion="nicene"
-	culture="greek"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
-1300340 = {
-	name="Alexander" #PLRE vol.2 Fl. Alexander 23
-	religion="nicene"
-	culture="greek"
-	430.1.1={
-		birth=yes
-	}
-	485.1.1={
 		death=yes
 	}
 }
@@ -3370,7 +3315,7 @@
 	#consularis Germaniae Primae L IV/E V
 	religion = nicene
 	culture = romano_gallic
-	father = 1300856
+	father = 1300966
 	380.1.1={
 		birth=yes
 	}
@@ -3383,18 +3328,18 @@
 	#consularis Viennensis before 407
 	religion = nicene
 	culture = romano_gallic
-	father = 1300856
+	father = 1300966
 	trait = erudite
 	trait = zealous
 	370.1.1={
 		birth=yes
 	}
-	390.1.1 = {	add_spouse = 1300855 }
+	390.1.1 = {	add_spouse = 1300967 }
 	440.1.1={
 		death = yes
 	}
 }
-1300855 = {
+1300967 = {
 	name="Galla" #PLRE vol.2 Naevia Galla 6
 	female = yes
 	religion = nicene
@@ -3407,7 +3352,7 @@
 	}
 }
 
-1300856 = {
+1300966 = {
 	name="Claudius" #unknown father of 1300853 and 1300854
 	religion = nicene
 	culture = romano_gallic
@@ -3419,7 +3364,7 @@
 	}
 }
 
-1300857 = {
+1300965 = {
 	name="Iulianus" #PLRE vol.2 Iulianus 17
 	#consularis (?East) ?M V/VI
 	religion = nicene
@@ -3545,42 +3490,6 @@
 		death = yes
 	}
 }
-1300867 = {
-	name="Anastasius" #PLRE vol.3 Anastasius 4
-	#comes et dux et praeses Arabiae 532-533
-	religion = nicene
-	culture = greek
-	480.1.1={
-		birth=yes
-	}
-	540.1.1={
-		death = yes
-	}
-}
-1300868 = {
-	name="Phoebammon" #PLRE vol.3 Phoebammon 1
-	#comes et praeses Thebaidis 534/535
-	religion = nicene
-	culture = coptic
-	500.1.1={
-		birth=yes
-	}
-	560.1.1={
-		death = yes
-	}
-}
-1300869 = {
-	name="Demosthenes" #PLRE vol.2 Demosthenes 1
-	#pater civitatis (East, city unknown) E/M V
-	religion = nicene
-	culture = greek
-	380.1.1={
-		birth=yes
-	}
-	460.1.1={
-		death = yes
-	}
-}
 1300870 = {
 	name="Macedonius" #PLRE vol.1 Basilianus Macedonius 7
 	#governor of Rhodope IV/V
@@ -3630,18 +3539,6 @@
 		birth=yes
 	}
 	594.1.1={
-		death = yes
-	}
-}
-1300874 = {
-	name="Euphrantas" #PLRE vol.3 Euphrantas
-	#governor of Galatia Prima L VI
-	religion = nicene
-	culture = greek
-	540.1.1={
-		birth=yes
-	}
-	600.1.1={
 		death = yes
 	}
 }
@@ -3727,18 +3624,6 @@
 		birth=yes
 	}
 	450.1.1={
-		death=yes
-	}
-}
-1300894 = {
-	name="Conon" #PLRE vol.2 Conon 2
-	#?praeses (East) E/M V
-	religion = nicene
-	culture = greek
-	400.1.1={
-		birth=yes
-	}
-	470.1.1={
 		death=yes
 	}
 }

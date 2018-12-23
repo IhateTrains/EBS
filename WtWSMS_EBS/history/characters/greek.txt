@@ -816,6 +816,9 @@
 	trait="greedy"
 	trait="fortune_builder"
 	father=1004025
+	dna="00i00000000"
+	properties="0e0b00000000000000"
+	
 	539.1.1={
 		birth="539.1.1"
 	}
@@ -828,7 +831,7 @@
 }
 
 70511 = {
-	name="Justin"
+	name="Iustinus"
 	# AKA: Ioustinos
 	# Justin II
 	dynasty=1022186
@@ -843,6 +846,9 @@
 	trait="amateurish_plotter"
 	mother=70527
 	father = 1300754 #Dulcidius
+	dna="000ce000000"
+	properties="0f0000000000000000"
+	
 	520.1.1={
 		birth="520.1.1"
 	}
@@ -870,6 +876,9 @@
 	trait="fortune_builder"
 	father=36618
 	mother=1003024
+	dna="000000f0000"
+	properties="0a0a00000000000000"
+	
 	430.7.9={
 		birth="430.7.9"
 		give_nickname = nick_dicoros
@@ -904,6 +913,9 @@
 	trait="zealous"
 	trait="naive_appeaser"
 	father=1001004
+	dna="0cgde0iaa00"
+	properties="ne0b00000000000000"
+	
 	401.1.1={
 		birth="401.1.1"
 	}
@@ -2043,23 +2055,19 @@
 }
 
 7612 = {
-	name="Hadrian"
+	name="Alexander"
 	martial=6
 	diplomacy=7
 	intrigue=8
 	stewardship=8
 	religion="nicene"
-	culture="greek"
+	culture="roman"
 	trait="diligent"
 	trait="patient"
 	trait="zealous"
 	trait="charismatic_negotiator"
 	40.1.1={
 		birth="40.1.1"
-	}
-	107.1.1={
-	name = "Alexander"
-	# AKA: Hadrian
 	}
 	115.1.1={
 		death="115.1.1"
@@ -2200,10 +2208,6 @@
 	trait="charismatic_negotiator"
 	664.1.1={
 		birth="664.1.1"
-	}
-	708.2.4={
-	name = "Constantine"
-	# AKA: Constantinus
 	}
 	715.4.9={
 		death="715.4.9"
@@ -2789,6 +2793,9 @@
 	trait="crusader"
 	father = 1300650
 	mother=1004022
+	dna="00000000000"
+	properties="0i00n0000000000000"
+	
 	575.1.1={
 		birth="575.1.1"
 	}
@@ -2809,6 +2816,9 @@
 	trait="arbitrary"
 	trait="cruel"
 	trait="tough_soldier"
+	dna="00000000000"
+	properties="0f00d0000000000000"
+	
 	547.1.1={
 		birth="547.1.1"
 	}
@@ -2828,11 +2838,14 @@
 	trait="kind"
 	trait="cynical"
 	trait="thrifty_clerk"
+	dna="00000000000"
+	properties="0a0d00000000000000"
+	
 	520.1.1={
 		birth="520.1.1"
- 	}
+	}
 	540.1.1={
- 		add_spouse=1004012
+		add_spouse=1004012
 	}
 	582.8.14={
 		death="582.8.14"
@@ -3237,6 +3250,9 @@
 	trait="ambitious"
 	trait="skilled_tactician"
 	father=1001006
+	dna="00i0i0g0000"
+	properties="0a0000000000000000"
+	
 	430.1.1={
 		birth="430.1.1"
 	}
@@ -4308,6 +4324,31 @@
 	400.1.1 = { birth = yes }
 	475.1.1 = { death = yes }
 }
+1300774 = {
+	name="Hegias"
+	# Neoplatonist philosopher
+	dynasty = 13100023
+	religion = neoplatonist
+	culture = greek
+	trait="mastermind_theologian"
+	trait="scholar"
+	450.1.1={
+		birth=yes
+	}
+	480.1.1={
+		employer=168352 
+	}
+	485.4.17 = {
+		effect = {
+			add_rival = 168353 # Marinus
+			add_rival = 1300771 # Isidorus
+			add_rival = 1300775 # Damascius
+		}
+	}
+	520.1.1={
+		death=yes
+	}
+}
 1300776 = {
 	name = "Basilius" #PLRE vol.2 Basilius 7
 	# comes Orientis 507
@@ -4428,25 +4469,6 @@
 	360.1.1 = { birth = yes }
 	440.1.1 = { death = yes }
 }
-1300808 = {
-	name = "Thomas" #PLRE vol.2 Thomas 8
-	# consularis of Palaestina Prima L V/E VI
-	religion = nicene
-	culture = greek
-	trait = just
-	trait = erudite
-	440.1.1 = { birth = yes }
-	510.1.1 = { death = yes }
-}
-1300809 = {
-	name = "Alexander" #PLRE vol.2 Fl. Procopius Const. Severus Alexander 24
-	# consularis of Palaestina Prima E VI
-	religion = nicene
-	culture = greek
-	trait = wroth
-	470.1.1 = { birth = yes }
-	540.1.1 = { death = yes }
-}
 1300810 = {
 	name = "Theodorus" #PLRE vol.2 Theodorus 47
 	# pater civitatis of Smyrna V/VI
@@ -4465,6 +4487,98 @@
 	trait = architect
 	480.1.1 = { birth = yes }
 	560.1.1 = { death = yes }
+}
+1300838 = {
+	name="Herodes" #PLRE vol.2 Herodes 2
+	#praeses (East) L IV/E V
+	dynasty = 1300839
+	religion = nicene
+	culture = greek
+	father = 1300839
+	370.1.1={
+		birth=yes
+	}
+	430.1.1={
+		death=yes
+	}
+}
+1300839 = {
+	name="Harmonius" #PLRE vol.2 Harmonius
+	dynasty = 1300839
+	religion = nicene
+	culture = greek
+	340.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1300840 = {
+	name="Aeschines" #PLRE vol.2 Aeschines
+	dynasty = 1300839
+	religion = nicene
+	culture = greek
+	father = 1300839
+	360.1.1={
+		birth=yes
+	}
+	420.1.1={
+		death=yes
+	}
+}
+
+1300336 = {
+	name="Charmosynus" #PLRE vol.2 Charmosynus
+	religion="nicene"
+	culture="greek"
+	390.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+1300339 = {
+	name="Nicolaus" #PLRE vol.2 Nicolaus 1
+	religion="nicene"
+	culture="greek"
+	390.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+1300340 = {
+	name="Alexander" #PLRE vol.2 Fl. Alexander 23
+	religion="nicene"
+	culture="greek"
+	430.1.1={
+		birth=yes
+	}
+	485.1.1={
+		death=yes
+	}
+}
+1300808 = {
+	name = "Thomas" #PLRE vol.2 Thomas 8
+	# consularis of Palaestina Prima L V/E VI
+	religion = nicene
+	culture = greek
+	trait = just
+	trait = erudite
+	440.1.1 = { birth = yes }
+	510.1.1 = { death = yes }
+}
+1300809 = {
+	name = "Alexander" #PLRE vol.2 Fl. Procopius Const. Severus Alexander 24
+	# consularis of Palaestina Prima E VI
+	religion = nicene
+	culture = greek
+	trait = wroth
+	470.1.1 = { birth = yes }
+	540.1.1 = { death = yes }
 }
 1300819 = {
 	name = "Theodorus" #PLRE vol.2 Theodorus 32
@@ -4491,4 +4605,89 @@
 	culture = greek #native of Antioch
 	450.1.1 = { birth = yes }
 	516.6.1 = { death = yes }
+}
+1300867 = {
+	name="Anastasius" #PLRE vol.3 Anastasius 4
+	#comes et dux et praeses Arabiae 532-533
+	religion = nicene
+	culture = greek
+	480.1.1={
+		birth=yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+1300869 = {
+	name="Demosthenes" #PLRE vol.2 Demosthenes 1
+	#pater civitatis (East, city unknown) E/M V
+	religion = nicene
+	culture = greek
+	380.1.1={
+		birth=yes
+	}
+	460.1.1={
+		death = yes
+	}
+}
+1300874 = {
+	name="Euphrantas" #PLRE vol.3 Euphrantas
+	#governor of Galatia Prima L VI
+	religion = nicene
+	culture = greek
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death = yes
+	}
+}
+1300894 = {
+	name="Conon" #PLRE vol.2 Conon 2
+	#?praeses (East) E/M V
+	religion = nicene
+	culture = greek
+	400.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+1300926 = {
+	name="Anatolius" #PLRE vol.3 Anatolius 10
+	#comes et praeses Arcadiae VI
+	religion="nicene"
+	culture="greek"
+	500.1.1 = {
+		birth=yes
+	}
+	560.1.1 = {
+		death=yes
+	}
+}
+1300955 = {
+	name="Dioscorus" #PLRE vol. 3 Dioscorus 2
+	#praefectus augustalis 535
+	religion="nicene"
+	culture="greek"
+	trait = zealous
+	490.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+1300960 = {
+	name="Ioannes" #PLRE vol. 3 Ioannes 139
+	#vicarius Thraciae VI
+	religion="nicene"
+	culture="greek"
+	510.1.1={
+		birth=yes
+	}
+	570.1.1={
+		death=yes
+	}
 }

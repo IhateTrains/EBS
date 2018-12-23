@@ -21,6 +21,7 @@ MINOR:
 - Added Demosthenes, historical pater civitatis in the Eastern Roman Empire
 - Added Flavius Mallius Theodorus, praetorian prefect of Italy 397-399 and consul of 399
 - Added a lot of Wikipiedia links, mostly to indicate which characters are historical
+- Changed the Xionite ruler's religion to Hephthalite
 
 BUGFIXES:
 - Fixed Theodosius II becoming the Eastern Roman Emperor in 421 instead of 408

@@ -51,3 +51,23 @@
 	name = "tes Kyrene"
 	culture = greek
 }
+1320000 = {
+	name = "Iulius"
+	culture = roman
+}
+1320001 = {
+	name = "Scipio"
+	culture = roman
+}
+1320002 = {
+	name = "Decius"
+	culture = roman
+}
+1320003 = {
+	name = "Gothicus"
+	culture = roman
+}
+1320004 = {
+	name = "Carus"
+	culture = roman
+}

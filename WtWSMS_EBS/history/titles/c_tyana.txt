@@ -3,7 +3,7 @@
 	liege = "k_pontus"
 }
 430.1.1 = {
-	holder = 1300857 #Iulianus
+	holder = 1300965 #Iulianus
 }
 480.1.1={
 	holder = 215004 #fictional
