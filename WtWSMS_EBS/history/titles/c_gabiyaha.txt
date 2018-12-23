@@ -1,11 +1,14 @@
 1.1.1={
-	liege="k_egypt"
+	liege="e_roman_empire"
 }
 392.7.30 = {
 	holder = 1300323 #Damonicus
 }
 394.1.1 = {
 	holder = 1300324 #Theodorus
+}
+395.1.17 = {
+	liege = "e_byzantium"
 }
 396.2.5 = {
 	holder = 1300325 #Gennadius Torquatus
@@ -91,6 +94,12 @@
 516.6.1	= {
 	holder = 1300823 #Fl. Strategius
 }
-538.1.1={
-	holder=154003 # Petrus Marcellinus Felix Liberius
+530.1.1 = {
+	holder = 1300955 # Dioscorus
+}
+536.1.1 = {
+	holder = 1300954 # Rhodon
+}
+539.1.1 = {
+	holder = 154003 # Petrus Marcellinus Felix Liberius
 }
