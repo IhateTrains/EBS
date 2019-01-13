@@ -2948,7 +2948,7 @@
 	}
 }
 1300836 = {
-	name="Chrystanthus" #PLRE vol.1 Chrystanthus
+	name="Chrysanthus" #PLRE vol.1 Chrysanthus
 	#Vicar of Britain
 	religion = nicene #Novatian if added
 	culture = roman
