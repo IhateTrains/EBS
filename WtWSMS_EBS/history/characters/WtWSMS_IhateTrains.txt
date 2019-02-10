@@ -586,7 +586,6 @@
 		death=yes
 	}
 }
-#1300165-1300190 reserved for more magistri
 
 ###################################################################
 #Fictional governors of Moesia Superior and families by Tannerflick
