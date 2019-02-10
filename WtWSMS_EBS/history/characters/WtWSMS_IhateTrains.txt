@@ -586,7 +586,6 @@
 		death=yes
 	}
 }
-#1300165-1300190 reserved for more magistri
 
 ###################################################################
 #Fictional governors of Moesia Superior and families by Tannerflick
@@ -2015,178 +2014,6 @@
 	}
 }
 
-######################################
-#Dioecesis Aegypti (Diocese of Egypt)
-######################################
-1300324={
-	name=Theodorus #PLRE vol.1 Theodorus 19
-	culture=roman
-	religion="nicene"
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
-1300325={
-	name="Gennadius Torquatus" #PLRE vol.2 Gennadius Torquatus
-	culture=roman
-	religion="nicene"
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
-1300326={
-	name=Remigius #PLRE vol.2 Remigius 1
-	culture=roman
-	religion=nicene
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
-1300327={
-	name=Archelaus #PLRE vol.2 Archelaus 2
-	culture=roman
-	religion=hellenic_pagan
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
-1300328={
-	name=Paulacius #PLRE vol.2 Paulacius 1
-	culture=roman
-	religion=hellenic_pagan
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
-1300329={
-	name=Pentadius #PLRE vol.2 Pentadius 1
-	culture=roman
-	religion=hellenic_pagan
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
-1300330={
-	name=Euthalius #PLRE vol.2 Euthalius 2
-	culture=roman
-	religion=hellenic_pagan
-	370.1.1={
-		birth=yes
-	}
-	420.1.1={
-		death=yes
-	}
-}
-1300331 = {
-	name="Paulus" #PLRE vol.2 Anonymus 53
-	religion="nicene"
-	culture="roman"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
-1300332 = {
-	name="Theodorus" #PLRE vol.2 Theodorus 15
-	religion="nicene"
-	culture="roman"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
-1300333 = {
-	name="Callistus" #PLRE vol.2 Callistus 1
-	religion="nicene"
-	culture="roman"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
-1300337 = {
-	name="Theodorus" #PLRE vol.2 Theodorus 27
-	religion="nicene"
-	culture="roman"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
-1300338 = {
-	name="Florus" #PLRE vol.2 Florus 2
-	religion="nicene"
-	culture="roman"
-	390.1.1={
-		birth=yes
-	}
-	470.1.1={
-		death=yes
-	}
-}
-1300341 = {
-	name="Boethius" #PLRE vol.2 Boethius 2
-	religion="nicene"
-	culture="roman"
-	trait="content" #Otherwise might declare independance during Basiliskos's reign before Zeno has a chance to get his throne back
-	430.1.1={
-		birth=yes
-		add_trait = secretly_monophysite
-	}
-	485.1.1={
-		death=yes
-	}
-}
-1300342 = {
-	name="Anthemius" #PLRE vol.2 Anthemius 6
-	religion="nicene"
-	culture="roman"
-	trait="content" #Otherwise might declare independance during Basiliskos's reign before Zeno has a chance to get his throne back
-	430.1.1={
-		birth=yes
-	}
-	485.1.1={
-		death=yes
-	}
-}
-1300343 = {
-	name="Theoctistus" #PLRE vol.2 Theoctistus 4
-	religion="nicene"
-	culture="roman"
-	430.1.1={
-		birth=yes
-	}
-	485.1.1={
-		death=yes
-	}
-}
-
 ######
 #Other
 ######
@@ -3120,7 +2947,7 @@
 	}
 }
 1300836 = {
-	name="Chrystanthus" #PLRE vol.1 Chrystanthus
+	name="Chrysanthus" #PLRE vol.1 Chrysanthus
 	#Vicar of Britain
 	religion = nicene #Novatian if added
 	culture = roman
@@ -3261,54 +3088,6 @@
 		death = yes
 	}
 }
-1300849 = {
-	name="Severus" #PLRE vol.2 Severus 3
-	#consularis Campaniae 400-401
-	religion = nicene
-	culture = roman
-	350.1.1={
-		birth=yes
-	}
-	410.1.1={
-		death = yes
-	}
-}
-1300850 = {
-	name="Felix" #PLRE vol.2 Felix 4
-	#?consularis Campaniae 401
-	religion = nicene
-	culture = roman
-	350.1.1={
-		birth=yes
-	}
-	410.1.1={
-		death = yes
-	}
-}
-1300851 = {
-	name="Lampadius" #PLRE vol.2 Postumius Lampadius 7
-	#?consularis Campaniae 401
-	religion = nicene
-	culture = roman #native of Capua
-	380.1.1={
-		birth=yes
-	}
-	440.1.1={
-		death = yes
-	}
-}
-1300852 = {
-	name="Paulinus" #PLRE vol.2 Pontius Proserius Paulinus 16
-	#consularis Campaniae 409
-	religion = nicene
-	culture = roman
-	380.1.1={
-		birth=yes
-	}
-	440.1.1={
-		death = yes
-	}
-}
 
 1300853 = {
 	name="Lepidus" #PLRE vol.2 Cl. Lepidus
@@ -3405,18 +3184,6 @@
 }
 1300860 = {
 	name="Anthemius" #PLRE vol.2 Anthemius 7
-	#?provincial governor (East) L V/E VI
-	religion = nicene
-	culture = roman
-	450.1.1={
-		birth=yes
-	}
-	530.1.1={
-		death = yes
-	}
-}
-1300861 = {
-	name="Arabianus" #PLRE vol.2 Arabianus
 	#?provincial governor (East) L V/E VI
 	religion = nicene
 	culture = roman
@@ -3624,18 +3391,6 @@
 		birth=yes
 	}
 	450.1.1={
-		death=yes
-	}
-}
-1300895 = {
-	name="Lucas" #PLRE vol.2 Lucas 1
-	#?provincial governor (East) E/M V
-	religion = nicene
-	culture = roman
-	400.1.1={
-		birth=yes
-	}
-	470.1.1={
 		death=yes
 	}
 }

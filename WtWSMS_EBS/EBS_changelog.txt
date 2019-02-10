@@ -2,24 +2,7 @@ Next v2.X
 -----------
 
 MINOR:
-- Added two historical governors of Arabia
-- Added Phoebammon, comes et praeses Thebaidis
-- Added Basilianus Macedonius, historical governor of Rhodope
-- Added one historical governor of Galatia
-- Added Iustinianus, historical governor of Moesia Secunda in 538
-- Added nineteen other historical governors in the Eastern Roman Empire
-- Added nine historical governors of Campania
-- Added Claudius Lepidus, historical governor of Germania Prima
-- Added Claudius Postumus Dardanus, historical consularis Viennensis before 407
-- Added two historical governors of Sicily
-- Added two historical governors of Dalmatia
-- Added two historical governors of Apulia
-- Added Valerius Dalmatius, historical praeses of Lugdunensis Tertia
-- Added three historical governors of Tripolitania
-- Added five historical governors of Numidia
-- Added seven other historical governors in the Western Roman Empire
-- Added Demosthenes, historical pater civitatis in the Eastern Roman Empire
-- Added Flavius Mallius Theodorus, praetorian prefect of Italy 397-399 and consul of 399
+- Added a lot of historical characters
 - Added a lot of Wikipiedia links, mostly to indicate which characters are historical
 - Changed the Xionite ruler's religion to Hephthalite
 
@@ -27,6 +10,7 @@ BUGFIXES:
 - Fixed Theodosius II becoming the Eastern Roman Emperor in 421 instead of 408
 - Added the missing "Steel Arms" nickname
 - Fixed the dynasty of the Balti Visigothic kings
+- Fixed the name of historical vicar of Britannia after 395 from being "Chrystanthus" instead of "Chrysanthus"
 
 2018-08-02 v2.0
 -----------
