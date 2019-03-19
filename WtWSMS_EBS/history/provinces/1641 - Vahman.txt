@@ -1,0 +1,15 @@
+# County Title
+title = c_vahman
+# Settlements
+max_settlements = 1
+
+b_vahman = castle
+
+#Misc
+culture = aramean
+religion = nicene
+
+# History
+431.7.11 = {
+	religion = nestorian
+}
