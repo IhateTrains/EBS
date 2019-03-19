@@ -2130,11 +2130,14 @@
 	name="al-Mundhir"
 	# al-Mundhir ibn al-Mundhir Lakhmid
 	dynasty=1042194
-	religion="nestorian"
+	religion="nicene"
 	culture="khalan"
 	father=143
 	430.1.1 = {
 		birth = yes
+	}
+	431.7.11 = {
+		religion = nestorian
 	}
 	497.1.1 = {
 		death = yes

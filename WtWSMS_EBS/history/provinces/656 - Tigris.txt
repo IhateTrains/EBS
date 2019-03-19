@@ -17,6 +17,9 @@ b_ishan = castle
 
 #Misc
 culture = aramean
-religion = nestorian
+religion = nicene
 
 # History
+431.7.11 = {
+	religion = nestorian
+}

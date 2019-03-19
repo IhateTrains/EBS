@@ -2624,13 +2624,16 @@
 }
 
 145053 = {
-	name="Nestorios"
+	name="Nestorios" # Nestorius
 	dynasty=8649
-	religion="nestorian"
+	religion="nicene"
 	culture="greek"
 	trait="scholarly_theologian"
 	386.1.1={
 		birth="386.1.1"
+	}
+	431.7.11 = {
+		religion = nestorian
 	}
 	451.1.1={
 		death="451.1.1"

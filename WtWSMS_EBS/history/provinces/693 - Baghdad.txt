@@ -20,7 +20,7 @@ b_taji = city
 
 #Misc
 culture = aramean
-religion = nestorian
+religion = nicene
 
 # History
 
@@ -47,7 +47,9 @@ religion = nestorian
 	b_iskandariya = ca_wall_1
 	b_iskandariya = ca_wall_2
 }
-
+431.7.11 = {
+	religion = nestorian
+}
 1066.1.1 = {
 	b_latifiya = castle
 }
