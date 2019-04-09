@@ -6,6 +6,7 @@ MINOR:
 - Added a lot of Wikipiedia links, mostly to indicate which characters are historical
 - Changed the Xionite ruler's religion to Hephthalite
 - Fixed some characters and titles being Nestorian before the Council of Ephesus
+- Made Odoacer's revolt landless
 
 BUGFIXES:
 - Fixed Theodosius II becoming the Eastern Roman Emperor in 421 instead of 408
