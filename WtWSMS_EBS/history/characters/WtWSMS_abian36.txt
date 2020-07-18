@@ -2,7 +2,7 @@
 #          1310000 - 1319999
 ###################################
 
-1310000 = {
+13100000 = {
 	name="Basilius" #PLRE vol.2 Basilius 3
 	religion="hellenic_pagan"
 	culture=romano_hispanic

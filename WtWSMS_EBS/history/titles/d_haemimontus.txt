@@ -46,7 +46,7 @@ liege="e_byzantium"
 	holder = 1100004 #fictional
 }
 395.1.17={
-	liege = "e_byzantium"
+	liege = e_byzantium
 }
 412.1.1={
 	holder = 1100005 #Flavius Constans
@@ -88,7 +88,7 @@ liege="e_byzantium"
 	holder = 70515 #Zeno
 }
 469.1.1 = {
-	holder = 1300165 #Anagastes
+	holder = 13001650 #Anagastes
 }
 471.1.1={
 	holder = 1100013 #Armatus
@@ -100,27 +100,29 @@ liege="e_byzantium"
 	holder = 1100015 #fictional
 }
 485.1.1={
-	holder=70515
+	holder = 1301012 # Iulianus
 }
 491.4.9={
 	holder=70514
+	liege = 0
 }
 516.1.1={
 	holder = 1300896 #Agerochius
 	liege = k_thrace
 }
 530.1.1={
-	liege = e_byzantium
+	liege = k_thrace
 }
 565.11.14={
-	holder=70511
+	holder = 1300957 # Armatus
+	liege = e_byzantium
+}
+580.1.1={
+	holder = 1300958 # Solomon
+}
+582.11.6 = {
+	holder = 70510
 	liege = 0
-}
-578.10.5={
-	holder=145073
-}
-582.8.14={
-	holder=70510
 }
 602.11.27={
 	holder=145072

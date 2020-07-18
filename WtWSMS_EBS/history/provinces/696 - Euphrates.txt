@@ -25,4 +25,8 @@ religion = nicene
 431.7.11 = {
 	religion = nestorian
 }
+851.1.1 = { # Great Mosque of Samarra built
+	build_wonder = wonder_mosque_samarra
+	set_wonder_stage = 4
+}
 1255.1.1 = { remove_settlement = b_tagrit }

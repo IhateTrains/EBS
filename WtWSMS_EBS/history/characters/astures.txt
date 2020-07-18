@@ -1,5 +1,5 @@
 33606 = {
-	name="Senacubracius"
+	name = "Senacubracius"
 	# Senacubracius Cismontani
 	dynasty=10424515 
 	religion="celtic_pagan"

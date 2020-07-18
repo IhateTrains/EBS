@@ -15,7 +15,7 @@ d_odoacer = { # Used for Odoacer's revolt
 	title = REX
 	title_female = REGINA
 
-	short_name
+	short_name = yes
 	
 	# Cannot be held as a secondary title
 	primary = yes

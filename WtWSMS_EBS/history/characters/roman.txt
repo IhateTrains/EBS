@@ -35,7 +35,7 @@
 	}
 }
 177 = {
-	name="Horace"
+	name="Horatius"
 	dynasty=1042224
 	religion="hellenic_pagan"
 	culture="roman"
@@ -83,8 +83,9 @@
 	}
 }
 20783 = {
-	name="Manlius Boethius" # Praetorian Prefect
-	#dynasty=1042312
+	name="Manlius Boethius" #PLRE vol. 2 Manlius Boethius 4
+	# Praetorian Prefect
+	dynasty=1042285
 	diplomacy=7
 	intrigue=7
 	stewardship=6
@@ -103,14 +104,18 @@
 	}
 }
 190012 = {
-	name="Anicius" # Major Poet, usually called Boethius
+	name="Anicius" # PLRE vol. 2 Anicius Manlius Severinus Boethius iunior 5
+	# Major Poet, usually called Boethius
 	# Consul of 510
-	#dynasty=1042312
+	dynasty=1042285
 	religion="nicene"
 	culture="roman"
 	father=20783
 	479.1.1={
 		birth="479.1.1"
+	}
+	495.1.1 = {
+		add_spouse = 1900020 # Rusticiana
 	}
 	524.12.1={ #died in 524
 		death=yes
@@ -461,7 +466,7 @@
 	}
 }
 70518 = {
-	name="Marcianus"
+	name="Marcianus" # PLRE vol. 2 Marcianus 8
 	# Flavius Marcianus Augustus
 	dynasty=1022190
 	martial=6
@@ -491,7 +496,7 @@
 }
 
 70519 = {
-	name="Arcadius"
+	name="Arcadius" #PLRE vol. 2 Arcadius 8
 	# Flavius Arcadius Augustus
 	dynasty=1022191
 	martial=4
@@ -618,6 +623,11 @@
 	307.8.1={
 		add_spouse=1003006
 	}
+	324.9.19 = {
+		create_bloodline = {
+			type = WtWSMS_constantine
+		}
+	}
 	337.5.22={
 		death="337.5.22"
 		give_nickname = nick_the_great
@@ -696,7 +706,7 @@
 }
 
 70531 = {
-	name="Pulcheria"
+	name="Pulcheria" #PLRE vol. 2 Aelia Pulcheria
 	# Aelia Pulcheria Augusta
 	dynasty=1022191
 	female=yes
@@ -721,7 +731,7 @@
 }
 
 70533 = {
-	name="Theodosius"
+	name="Theodosius" #PLRE vol. 2 Theodosius 6
 	# Flavius Theodosius Augustus
 	dynasty=1022191
 	martial=5
@@ -860,7 +870,7 @@
 }
 
 145229 = {
-	name="Valentinianus"
+	name="Valentinianus" #PLRE vol. 2 Placidus Valentinianus 4
 	# Flavius Placidius Valentinianus
 	dynasty=1022191
 	religion="nicene"
@@ -1727,6 +1737,9 @@
 	father=1102512
 	1.1.8={
 		birth="1.1.8"
+		create_bloodline = {
+			type = WtWSMS_augustus
+		}
 	}
 	24.8.19={
 		death="24.8.19"
@@ -1743,10 +1756,6 @@
 	trait="charismatic_negotiator"
 	170.1.1 = {
 		birth="170.1.1"
-	}
-	230.1.1 = {
-	name="Pontian"
-	# AKA: Pontianus
 	}
 	235.9.29 = {
 		death="235.9.29"
@@ -1765,7 +1774,7 @@
 		birth="170.1.1"
 	}
 	222.10.14 = {
-	name="Urban"
+	name="Urbanus"
 	# AKA: Severus
 	}
 	230.1.1 = {
@@ -1814,7 +1823,7 @@
 }
 
 7604 = {
-	name="Jerome"
+	name="Hieronymus"
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -1826,7 +1835,7 @@
 	}
 	189.1.1 = {
 	name="Victor"
-	# AKA: Jerome
+	# AKA: Hieronymus
 	}
 	199.1.1 = {
 		death="199.1.1"
@@ -1834,7 +1843,7 @@
 }
 
 7759 = {
-	name="Gordianus"
+	name="Agapetus" #PLRE vol. 3 Agapetus 1
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -1843,10 +1852,6 @@
 	trait="charismatic_negotiator"
 	480.1.1 = {
 		birth="480.1.1"
-	}
-	535.5.8 = {
-	name="Agapetus"
-	# AKA: Gordianus
 	}
 	536.6.8 = {
 		death="536.6.8"
@@ -1865,7 +1870,7 @@
 		birth="470.1.1"
 	}
 	532.1.1 = {
-	name="John"
+	name="Ioannes"
 	# AKA: Mercurius
 	}
 	535.5.8 = {
@@ -1921,7 +1926,7 @@
 		birth="470.1.1"
 	}
 	523.8.6 = {
-	name="John"
+	name="Ioannes"
 	# AKA: Castorius
 	}
 	526.5.18 = {
@@ -1952,7 +1957,7 @@
 }
 
 7765 = {
-	name="Johannes"
+	name="Iohannes"
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -1964,7 +1969,7 @@
 	}
 	514.7.19 = {
 	name="Hormisadas"
-	# AKA: Johannes
+	# AKA: Iohannes
 	}
 	523.8.6 = {
 		death="523.8.6"
@@ -2064,7 +2069,7 @@
 }
 
 7771 = {
-	name="Hilary"
+	name="Hilarius"
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -2074,17 +2079,13 @@
 	400.1.1 = {
 		birth="400.1.1"
 	}
-	461.11.10 = {
-	name="Hilarius"
-	# AKA: Hilary
-	}
 	468.2.28 = {
 		death="468.2.28"
 	}
 }
 
 7772 = {
-	name="Hilary"
+	name="Hilarius"
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -2096,7 +2097,7 @@
 	}
 	440.8.18 = {
 	name="Leo"
-	# AKA: Hilary
+	# AKA: Hilarius
 	}
 	461.11.10 = {
 		death="461.11.10"
@@ -2104,7 +2105,7 @@
 }
 
 7773 = {
-	name="Hilary"
+	name="Hilarius"
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -2116,7 +2117,7 @@
 	}
 	432.4.6 = {
 	name="Sixtus"
-	# AKA: Hilary
+	# AKA: Hilarius
 	}
 	440.8.18 = {
 		death="440.8.18"
@@ -2135,7 +2136,7 @@
 		birth="380.1.1"
 	}
 	422.9.4 = {
-	name="Celestine"
+	name="Caelestinus"
 	# AKA: Priscus
 	}
 	432.4.6 = {
@@ -2155,7 +2156,7 @@
 		birth="360.1.1"
 	}
 	418.12.26 = {
-	name="Boniface"
+	name="Bonifacius"
 	# AKA: Eulalius
 	}
 	422.9.4 = {
@@ -2196,7 +2197,7 @@
 		birth="360.1.1"
 	}
 	401.11.27 = {
-	name="Innocent"
+	name="Innocentius"
 	# AKA: Maximus
 	}
 	417.3.12 = {
@@ -2311,10 +2312,6 @@
 	280.1.1 = {
 		birth="280.1.1"
 	}
-	335.12.31 = {
-	name="Mark"
-	# AKA: Marcus
-	}
 	336.10.7 = {
 		death="336.10.7"
 	}
@@ -2332,7 +2329,7 @@
 		birth="270.1.1"
 	}
 	314.1.10 = {
-	name="Sylvester"
+	name="Silvester"
 	# AKA: Marcus
 	}
 	335.12.31 = {
@@ -2432,7 +2429,7 @@
 		birth="220.1.1"
 	}
 	274.12.30 = {
-	name="Eutychian"
+	name="Eutychianus"
 	# AKA: Gaius
 	}
 	283.7.12 = {
@@ -2470,10 +2467,6 @@
 	trait="charismatic_negotiator"
 	210.1.1 = {
 		birth="210.1.1"
-	}
-	254.3.5 = {
-	name="Stephen"
-	# AKA: Stephanus
 	}
 	257.8.2 = {
 		death="257.8.2"
@@ -2531,9 +2524,6 @@
 	200.1.1 = {
 		birth="200.1.1"
 	}
-	236.1.3 = {
-	name="Fabian"
-	}
 	250.1.20 = {
 		death="250.1.20"
 
@@ -2552,7 +2542,7 @@
 		birth="669.1.1"
 	}
 	715.4.9 = {
-	name="Gregory"
+	name="Gregorius"
 	# AKA: Zacharias
 	}
 	731.2.11 = {
@@ -2572,7 +2562,7 @@
 		birth="635.1.1"
 	}
 	683.6.28 = {
-	name="Benedict"
+	name="Benedictus"
 	# AKA: Plato
 	}
 	685.5.8 = {
@@ -2632,7 +2622,7 @@
 		birth="577.1.1"
 	}
 	657.6.1 = {
-	name="Vitalian"
+	name="Vitalianus"
 	# AKA: Anastasius
 	}
 	672.1.27 = {
@@ -2652,7 +2642,7 @@
 		birth="577.1.1"
 	}
 	653.7.17 = {
-	name="Eugene"
+	name="Eugenius"
 	# AKA: Rufinianus
 	}
 	657.6.1 = {
@@ -2672,7 +2662,7 @@
 		birth="577.1.1"
 	}
 	649.5.14 = {
-	name="Martin"
+	name="Martinus"
 	# AKA: Rufinianus
 	}
 	653.7.17 = {
@@ -2692,7 +2682,7 @@
 		birth="577.1.1"
 	}
 	640.8.2 = {
-	name="John"
+	name="Ioannes"
 	# AKA: Venantius
 	}
 	642.10.12 = {
@@ -2752,7 +2742,7 @@
 		birth="560.1.1"
 	}
 	618.11.8 = {
-	name="Boniface"
+	name="Bonifacius"
 	# AKA: Petronius
 	}
 	625.10.25 = {
@@ -2781,7 +2771,7 @@
 }
 
 7890 = {
-	name="Johannes"
+	name="Iohannes"
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -2792,8 +2782,8 @@
 		birth="550.1.1"
 	}
 	607.11.12 = {
-	name="Boniface"
-	# AKA: Johannes
+	name="Bonifacius"
+	# AKA: Iohannes
 	}
 	615.5.25 = {
 		death="615.5.25"
@@ -2801,7 +2791,7 @@
 }
 
 7892 = {
-	name="John"
+	name="Ioannes"
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -2812,16 +2802,16 @@
 		birth="530.1.1"
 	}
 	604.3.15 = {
-	name="Sabinian"
-	# AKA: John
+	name="Sabinianus"
+	# AKA: Ioannes
 	}
 	606.2.22 = {
 		death="606.2.22"
 	}
 }
 
-7893 = {
-	name="Gordanius"
+7893 = { #Pope Gregory the Great
+	name="Gregorius" # PLRE vol. 3 Gregorius 5
 	religion="nicene"
 	culture="roman"
 	trait="diligent"
@@ -2832,8 +2822,7 @@
 		birth="540.1.1"
 	}
 	590.1.1 = {
-	name="Gregory"
-	# AKA: Gordanius
+		effect = { add_friend = 1301136 } # Eulogius I, Greek Patriarch of Alexandria
 	}
 	604.3.15 = {
 		death="604.3.15"
@@ -2872,7 +2861,7 @@
 		birth="520.1.1"
 	}
 	574.7.13 = {
-		name="Benedict"
+		name="Benedictus"
 	# AKA: Bonifacius
 	}
 	579.7.20 = {
@@ -2892,7 +2881,7 @@
 		birth="520.1.1"
 	}
 	561.3.4 = {
-		name="John"
+		name="Ioannes"
 	# AKA: Catelinus
 	}
 	574.7.13 = {
@@ -2921,7 +2910,8 @@
 }
 
 7900 = {
-	name="Vigilius" #Pope Vigilius
+	name="Vigilius" #PLRE vol. 2 Vigilius 4
+	#Pope Vigilius
 	dynasty=1042366
 	religion="nicene"
 	culture="roman"
@@ -2974,7 +2964,7 @@
 }
 
 70512 = {
-	name="Iustinianus"
+	name="Iustinianus" # PLRE vol. 2 Iustinianus 7
 	# AKA: Ioustinianos 'the Great'
 	dynasty=1022186
 	martial=8
@@ -2987,6 +2977,7 @@
 	add_trait="mystic"
 	add_trait="genius"
 	add_trait="midas_touched"
+	father = 1301292
 	mother=70528
 	dna="00bh00f0000"
 	properties="0f0b00000000000000"
@@ -3003,7 +2994,7 @@
 }
 
 70513 = {
-	name="Iustinus"
+	name="Iustinus" # PLRE vol. 2 Iustinus 4
 	# AKA: Ioustinos
 	# Justin I
 	dynasty=1022186
@@ -3031,7 +3022,7 @@
 	}
 }
 70527 = {
-	name="Vigilantia"
+	name="Vigilantia" # PLRE vol. 2 Vigilantia
 	# Sister of Justinian I
 	dynasty=1022186
 	female=yes
@@ -3056,7 +3047,7 @@
 	}
 }
 70528 = {
-	name="Vigilantia"
+	name="Vigilantia" # mother of PLRE vol. 2 Vigilantia
 	# Sister of Justin I
 	dynasty=1022186
 	female=yes
@@ -3097,7 +3088,8 @@
 	}
 }
 175110 = {
-	name="Iulius" # Julius Nepos
+	name="Iulius" # PLRE vol. 2 Iulius Nepos 3
+	# Julius Nepos
 	dynasty=1042306
 	religion="nicene"
 	culture="roman"
@@ -3159,7 +3151,7 @@
 	}
 }
 190008 = {
-	name="Anicius Acilius" #PLRE vol.2 Anicius Acilius Aginantius Faustus 4
+	name="Anicius Acilius" #PLRE vol. 2 Anicius Acilius Aginantius Faustus 4
 	# Consul of 483 and Prefect of Rome in 475- 482
 	dynasty=1042300
 	religion="nicene"
@@ -3172,7 +3164,7 @@
 	}
 }
 1900010 = {
-	name="Quintus Aurelius Memmius"
+	name="Quintus Aurelius Memmius" #PLRE vol. 2 Quintus Aurelius Memmius Symmachus iunior 9
 	# Consul of 485
 	dynasty=1042302
 	religion="nicene"
@@ -3185,14 +3177,13 @@
 	450.1.1={
 		birth=yes
 		add_claim = d_senate
-		add_claim = d_papal_state
 	}
 	526.1.1={
 		death=yes
 	}
 }
 1900011 = {
-	name="Quintus Aurelius"
+	name="Quintus Aurelius" #PLRE vol. 2 Symmachus 3
 	# Consul of 446
 	dynasty=1042302
 	religion="hellenic_pagan"
@@ -3206,7 +3197,7 @@
 	}
 }
 1900012 = {
-	name="Quintus Fabius Memmius"
+	name="Quintus Fabius Memmius" #PLRE vol. 2 Q. Fabius Memmius Symmachus 10
 	# Praetor around 400 and Quaestor of 393
 	dynasty=1042302
 	religion="hellenic_pagan"
@@ -3268,7 +3259,7 @@
 	religion="neoplatonist"
 	culture="roman"
 	father=1900015
-	285.1.1={
+	295.1.1={
 		birth=yes
 	}
 	355.1.1={
@@ -3291,7 +3282,7 @@
 	}
 }
 1900020 = {
-	name="Rusticiana"
+	name="Rusticiana" #PLRE vol. 2 Rusticiana 1
 	# Daughter of Consul of 485
 	dynasty=1042302
 	religion="nicene"
@@ -3306,7 +3297,7 @@
 	}
 }
 1900021 = {
-	name="Proba"
+	name="Proba" #PLRE vol. 2 Proba 1
 	# Daughter of Consul of 485
 	dynasty=1042302
 	religion="nicene"
@@ -3321,7 +3312,7 @@
 	}
 }
 1900022 = {
-	name="Galla"
+	name="Galla" #PLRE vol. 2 Galla 5
 	# Daughter of Consul of 485
 	dynasty=1042302
 	religion="nicene"
@@ -3342,7 +3333,8 @@
 	religion="nicene"
 	culture="roman"
 	mother=1900020
-	490.1.1={
+    father=190012
+	500.1.1={
 		birth=yes
 	}
 	550.1.1={
@@ -3356,7 +3348,8 @@
 	religion="nicene"
 	culture="roman"
 	mother=1900020
-	490.1.1={
+    father=190012
+	500.1.1={
 		birth=yes
 	}
 	565.1.1={
@@ -3382,8 +3375,21 @@
 		death=yes
 	}
 }
+1310000 = {
+	name="Eugenius" # PLRE vol. 2 Flavius Eugenius Asellus 2
+	dynasty=1301107
+	religion="nicene"
+	culture="roman"
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
 1310020 = {
-	name="Flavius Ortalinus" #Flavius Ortalinus PLRE III Consularis of Lydia
+	name="Flavius Ortalinus" # PLRE vol. 3 Flavius Ortalinus
+	#Consularis of Lydia
 	dynasty=1300628
 	religion="nicene"
 	culture="roman"
@@ -3446,7 +3452,7 @@
 	}
 }
 190019 = {
-	name="Domitius"
+	name="Domitius" #PLRE vol. 1 Domitius Modestus 2
 	dynasty=1042323
 	religion="arian"
 	culture="roman"
@@ -3662,7 +3668,7 @@
 	}
 }
 154003 = {
-	name="Petrus Marcellinus Felix"
+	name="Petrus Marcellinus Felix" # PLRE vol. 2 Petrus Marcellinus Felix Liberius 3
 	dynasty=1042361
 	religion="nicene"
 	culture="roman"
@@ -3767,27 +3773,27 @@
 	}
 }
 1200146 = {
-   	name="Ioannes" #PLRE vol. II Ioannes 67
+	name="Ioannes" #PLRE vol. 2 Ioannes 67
 	dynasty=1042366
-   	religion="nicene"
+	religion="nicene"
 	culture="roman"
-   	460.1.1={
+	460.1.1={
 		birth=yes
 	}
-   	526.1.1={ #dead before 527
+	526.1.1={ #dead before 527
 		death=yes
 	}
 }
-190098 = {
-   	name="Reparatus"
+190098 = { # PLRE vol. 2 Reparatus 1
+	name="Reparatus"
 	dynasty=1042366
-   	religion="nicene"
+	religion="nicene"
 	culture="roman"
 	father=1200146
-   	490.1.1={
+	490.1.1={
 		birth=yes
 	}
-   	539.1.1={
+	539.1.1={
 		death=yes
 	}
 }
@@ -3817,21 +3823,21 @@
 	539.2.1 = { #after Reparatus' death
 		add_spouse = 1300112
 	}
-   	560.1.1={
+	560.1.1={
 		death=yes
 	}
 }
 190101 = {
-   	name="Flavius Caecina Basilius"
-	# Consul of 463
+	name="Flavius Caecina Basilius" # PLRE vol. 2 Flavius Caecina Decius Basilius 11
+	# Consul (West) of 463
 	dynasty=1042303
-   	religion="nicene"
+	religion="nicene"
 	culture="roman"
 	father=96053
-   	410.1.1={
+	410.1.1={
 		birth=yes
 	}
-   	468.1.1={
+	468.1.1={
 		death=yes
 	}
 }
@@ -3862,30 +3868,29 @@
 	}
 }
 190114 = {
-	name="Rufius Achilius" 
-	dynasty=1042371
+	name="Publius Rufinus" #PLRE vol. 2 Publius Rufinus Valerius 11 
+	dynasty=1301105
 	religion="nicene"
 	culture="roman"
 	420.1.1={
-		birth="420.1.1"
+		birth=yes
 	}
-	500.5.2={
-		death="500.5.2"
+	490.1.1={
+		death=yes
 	}
 }
 190119 = {
-	name="Claudius Iulius Eclesius" 
-	dynasty=1042372 
+	name="Castalius Innocentius" #PLRE vol. 2 Castalius Innocentius Audax 3
+	dynasty=1301106
 	religion="nicene"
 	culture="roman"
 	440.1.1={
 		birth=yes
 	}
-	530.5.2={
+	500.1.1={
 		death=yes
 	}
 }
-
 190120 = {
 	name="Constantius" 
 	dynasty=1042373
@@ -3911,11 +3916,12 @@
 	}
 }
 96053 = {
-	name="Caecina Aginatius Albinus"
-	# Prefect of Rome in 414-415, also consul of 444
+	name="Caecina Aginatius Albinus" #PLRE vol. 2 Caecina Decius Acinatius Albinus 7, PLRE vol. 2 Flavius Albinus 10
+	# Prefect of Rome in 414-415; PVR 426; PPO (?Gall.) ?440; PPO (Ital.) 443-449; consul of 444
 	dynasty=1042303
 	religion="nicene"
 	culture="roman"
+	father = 1300911
 	390.1.1={
 		birth="390.1.1"
 	}
@@ -3925,7 +3931,7 @@
 }
 
 96054 = {
-	name="Romulus"
+	name="Romulus" #PLRE vol. 2 Romulus 4
 	# Flavius Momyllus Romulus Augustulus
 	dynasty=10424222
 	religion="nicene"
@@ -3996,11 +4002,12 @@
 }
 1200137 = {
 	name = Heorthasius #PLRE vol. 2 Heorthasius
+	#?governor of Lucania et Bruttium 496
 	dynasty = 1042315
 	culture = roman
 	religion = nicene
-	481.1.1 = { birth=yes }
-	541.1.1 = { death=yes }
+	471.1.1 = { birth=yes }
+	531.1.1 = { death=yes }
 }
 # Roman proconsuls of Asia
 1300002 = {
@@ -4173,7 +4180,7 @@
 	}
 }
 1300017 = {
-	name="Victorius"
+	name="Victorinus"
 	religion="nicene"
 	culture="roman"
 	360.1.1={
@@ -4236,7 +4243,9 @@
 		birth = yes # Birth date unknown
 	}
 	493.1.1 = {
-		death = yes # Killed in a battle fought between Tridentium and Verona
+		death = {
+			death_reason = death_battle # Killed in a battle fought between Tridentium and Verona
+		}
 	}
 }
 
@@ -4281,7 +4290,8 @@
 
 
 8888001 = {
-	name="Marcellinus" #Nepos's uncle
+	name="Marcellinus" #PLRE vol. 2 Marcellinus 6
+	#Nepos's uncle
 	dynasty=88888001
 	religion="hellenic_pagan"
 	culture="roman"
@@ -4319,7 +4329,8 @@
 }
 
 8888003 = {
-	name="Marcella" #Nepos's mother
+	name="Marcella" #sister of PLRE vol. 2 Marcellinus 6
+	#Nepos's mother 
 	female=yes
 	dynasty=88888001
 	religion="hellenic_pagan"
@@ -4335,7 +4346,8 @@
 }
 
 8888004 = {
-	name="Nepotianus" #Nepos's father
+	name="Nepotianus" #PLRE vol. 2 Nepotianus 2
+	#Nepos's father
 	religion="hellenic_pagan"
 	culture="roman"
 	dynasty=1042306
@@ -4425,7 +4437,7 @@
 }
 
 74400 = {
-	name="Flavius"
+	name="Eugenius"
 	dynasty=1042311
 	religion="nicene"
 	culture="roman"
@@ -4436,13 +4448,13 @@
 	350.1.1={
 		birth=yes
 	}
-	394.1.1={
+	394.9.8={
 		death=yes
 	}
 }
 
 74401 = {
-	name="Petronius Maximus"
+	name="Petronius Maximus" #PLRE vol. 2 Petronius Maximus 22
 	# Emperor and Consul of 433 and 443
 	dynasty=1042312
 	religion="nicene"
@@ -4464,7 +4476,7 @@
 	culture="roman"
 	mother=1006001
 	father=36088
-	356.1.1={
+	374.1.1={
 		birth=yes
 	}
 	393.1.1={
@@ -4504,7 +4516,7 @@
 }
 
 74406 = {
-	name="Anthemius"
+	name="Anthemius" # PLRE vol. 2 Anthemius 3
 	dynasty=1022195
 	religion="nicene"
 	culture="roman"
@@ -4530,7 +4542,7 @@
 }
 
 188534 = {
-	name="Marcia Euphemia"
+	name="Marcia Euphemia" # PLRE vol. 2 Aelia Marcia Euphemia 6
 	female=yes
 	dynasty=1022190
 	religion="nicene"
@@ -4545,7 +4557,7 @@
 }
 
 74407 = {
-	name="Alypia"
+	name="Alypia" #PLRE vol. 2 Alypia
 	female=yes
 	dynasty=1022195
 	religion="nicene"
@@ -4576,7 +4588,7 @@
 }
 
 74411 = {
-	name="Marcianus"
+	name="Marcianus" #PLRE vol. 2 Fl. Marcianus 17
 	dynasty=1022195
 	religion="nicene"
 	culture="roman"
@@ -4633,7 +4645,7 @@
 }
 
 74415 = {
-	name="Olybrius"
+	name="Olybrius" # PLRE vol. 2 Anicius Olybrius 6
 	dynasty=1042312
 	religion="nicene"
 	culture="roman"
@@ -4654,7 +4666,7 @@
 }
 
 74416 = {
-	name="Placidia"
+	name="Placidia" # PLRE vol. 2 Placidia 1
 	female=yes
 	dynasty=1022191
 	religion="nicene"
@@ -4673,7 +4685,7 @@
 }
 
 74417 = {
-	name="Anicia Juliana"
+	name="Anicia Iuliana" # PLRE vol. 2 Anicia Iuliana 3
 	female=yes
 	dynasty=1022191
 	religion="nicene"
@@ -4781,8 +4793,10 @@
 }
 1300325={
 	name="Gennadius Torquatus" #PLRE vol. 2 Gennadius Torquatus
+	#praefectus augustalis a. 396, proconsul of Achaia 396/404
 	culture=roman
 	religion="nicene"
+	trait = scholar #good at law
 	370.1.1={
 		birth=yes
 	}
@@ -4893,7 +4907,7 @@
 }
 
 1300608 = {
-   	name="Apollinarius" # PLRE vol. 3 Apollinarius 1
+	name="Apollinarius" # PLRE vol. 3 Apollinarius 1
 	#governor of the Balearic Isles
 	religion="nicene"
 	culture="roman" #native of Italy
@@ -4909,7 +4923,7 @@
 	}
 }
 1300609 = {
-   	name="Marcellus" # PLRE vol. 3 Marcellus 2
+	name="Marcellus" # PLRE vol. 3 Marcellus 2
 	#dux Numidiae 536
 	religion="nicene"
 	culture="roman"
@@ -4932,7 +4946,7 @@
 	}
 }
 1300627 = {
-   	name="Constantinus" # PLRE vol. 2 Constantinus 14
+	name="Constantinus" # PLRE vol. 2 Constantinus 14
 	religion="nicene"
 	culture="roman"
 	trait = defensive_leader
@@ -5075,6 +5089,7 @@
 }
 1300376 = {
 	name="Cledonius" #PLRE vol. 2 Cledonius 1
+	#praeses Libyae Superioris ?412
 	religion="nicene"
 	culture="roman"
 	trait = just
@@ -5087,6 +5102,7 @@
 }
 1300377 = {
 	name="Vitalianus" #PLRE vol. 2 Fl. Patricius Vitalianus 3
+	#?governor of Libya Pentapolis ?E V
 	religion="nicene"
 	culture="roman"
 	420.1.1={
@@ -5231,70 +5247,72 @@
 	}
 }
 1300537 = {
-   	name="Gennadius Avienus" # consul of 450, PLRE vol. 2 Gennadius Avienus 4
+	name="Gennadius Avienus" # PLRE vol. 2 Gennadius Avienus 4
+	# consul of 450
 	dynasty = 1044036 #Corvinus
 	religion="nicene"
 	culture="roman"
-   	400.1.1={
+	400.1.1={
 		birth=yes
 	}
-   	470.1.1={
+	470.1.1={
 		death=yes
 	}
 }
 1300538 = {
-   	name="Anicius Probus Faustus" # consul of 490, PLRE vol. 2 Fl. Anicius Probus Faustus iunior Niger 9
+	name="Anicius Probus Faustus" # PLRE vol. 2 Fl. Anicius Probus Faustus iunior Niger 9
+	# consul of 490
 	dynasty = 1044036 #Corvinus
 	religion="nicene"
 	culture="roman"
 	father = 1300537
 	trait = charismatic_negotiator #eloquent
-   	440.1.1={
+	440.1.1={
 		birth=yes
 	}
-   	520.1.1={
+	520.1.1={
 		death=yes
 	}
 }
 1300542 = {
-   	name="Stephania" # sister of Anicius Probus Faustus
+	name="Stephania" # sister of Anicius Probus Faustus
 	dynasty = 1044036 #Corvinus
 	religion="nicene"
 	culture="roman"
 	father = 1300537
 	female = yes
-   	445.1.1={
+	445.1.1={
 		birth=yes
 	}
-   	500.1.1={
+	500.1.1={
 		death=yes
 	}
 }
 1300540 = {
-   	name="Rufius Magnus" # consul of 502, PLRE vol. 2 Rufius Magnus Faustus Avienus iunior 2
+	name="Rufius Magnus" # consul of 502, PLRE vol. 2 Rufius Magnus Faustus Avienus iunior 2
 	dynasty = 1044036 #Corvinus
 	religion="nicene"
 	culture="roman"
 	father = 1300538
 	trait = charismatic_negotiator #eloquent
-   	470.1.1={
+	470.1.1={
 		birth=yes
 	}
-   	536.1.1={
+	536.1.1={
 		death=yes
 	}
 }
 1300541 = {
-   	name="Ennodius Messala" # consul of 506, PLRE vol. 2 Fl. Ennodius Messala 2
+	name="Ennodius Messala" # consul of 506, PLRE vol. 2 Fl. Ennodius Messala 2
 	dynasty = 1044036 #Corvinus
 	religion="nicene"
 	culture="roman"
 	father = 1300538
 	trait = poet
-   	473.1.1={
+	473.1.1={
 		birth=yes
 	}
-   	520.1.1={
+	520.1.1={
 		death=yes
 	}
 }
@@ -5313,7 +5331,7 @@
 	}
 }
 1300544 = {
-   	name="Valerius Faltonius Adelfius" # PLRE vol. 2 Anicia Italica 2
+   	name="Italica" # PLRE vol. 2 Anicia Italica 2
 	religion="nicene"
 	culture="roman"
 	female = yes
@@ -5683,10 +5701,12 @@
 }
 1300723 = {
 	name="Theodotus" #PLRE vol. 2 Theodotus 11
-	# comes Orientis before 522
+	# comes Orientis before 522, urban prefect of Constantinople 522/523
 	religion = nicene
 	culture = roman
+	trait = diligent
 	460.1.1 = { birth = yes }
+	480.1.1 = { give_nickname = nick_the_pumpkin_man } # Colocynthius
 	530.1.1 = { death = yes }
 }
 1300724 = {
@@ -5858,7 +5878,7 @@
 	religion = nicene
 	culture = roman
 	460.1.1 = { birth = yes }
-	525.1.1 = { death = yes }
+	530.1.1 = { death = yes }
 }
 
 1300748 = {
@@ -5906,6 +5926,7 @@
 	religion = nicene
 	culture = roman
 	trait = diligent
+	trait = content #to prevent him from rebelling too much
 	430.1.1 = { birth = yes }
 	500.1.1 = { death = yes }
 }
@@ -6023,10 +6044,10 @@
 	name="Boethius" #PLRE vol. 2 Boethius 2
 	religion="nicene"
 	culture="roman"
-	trait="content" #Otherwise might declare independance during Basiliskos's reign before Zeno has a chance to get his throne back
+	trait="content" #Otherwise might declare independence during Basiliskos's reign before Zeno has a chance to get his throne back
 	430.1.1={
 		birth=yes
-		add_trait = secretly_monophysite
+		secret_religion = monophysite
 	}
 	485.1.1={
 		death=yes
@@ -6036,7 +6057,7 @@
 	name="Anthemius" #PLRE vol. 2 Anthemius 6
 	religion="nicene"
 	culture="roman"
-	trait="content" #Otherwise might declare independance during Basiliskos's reign before Zeno has a chance to get his throne back
+	trait="content" #Otherwise might declare independence during Basiliskos's reign before Zeno has a chance to get his throne back
 	430.1.1={
 		birth=yes
 	}
@@ -6072,14 +6093,14 @@
 	culture = roman
 	trait = administrator
 	460.1.1 = { birth = yes }
-	520.1.1 = { death = yes }
+	530.1.1 = { death = yes }
 }
 1300818 = {
 	name = "Entrechius" #PLRE vol. 2 Entrechius 2
 	# praefectus augustalis 482/490
 	religion = nicene
 	culture = roman
-	trait = secretly_hellenic_pagan
+	secret_religion = hellenic_pagan
 	420.1.1 = { birth = yes }
 	490.1.1 = { death = yes }
 }
@@ -6092,7 +6113,7 @@
 	520.1.1 = { death = yes }
 }
 1300849 = {
-	name="Severus" #PLRE vol.2 Severus 3
+	name="Severus" #PLRE vol. 2 Severus 3
 	#consularis Campaniae 400-401
 	religion = nicene
 	culture = roman
@@ -6104,7 +6125,7 @@
 	}
 }
 1300850 = {
-	name="Felix" #PLRE vol.2 Felix 4
+	name="Felix" #PLRE vol. 2 Felix 4
 	#?consularis Campaniae 401
 	religion = nicene
 	culture = roman
@@ -6116,7 +6137,7 @@
 	}
 }
 1300851 = {
-	name="Lampadius" #PLRE vol.2 Postumius Lampadius 7
+	name="Lampadius" #PLRE vol. 2 Postumius Lampadius 7
 	#?consularis Campaniae 401
 	religion = nicene
 	culture = roman #native of Capua
@@ -6128,7 +6149,7 @@
 	}
 }
 1300852 = {
-	name="Paulinus" #PLRE vol.2 Pontius Proserius Paulinus 16
+	name="Paulinus" #PLRE vol. 2 Pontius Proserius Paulinus 16
 	#consularis Campaniae 409
 	religion = nicene
 	culture = roman
@@ -6217,6 +6238,944 @@
 	375.1.1 = { birth = yes }
 	465.1.1 = { death = yes }
 }
+1300905 = {
+	name="Iulianus" #PLRE vol. 2 Iul...  (found in fasti, I couldn't find his entry)
+	#?governor of Numidia ?L IV/E V
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1300906 = {
+	name="Donatianus" #PLRE vol. 2 Fl. Barbarus Donatianus 2
+	#consularis Numidiae ?397/398
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1300907 = {
+	name="Ianuarinus" #PLRE vol. 2 Ianuarinus
+	#consularis Numidiae 399 June 4
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1300908 = {
+	name="Generosus" #PLRE vol. 2 Generosus 1
+	#consularis Numidiae 409/423
+	religion = nicene
+	culture = african_romance #native of Constantina
+	360.1.1={
+		birth=yes
+	}
+	420.1.1={
+		death=yes
+	}
+}
+1300909 = {
+	name="Ianuarius" #PLRE vol. 2 Aurelius Ianuarius 9
+	#?consularis Numidiae 408/423
+	religion = nicene
+	culture = roman
+	370.1.1={
+		birth=yes
+	}
+	430.1.1={
+		death=yes
+	}
+}
+1300911 = {
+	name="Albinus" #PLRE vol. 2 Caecina Decius Albinus Iunior 10
+	#consularis Numidiae 388/392, governor of Campania c. 397/398, PVR 402
+	religion = hellenic_pagan
+	culture = roman
+	dynasty = 104246200
+	father = 1008284
+	mother = 1301098
+	357.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1300873 = {
+	name="Paulus" #PLRE vol. 3 Paulus 3
+	#dux et praeses Arabiae 535
+	religion = nicene
+	culture = roman
+	500.1.1={
+		birth=yes
+	}
+	570.1.1={
+		death = yes
+	}
+}
+1300870 = {
+	name="Macedonius" #PLRE vol. 1 Basilianus Macedonius 7
+	#governor of Rhodope IV/V
+	religion = nicene
+	culture = roman
+	trait = just
+	370.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death = yes
+	}
+}
+1300878 = {
+	name="Foebadius" #PLRE vol. 2 Apollonius Foebadius
+	#praeses Dalmatiae IV/V
+	religion = nicene
+	culture = roman
+	370.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death = yes
+	}
+}
+1300879 = {
+	name="Epiphanius" #PLRE vol. 2 Epiphanius 6
+	#consularis Dalmatiae 525/526
+	religion = nicene
+	culture = roman
+	490.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death = yes
+	}
+}
+1300899 = {
+	name="Nemesius" #PLRE vol. 2 Nemesius 3
+	#?praeses (East) E/M V
+	religion = nicene
+	culture = roman
+	380.1.1={
+		birth=yes
+	}
+	460.1.1={
+		death=yes
+	}
+}
+1300910 = {
+	name="Gracchus" #PLRE vol. 2 Gracchus
+	#?consularis Campaniae a. 397 May 24, PVR a. 415 July 25
+	religion = nicene
+	culture = roman
+	370.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death=yes
+	}
+}
+1300912 = {
+	name="Salutus" #PLRE vol.1 Pontius Salutus
+	#consularis Campaniae IV/V
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1300913 = {
+	name="Aemilius Rufinus" #PLRE vol. 2 Aemilius Rufinus signo Euresius 15
+	#consularis Campaniae 425/450
+	religion = nicene
+	culture = roman
+	400.1.1={
+		birth=yes
+	}
+	460.1.1={
+		death=yes
+	}
+}
+1300915 = {
+	name="Drusus" #PLRE vol.1 Anonymus 65
+	#?governor of Campania IV/VI
+	religion = nicene
+	culture = roman
+	430.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+1300921 = {
+	name="Theodorus" #PLRE vol. 2 Theodorus 13
+	# defensor civitatis at Magona in Minorca E V
+	religion="jewish"
+	culture="roman"
+	360.1.1 = {
+		birth=yes
+	}
+	420.1.1 = {
+		death=yes
+	}
+}
+1300922 = {
+	name="Yehudah" #unknown father of defensor civitatis Caecilianus
+	religion="jewish"
+	culture="hebrew"
+	370.1.1 = {
+		birth=yes
+	}
+	430.1.1 = {
+		death=yes
+	}
+}
+1300923 = {
+	name="Caecilianus" #PLRE vol. 2 Caecilianus 2
+	# defensor civitatis at Magona in Minorca after 418
+	religion="jewish"
+	culture="roman"
+	father = 1300922
+	390.1.1 = {
+		birth=yes
+	}
+	418.1.1 = { religion = nicene }
+	461.1.1 = {
+		death=yes
+	}
+}
+1300924 = {
+	name="Florinus" #brother of defensor civitatis Caecilianus
+	religion="jewish"
+	culture="roman"
+	father = 1300922
+	400.1.1 = {
+		birth=yes
+	}
+	460.1.1 = {
+		death=yes
+	}
+}
+1300925 = {
+	name="Menas" #PLRE vol. 3 Menas 3
+	#comes et praeses Arcadiae M VI
+	religion="nicene"
+	culture="roman"
+	500.1.1 = {
+		birth=yes
+	}
+	550.1.1 = {
+		death=yes
+	}
+}
+1300927 = {
+	name="Placidus" #PLRE vol. 3 Placidus 1
+	#patricius et rector Provinciae 556-557
+	religion="nicene"
+	culture="roman"
+	trait = charitable
+	500.1.1 = {
+		birth=yes
+	}
+	560.1.1 = {
+		death=yes
+	}
+}
+1300928 = {
+	name="Sapaudus" #PLRE vol. 3 Sapaudus
+	#bishop of Arles 552-586, son of Placidus
+	religion="nicene"
+	culture="roman"
+	father = 1300927
+	trait = martial_cleric
+	520.1.1 = {
+		birth=yes
+	}
+	586.1.1 = {
+		death=yes
+	}
+}
+1300946 = {
+	name="Servatus" #PLRE vol. 3 Servatus 2
+	#dux Raetiarum under Theoderic 507/511
+	religion = nicene
+	culture = roman
+	470.1.1 = {
+		birth=yes
+	}
+	540.1.1 = {
+		death = yes
+	}
+}
+1300953 = {
+	name="Servandus" #PLRE vol. 3 Servandus
+	#comes et praeses (Scythiae) V/VI
+	religion="nicene"
+	culture="roman"
+	trait = defensive_leader
+	500.1.1={
+		birth=yes
+	}
+	570.1.1 = {
+		death = yes
+	}
+}
+1300956 = {
+	name="Helias" #PLRE vol. 3 Helias 1
+	#proconsul of Crete 539
+	religion="nicene"
+	culture="roman"
+	trait = administrator
+	500.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death=yes
+	}
+}
+1300957 = {
+	name="Armatus" #PLRE vol. 3 Armatus 2
+	#vicarius Thraciae 575/576
+	religion="nicene"
+	culture="roman"
+	trait = administrator
+	530.1.1={
+		birth=yes
+	}
+	590.1.1={
+		death=yes
+	}
+}
+1300959 = {
+	name="Hadrianus" #PLRE vol. 3 Hadrianus 3
+	#vicarius Thraciae VI
+	religion="nicene"
+	culture="roman"
+	500.1.1={
+		birth=yes
+	}
+	560.1.1={
+		death=yes
+	}
+}
+1300963 = {
+	name="Cyricus" #PLRE vol. 3 Cyricus 2
+	#praeses Arcadiae VI
+	religion="nicene"
+	culture="roman"
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+1300964 = {
+	name="Florentius" #PLRE vol. 3 Florentius 5
+	#praeses Arcadiae VI
+	religion="nicene"
+	culture="roman"
+	trait = administrator
+	560.1.1={
+		birth=yes
+	}
+	620.1.1={
+		death=yes
+	}
+}
+1300971 = {
+	name="Rusticius" #PLRE vol. 2 Fl. Rusticius 6
+	#consul of 520
+	religion="nicene"
+	culture="roman"
+	470.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+1300972 = {
+	name="Valerius" #PLRE vol. 2 Valerius 7
+	#consul of 521
+	religion="nicene"
+	culture="roman"
+	470.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+1300993 = {
+	name="Entolius" #PLRE vol. 3 Fl. Entolius
+	#proconsul Palaestinae Primae ?M/L VI
+	religion="nicene"
+	culture="roman"
+	520.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death = yes
+	}
+}
+1300994 = {
+	name="Marcellinus" #PLRE vol. 3 Marcellinus 3
+	#proconsul Dalmatiae (598-)599
+	religion="nicene"
+	culture="roman"
+	father = 1300995
+	trait = naive_appeaser
+	550.1.1={
+		birth=yes
+	}
+	610.1.1={
+		death = yes
+	}
+}
+1300995 = {
+	name="Ioannes" #father of PLRE vol. 3 Marcellinus 3
+	religion="nicene"
+	culture="roman"
+	530.1.1={
+		birth=yes
+	}
+	560.1.1={
+		add_trait = detached_priest
+	}
+	599.8.13={
+		death = yes
+	}
+}
+1300996 = {
+	name="Claudianus" #PLRE vol. 3 Claudianus
+	#?proconsul Dalmatiae 549
+	religion="nicene"
+	culture="roman"
+	trait = strategist
+	510.1.1={
+		birth=yes
+	}
+	570.1.1={
+		death = yes
+	}
+}
+1300997 = {
+	name="Asiaticus" #PLRE vol. 2 Asiaticus
+	#dux of Phoenice Libanensis 512/518
+	religion="nicene"
+	culture="roman"
+	trait = cruel
+	480.1.1={
+		birth=yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+1301002 = {
+	name="Eustathius" #PLRE vol. 3 Fl. Eustathius 8
+	#?provincial governor in Egypt VI
+	religion="nicene"
+	culture="roman"
+	480.1.1={
+		birth=yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+1301010 = {
+	name="Martinus" #PLRE vol. 2 Anonymus 82
+	#consularis of Phoenice c.490
+	religion="nicene"
+	culture="roman"
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death = yes
+	}
+}
+1300897 = {
+	name="Iustinianus" #PLRE vol. 3 Iustinianus 2
+	#praeses Moesiae Secundae 538
+	religion = nicene
+	culture = roman
+	500.1.1={
+		birth=yes
+	}
+	570.1.1={
+		death=yes
+	}
+}
+1301011 = {
+	name="Maxentius" #PLRE vol. 2 Maxentius
+	#dux Moesiae (Secundae) 513
+	religion = nicene
+	culture = roman
+	trait = deceitful
+	470.1.1={
+		birth=yes
+	}
+	520.1.1={
+		death=yes
+	}
+}
+1301012 = {
+	name="Iulianus" #PLRE vol. 2 Iulianus 15
+	#MVM per Thracias 493
+	religion = nicene
+	culture = roman
+	trait = defensive_leader
+	450.1.1={
+		birth=yes
+	}
+	493.1.1={
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1300162 = {
+	name="Theodulus" #PLRE vol. 2 Theodvlvs 2
+	religion="nicene"
+	culture=roman
+	400.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+1300871 = {
+	name="Busiris" #PLRE vol. 2 Fl. Gelasius Busiris
+	#governor Sicily L V/E VI
+	#if dynasty needed, you can use "Busiris" as a dynasty name and "Gelasius" as a name
+	religion = nicene
+	culture = roman
+	trait = quick
+	470.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death = yes
+	}
+}
+1300872 = {
+	name="Merulus" #PLRE vol. 2 Merulus
+	#governor Sicily L V/E VI
+	religion = nicene
+	culture = roman
+	trait = roman_nostalgia
+	470.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death = yes
+	}
+}
+1300890 = {
+	name="Martinus" #PLRE vol. 2 Anonymus 76
+	#governor of Apulia 401
+	religion = nicene
+	culture = roman
+	370.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death = yes
+	}
+}
+1300914 = {
+	name="Ruferius" #PLRE vol. 2 Cassius Ruferius 2
+	#consularis Apuliae et Calabriae E V/E VI
+	religion = nicene
+	culture = roman
+	430.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+1301029 = {
+	name="Honoratus" #PLRE vol. 1 Honoratus 2
+	#comes Orientis, PPO of Gaul, urban prefect of Constantinople
+	religion = nicene
+	culture = roman
+	310.1.1={
+		birth=yes
+	}
+	365.1.1={
+		death=yes
+	}
+}
+1301039 = {
+	name="Iovius" #PLRE vol. 1 Iovius 2
+	#urban prefect of Constantinople a. 364
+	religion = nicene
+	culture = roman
+	320.1.1={
+		birth=yes
+	}
+	380.1.1={
+		death=yes
+	}
+}
+1301044 = {
+	name="Phronimius" #PLRE vol. 1 Phronimius
+	#urban prefect of Constantinople 365-366
+	religion = nicene
+	culture = roman
+	trait = sympathy_pagans #supposedly liked Julian
+	320.1.1={
+		birth=yes
+	}
+	380.1.1={
+		death=yes
+	}
+}
+1301046 = {
+	name="Vindaonius Magnus" #PLRE vol. 1 Vindaonius Magnus 12
+	#urban prefect of Constantinople 375-376
+	religion = hellenic_pagan
+	culture = roman
+	trait = zealous #burnt a church
+	330.1.1={
+		birth=yes
+	}
+	390.1.1={
+		death=yes
+	}
+}
+1301047 = {
+	name="Iustinianus" #PLRE vol. 2 Iustinianus 4
+	#urban prefect of Constantinople 474 March 16
+	religion = nicene
+	culture = roman
+	430.1.1={
+		birth=yes
+	}
+	490.1.1={
+		death=yes
+	}
+}
+1301048 = {
+	name="Adamantius" #PLRE vol. 2 Adamantius 2
+	#urban prefect of Constantinople 474/479
+	religion = nicene
+	culture = roman
+	father = 1300190
+	450.1.1={
+		birth=yes
+	}
+	510.1.1={
+		death=yes
+	}
+}
+1301049 = {
+	name="Paulus" #PLRE vol. 2 Paulus 34
+	#consul prior (East) of 512
+	religion = monophysite
+	culture = roman
+	father = 1300190
+	trait = zealous
+	460.1.1={
+		birth=yes
+	}
+	520.1.1={
+		death=yes
+	}
+}
+1300190 = {
+	name="Flavius Vivianus" #PLRE vol. 2 Vivianus 2
+	#PPO Orientis 459-460, consul (East) of 463
+	religion = nicene
+	culture = roman
+	trait = charitable
+	trait = administrator
+	430.1.1={
+		birth=yes
+	}
+	490.1.1={
+		death=yes
+	}
+}
+1300189 = {
+	name="Iulianus" #PLRE vol. 2 Iulianus 12
+	#urban prefect of Constantinople 474/491
+	religion = nicene
+	culture = roman
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+1300188 = {
+	name="Constantinus" #PLRE vol. 2 Constantinus 9
+	#urban prefect of Constantinople 483 December 16
+	religion = nicene
+	culture = roman
+	440.1.1={
+		birth=yes
+	}
+	500.1.1={
+		death=yes
+	}
+}
+1300186 = {
+	name="Secundinus" #PLRE vol. 2 Secundinus 5
+	#urban prefect of Constantinople 492, consul (East) of 511
+	religion = nicene
+	culture = roman
+	trait = socializer
+	430.1.1={
+		birth=yes
+	}
+	450.1.1 = {
+		add_spouse = 1003032 #Flavia Caesaria
+	}
+	515.1.1={
+		death=yes #still alive in 513/514
+	}
+}
+1300185 = {
+	name="Helias" #PLRE vol. 2 Helias
+	#urban prefect of Constantinople 500
+	religion = nicene
+	culture = roman
+	trait = arbitrary
+	470.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+1300184 = {
+	name="Constantinus" #PLRE vol. 2 Constantinus 13
+	#urban prefect of Constantinople 501
+	religion = nicene
+	culture = roman
+	470.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+1300183 = {
+	name="Plato" #PLRE vol. 2 Plato 3
+	#urban prefect of Constantinople 507-512
+	religion = monophysite
+	culture = roman
+	trait = wroth
+	trait = zealous
+	470.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death=yes
+	}
+}
+1300179 = {
+	name="Victor" #PLRE vol. 3 Victor 1
+	#proconsul Achaeae before 528, praefectus augustalis before 528, urban prefect of Constantinople 528
+	religion = nicene
+	culture = roman
+	trait = scholar
+	480.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+1300178 = {
+	name="Eustathius" #PLRE vol. 3 Eustathius 1
+	#?urban prefect of Constantinople 530/531
+	religion = nicene
+	culture = roman
+	trait = kind
+	490.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+1300177 = {
+	name="Eudaemon" #PLRE vol. 3 Eudaemon 1
+	#?urban prefect of Constantinople 532
+	religion = nicene
+	culture = roman
+	trait = just
+	trait = cruel
+	490.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+1300176 = {
+	name="Patricius" #PLRE vol. 3 Patricius 3
+	#?urban prefect of Constantinople 536 March 18
+	religion = nicene
+	culture = roman
+	490.1.1={
+		birth=yes
+	}
+	550.1.1={
+		death=yes
+	}
+}
+1300175 = {
+	name="Libertinus" #PLRE vol. 3 Libertinus
+	#praetor of Sicily 593-595
+	religion = nicene
+	culture = roman
+	trait = administrator
+	trait = indulgent_wastrel
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+1300173 = {
+	name="Iustinus" #PLRE vol. 3 Iustinus 8
+	#praetor of Sicily 593-595
+	religion = nicene
+	culture = roman
+	trait = cynical
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+1300172 = {
+	name="Romanus" #PLRE vol. 3 Romanus 6
+	#praetor of Sicily before 591
+	religion = nicene
+	culture = roman
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+1300171 = {
+	name="Elpidius" #PLRE vol. 3 Elpidius 1
+	#praetor of Sicily before 583
+	religion = nicene
+	culture = roman
+	trait = underhanded_rogue
+	540.1.1={
+		birth=yes
+	}
+	583.1.1 = { employer = 70510 }
+	600.1.1={
+		death=yes
+	}
+}
+1300170 = {
+	name="Leo" #PLRE vol. 3 Leo 3
+	#praetor of Sicily 559
+	religion = nicene
+	culture = roman
+	530.1.1={
+		birth=yes
+	}
+	590.1.1={
+		death=yes
+	}
+}
+1300169 = {
+	name="Maurilio" #PLRE vol. 3 Maurilio
+	#praetorian prefect of Italy before 591
+	religion = nicene
+	culture = roman
+	trait = craven
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+1300168 = {
+	name="Longinus" #PLRE vol. 3 Longinus 5
+	#praetorian prefect of Italy 568-574/575
+	religion = nicene
+	culture = roman
+	trait = architect
+	530.1.1={
+		birth=yes
+	}
+	590.1.1={
+		death=yes
+	}
+}
+1300167 = {
+	name="Antiochus" #PLRE vol. 3 Antiochus 2
+	#praetorian prefect of Italy 552-554
+	religion = nicene
+	culture = roman
+	trait = architect
+	510.1.1={
+		birth=yes
+	}
+	570.1.1={
+		death=yes
+	}
+}
+1300166 = {
+	name="Marinus" #PLRE vol. 3 Anonymus 133
+	#praetorian prefect of Italy VI
+	religion = nicene
+	culture = roman
+	510.1.1={
+		birth=yes
+	}
+	570.1.1={
+		death=yes
+	}
+}
+1300165 = {
+	name="Alexander" #PLRE vol. 3 Alexander 17
+	#praetor of Sicily 600
+	religion = nicene
+	culture = roman
+	560.1.1={
+		birth=yes
+	}
+	630.1.1={
+		death=yes
+	}
+}
 1300814 = {
 	name = "Drusenus" #PLRE vol.2 Drusenus
 	# praeses (East) E/M V
@@ -6233,4 +7192,1886 @@
 	culture = roman
 	375.1.1 = { birth = yes }
 	465.1.1 = { death = yes }
+}
+1301058 = {
+	name="Fortunatus" #PLRE vol. 3 Anonymus 90
+	#?magister militum per Spanias 582
+	religion = nicene
+	culture = roman
+	trait = greedy
+	trait = deceitful
+	520.1.1={
+		birth=yes
+	}
+	590.1.1={
+		death=yes
+	}
+}
+1301059 = {
+	name="Hesychius" #PLRE vol. 2 Hesychius 7
+	# Proconsul of Achaea 435
+	religion = nicene
+	culture = roman
+	405.1.1={
+		birth=yes
+	}
+	465.1.1={
+		death=yes
+	}
+}
+1301061 = {
+	name="Pancratius" #PLRE vol. 1 Pancratius 4
+	#urban prefect of Constantinople 381-382
+	religion = nicene
+	culture = roman
+	320.1.1={
+		birth=yes
+	}
+	400.1.1={
+		death=yes
+	}
+}
+1301065 = {
+	name="Messalina"
+	#generic first wife of PLRE vol. 1 Themistius 1
+	female = yes
+	religion = hellenic_pagan
+	culture = roman
+	320.1.1={
+		birth=yes
+	}
+	355.1.1={
+		death=yes
+	}
+}
+1301067 = {
+	name="Restitutus" #PLRE vol. 1 Restitutus 1
+	#urban prefect of Constantinople 380
+	religion = nicene
+	culture = roman
+	340.1.1={
+		birth=yes
+	}
+	400.1.1={
+		death=yes
+	}
+}
+1301068 = {
+	name="Palladius" #PLRE vol. 1 Palladius 14
+	#praefectus augustalis 382, urban prefect of Constantinople 382/408
+	religion = nicene
+	culture = roman
+	trait = proud
+	340.1.1={
+		birth=yes
+	}
+	400.1.1={
+		death=yes
+	}
+}
+1301069 = {
+	name="Palladius" #PLRE vol. 2 Palladius 2
+	religion = nicene
+	culture = roman
+	father = 1301068
+	360.1.1={
+		birth=yes
+	}
+	380.1.1 = {
+		add_spouse = 1301071
+	}
+	420.1.1={
+		death=yes
+	}
+}
+1301070 = {
+	name="Sextus" #PLRE vol. 1 Anonymus 34
+	religion = nicene
+	culture = roman
+	340.1.1={
+		birth=yes
+	}
+	400.1.1={
+		death=yes
+	}
+}
+1301071 = {
+	name="Celerina" #PLRE vol. 2 Celerina
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301070
+	360.1.1={
+		birth=yes
+	}
+	420.1.1={
+		death=yes
+	}
+}
+1301072 = {
+	name="Theodorus" #PLRE vol. 1 Theodorus 18
+	#urban prefect of Constantinople ?385 or 387
+	religion = nicene
+	culture = roman
+	trait = proud
+	330.1.1={
+		birth=yes
+	}
+	390.1.1={
+		death=yes
+	}
+}
+1301073 = {
+	name="Petronella" #random name
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301072
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301074 = {
+	name="Erythrius" #PLRE vol. 1 Erythrius
+	#praeses Thebaidos a. 384-385, praefectus augustalis 388
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	370.1.1 = {
+		add_spouse = 1301073
+		add_trait = administrator
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301075 = {
+	name="Andreas" #PLRE vol. 3 Andreas 7
+	#urban prefect of Constantinople a. 563 April
+	religion = nicene
+	culture = roman
+	520.1.1={
+		birth=yes
+	}
+	536.1.1 = {
+		add_trait = thrifty_clerk
+	}
+	580.1.1={
+		death=yes
+	}
+}
+1301076 = {
+	name="Zemarchus" #PLRE vol. 3 Zemarchus 2
+	#urban prefect of Constantinople 565
+	religion = nicene
+	culture = roman
+	trait = deceitful
+	520.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+1301078 = {
+	name="Iulianus" #PLRE vol. 3 Iulianus 15
+	#urban prefect of Constantinople 565-566
+	religion = nicene
+	culture = roman
+	trait = just
+	520.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+1301079 = {
+	name="Domninus" #PLRE vol. 3 Domninus 2
+	#urban prefect of Constantinople c. 567
+	religion = nicene
+	culture = roman
+	trait = just
+	520.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+1301080 = {
+	name="Clementius" #PLRE vol. 3 Anonymus 7
+	#urban prefect of Constantinople 565/578
+	religion = nicene
+	culture = roman
+	trait = just
+	trait = zealous
+	520.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+1301081 = {
+	name="Fortunatus" #PLRE vol. 3 Anonymus 8
+	#urban prefect of Constantinople 571
+	religion = nicene
+	culture = roman
+	trait = arbitrary
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+1301082 = {
+	name="Sebastianus" #PLRE vol. 3 Sebastianus 2
+	#urban prefect of Constantinople 580
+	religion = nicene
+	culture = roman
+	trait = craven
+	trait = arbitrary
+	540.1.1={
+		birth=yes
+	}
+	600.1.1={
+		death=yes
+	}
+}
+1301083 = {
+	name="Volumnius" #PLRE vol. 1 ...mnius
+	#?praefectus insulae IV/V
+	religion = nicene
+	culture = roman
+	trait = architect
+	370.1.1={
+		birth=yes
+	}
+	440.1.1={
+		death=yes
+	}
+}
+1301090 = {
+	name="Eustathius" #PLRE vol. 2 Eustathius 4
+	#vicar of Asia 435
+	religion = nicene
+	culture = roman
+	410.1.1={
+		birth=yes
+	}
+	470.1.1={
+		death=yes
+	}
+}
+1301092 = {
+	name="Theophilus" #PLRE vol. 2 Herennianus
+	#vicar of Asia 398 January 28
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301093 = {
+	name="Euthymius" #PLRE vol. 1 Euthymius
+	#vicar of Asia 396
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	366.1.1 = {
+		add_trait = naive_appeaser
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301094 = {
+	name="Euthymius" #PLRE vol. 1 Euthymius
+	#vicar of Asia L IV/E V
+	religion = nicene
+	culture = roman
+	340.1.1={
+		birth=yes
+	}
+	356.1.1 = {
+		add_trait = just
+	}
+	400.1.1={
+		death=yes
+	}
+}
+1301095 = {
+	name="Contucius" #PLRE vol. 2 Cheonius Contucius signo Gregorius
+	#consularis of Flaminia et Picenum before November 400
+	religion = nicene
+	culture = roman
+	dynasty = 104246200
+	father = 1008284
+	mother = 1301098
+	357.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+
+#1301096 - previously duplicate of 1008284
+
+1301097 = {
+	name="Laeta" #PLRE vol. 1 Laeta 2
+	female = yes
+	religion = nicene
+	culture = roman
+	dynasty = 104246200
+	father = 1008284
+	mother = 1301098
+	365.1.1={
+		birth=yes
+	}
+	418.1.1={ #died before 419
+		death=yes
+	}
+}
+1301098 = {
+	name="Hortensia" #Christian mother of Laeta
+	female = yes
+	religion = nicene
+	culture = roman
+	340.1.1={
+		birth=yes
+	}
+	390.1.1={
+		death=yes
+	}
+}
+1301099 = {
+	name="Toxotius" #PLRE vol. 1 Toxotius 1
+	religion = hellenic_pagan
+	culture = roman
+	father = 1301100 # Iulius Toxotius
+	mother = 1301101 # Paula
+	366.1.1={
+		birth=yes
+	}
+	385.1.1 = {
+		religion = nicene
+	}
+	389.1.1 = {
+		add_spouse = 1301097 # Laeta
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301100 = {
+	name="Toxotius" #PLRE vol. 1 Iulius Toxotius 2
+	religion = hellenic_pagan
+	culture = roman
+	330.1.1={
+		birth=yes
+	}
+	365.1.1 = {
+		add_spouse = 1301101 # Paula
+	}
+	380.1.1={
+		death=yes
+	}
+}
+1301101 = {
+	name="Paula" #PLRE vol. 1 Paula 1
+	#St. Paula
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301112
+	mother = 1301111
+	347.6.5={
+		birth=yes
+	}
+	380.1.1 = {
+		add_trait = zealous
+	}
+	386.1.1 = {
+		employer = 190052 # holder of Oriens, she moved to Palestine
+	}
+	404.1.26={
+		death=yes
+	}
+	405.1.26 = {
+		give_nickname=nick_the_saint
+	}
+}
+1301102 = {
+	name="Paula" #PLRE vol. 1 Paula 2
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301099 # Toxotius
+	mother = 1301097 # Laeta
+	400.1.1={
+		birth=yes
+	}
+	416.1.1 = {
+		employer = 1300803 # holder of d_iudea, she was in Palestine a. 416-419
+	}
+	460.1.1={
+		death=yes
+	}
+}
+1301103 = {
+	name="Paulina" #PLRE vol. 1 Paulina 3
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301100 # Iulius Toxotius
+	mother = 1301101 # Paula
+	365.1.1={
+		birth=yes
+	}
+	396.1.1={
+		death=yes
+	}
+}
+1301104 = {
+	name="Pammachius" #PLRE vol. 1 Pammachius
+	#proconsul (?of Africa) before 396
+	religion = nicene
+	culture = roman
+	dynasty = 1301104 # Furius
+	trait = charitable
+	trait = zealous
+	365.1.1={
+		birth=yes
+	}
+	385.1.1 = {
+		add_spouse = 1301103 # Paulina
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301105 = {
+	name="Blesilla" #PLRE vol. 1 Blesilla 2
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301100 # Iulius Toxotius
+	mother = 1301101 # Paula
+	trait = infirm
+	trait = playful
+	365.1.2={
+		birth=yes
+	}
+	381.1.2 = {
+		effect = { add_character_modifier = { name = multilingual duration = -1 } }
+		remove_trait = playful
+	}
+	385.1.1 = {
+		add_spouse = 1301106 # brother of Furia
+	}
+	385.8.1 = {
+		add_trait = zealous
+	}
+	386.1.1={
+		death=yes
+	}
+}
+1301106 = {
+	name="Furius" #PLRE vol. 1 brother of Furia
+	religion = nicene
+	culture = roman
+	mother = 1301108
+	365.1.1={
+		birth=yes
+	}
+	385.8.7={
+		death=yes
+	}
+}
+1301107 = {
+	name="Furia" #PLRE vol. 1 Furia
+	female = yes
+	religion = nicene
+	culture = roman
+	#TODO: add father
+	mother = 1301108
+	trait = proud
+	360.1.1={
+		birth=yes
+		wealth = 50 #she was rich
+	}
+	420.1.1={
+		death=yes
+	}
+}
+1301108 = {
+	name="Titiana" #mother of PLRE vol. 1 Furia
+	female = yes
+	religion = nicene
+	culture = roman
+	trait = proud
+	340.1.1={
+		birth=yes
+	}
+	400.1.1={
+		death=yes
+	}
+}
+1301109 = {
+	name="Rufina" #PLRE vol. 1 Rufina 2
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301100 # Iulius Toxotius
+	mother = 1301101 # Paula
+	370.1.1={ #c. 370
+		birth=yes
+	}
+	387.1.1={ #died young but was still alive and in age to marry in 385/386
+		death=yes
+	}
+}
+1301110 = {
+	name="Eustochium" #PLRE vol. 1 Iulia Eustochium
+	female = yes
+	religion = nicene
+	culture = roman
+	father = 1301100 # Iulius Toxotius
+	mother = 1301101 # Paula
+	375.1.1={ #younger daughter of Blesilla
+		birth=yes
+	}
+	386.1.1 = {
+		employer = 190052 # holder of Oriens, she moved to Palestine with to accompany her mother
+		add_trait = humble
+		add_trait = zealous
+	}
+	419.1.1={
+		death=yes
+	}
+}
+1301111 = {
+	name="Blesilla" #PLRE vol. 1 Blesilla 1
+	female = yes
+	religion = nicene
+	culture = roman
+	trait = proud
+	330.1.1={
+		birth=yes
+	}
+	390.1.1={
+		death=yes
+	}
+}
+1301112 = {
+	name="Rogatus" #PLRE vol. 1 Rogatus 1
+	religion = nicene
+	culture = roman
+	#said to be descended from Agamemnon, so it can be used as his dynasty name
+	330.1.1={
+		birth=yes
+	}
+	346.1.1 = {
+		add_spouse = 1301111
+	}
+	390.1.1={
+		death=yes
+	}
+}
+1301113 = {
+	name="Argolicus" #PLRE vol. 2 Argolicus 1
+	#urban prefect of Rome 510-511
+	religion = nicene
+	culture = roman
+	father = 1301114
+	trait = greedy
+	470.1.1={
+		birth=yes
+	}
+	525.1.1={ #dead by 526
+		death=yes
+	}
+}
+1301114 = {
+	name="Galerius" #PLRE vol. 2 Anonymus 33
+	#comes rerum privatarum 476/490
+	religion = nicene
+	culture = roman
+	father = 1301115
+	trait = diligent
+	450.1.1={
+		birth=yes
+	}
+	466.1.1 = { add_trait = administrator }
+	515.1.1={
+		death=yes
+	}
+}
+1301115 = {
+	name="Auxentius" #PLRE vol. 2 Anonymus 27
+	#comes rerum privatarum 476/490
+	religion = nicene
+	culture = roman
+	430.1.1={
+		birth=yes
+	}
+	446.1.1 = { add_trait = scholar }
+	490.1.1={
+		death=yes
+	}
+}
+1301116 = {
+	name="Eusebius" #PLRE vol. 2 Eusebius 25
+	#urban prefect of Rome 523/524
+	religion = nicene
+	culture = roman
+	trait = just
+	470.1.1={
+		birth=yes
+	}
+	509.1.1 = {
+		add_trait = stressed
+	}
+	510.1.1 = {
+		remove_trait = stressed
+	}
+	530.1.1={
+		death=yes
+	}
+}
+1301117 = {
+	name="Probianus" #PLRE vol. 2 Probianus 1
+	#urban prefect of Rome 416 December 12
+	religion = nicene
+	culture = roman
+	370.1.1={
+		birth=yes
+	}
+	430.1.1={
+		death=yes
+	}
+}
+1301119 = {
+	name="Andromachus" #PLRE vol. 1 Andromachus 3
+	#comes rerum privatarum a. 392, urban prefect of Rome 395 April 21 - July 6, praetorian prefect of Gaul 401
+	religion = nicene
+	culture = roman
+	trait = kind #reliable friend
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301120 = {
+	name="Theodotus" #PLRE vol. 1 Theodotus 2
+	#magister officiorum (East) a. 393-394, urban prefect of Constantinople 395 May 21
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301121 = {
+	name="Claudius" #PLRE vol. 2 Claudius 1
+	#urban prefect of Constantinople 396 Jan. 6 - Feb. 15
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301122 = {
+	name="Africanus" #PLRE vol. 1 Africanus 6
+	#governor of a province a. 388 and of Palestine a. 390, urban prefect of Constantinople 396 April 29 - 397 Sept. 26
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301123 = {
+	name="Romulianus" #PLRE vol. 1 Romulianus 1
+	#?comes Orientis before 393, urban prefect of Constantinople 398 Feb. 1
+	religion = nicene
+	culture = roman
+	trait = humble
+	trait = temperate
+	trait = just
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301124 = {
+	name="Apronius" #PLRE vol. 1 Apronius
+	#vicar of Pontica M/L IV
+	religion = nicene
+	culture = roman
+	360.1.1={
+		birth=yes
+	}
+	430.1.1={
+		death=yes
+	}
+}
+1301125 = {
+	name="Constantius" #PLRE vol. 1 Lucillus Constantius 9
+	#praeses of Mauretania Tingitana, consularis of Tuscia et Umbria after 366
+	religion = nicene
+	culture = roman
+	310.1.1={
+		birth=yes
+	}
+	370.1.1={
+		death=yes
+	}
+}
+1301126 = {
+	name="Fabius" #PLRE vol. 1 Anonymus 103
+	#praeses of Mauretania Caesariensis 378
+	religion = nicene
+	culture = roman
+	trait = humble
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301127 = {
+	name="Volventius" #PLRE vol. 1 Volventius
+	#proconsul of Lusitania 382/383
+	religion = priscillianism
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1301128 = {
+	name="Aetius" #PLRE vol. 2 Fl. Severus Aetius 9
+	#proconsul Achaeae 395/401
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death=yes
+	}
+}
+1300903 = {
+	name="Diosporus" #PLRE vol.1 ...por...
+	#praeses Tripolitanae IV/V
+	religion = nicene
+	culture = roman
+	trait = honest
+	trait = just
+	trait = temperate
+	370.1.1={
+		birth=yes
+	}
+	450.1.1={
+		death=yes
+	}
+}
+1300904 = {
+	name="Octavianus" #PLRE vol.1 ...ianus
+	#praeses Tripolitanae IV/V
+	religion = nicene
+	culture = roman
+	360.1.1={
+		birth=yes
+	}
+	440.1.1={
+		death=yes
+	}
+}
+1301129 = {
+	name="Vincentius" #HCL Vincentius, PLRE vol. 2 Vincentius 3
+	#dux Hispaniarum in PLRE, dux Provinciae Tarraconensis in HCL
+	religion = nicene
+	culture = roman
+	trait = cynical
+	trait = arbitrary
+	420.1.1={
+		birth=yes
+	}
+	465.1.1 = {
+		effect = { give_minor_title = title_commander }
+	}
+	473.6.1={ # sent in 473 to invade Italy and killed
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1301131 = {
+	name="Iulianus" #PLRE vol. 3 Iulianus 19
+	#MVM, praefectus Iustinianorum, dux et augustalis Thebaidis 578
+	religion = nicene
+	culture = roman
+	540.1.1={
+		birth=yes
+	}
+	610.1.1={
+		death=yes
+	}
+}
+1301134 = {
+	name="Iulianus" #PLRE vol. 3 Iulianus 12
+	#?governor of Alexandria M VI
+	religion = nicene
+	culture = roman
+	510.1.1={
+		birth=yes
+	}
+	580.1.1={
+		death=yes
+	}
+}
+1301135 = {
+	name="Ammonius" #PLRE vol. 3 Ammonius 6
+	religion = nicene
+	culture = roman
+	father = 1301134
+	540.1.1={
+		birth=yes
+	}
+	610.1.1={
+		death=yes
+	}
+}
+1301136 = {
+	name="Eulogius" #son of PLRE vol. 3 Iulianus 12
+	# Greek patriarch of Alexandria from 580 to 608
+	religion = nicene
+	culture = roman
+	father = 1301134
+	trait = zealous
+	530.1.1={
+		birth=yes
+	}
+	546.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	608.9.13={
+		death=yes
+	}
+}
+1301139 = {
+	name="Constantinus" #PLRE vol. 3 Constantinus 12
+	#dux et augustalis Alexandriae L VI
+	religion = nicene
+	culture = roman
+	trait = just
+	540.1.1={
+		birth=yes
+	}
+	610.1.1={
+		death=yes
+	}
+}
+1301140 = {
+	name="Conon" #PLRE vol. 3 Conon 2
+	#?dux et augustalis Thebaidis 550/558
+	religion = nicene
+	culture = roman
+	500.1.1={
+		birth=yes
+	}
+	570.1.1={
+		death=yes
+	}
+}
+1301170 = {
+	name="Baduarius" #PLRE vol. 3 Baduarius 1
+	#?MVM et dux Scythiae 528
+	religion = nicene
+	culture = roman
+	470.1.1={
+		birth=yes
+	}
+	486.1.1 = {
+		add_trait = defensive_leader
+	}
+	540.1.1={
+		death=yes
+	}
+}
+1301171 = {
+	name="Iustinus" #PLRE vol. 3 Iustinus 1
+	#?MVM et dux Moesiae Secundae 528
+	religion = nicene
+	culture = roman
+	470.1.1={
+		birth=yes
+	}
+	486.1.1 = {
+		add_trait = defensive_leader
+	}
+	528.7.1={ #killed in 528
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+1301172 = {
+	name="Constantiolus" #PLRE vol. 3 Constantiolus
+	#?MVM et dux Moesiae Secundae 528
+	religion = nicene
+	culture = roman
+	480.1.1={
+		birth=yes
+	}
+	486.1.1 = {
+		add_trait = defensive_leader
+	}
+	540.1.1={
+		death = yes
+	}
+}
+1301177 = {
+	name="Filomathius" #PLRE vol. 2 Fl. Synesius Filomathius
+	#consularis Byzacenae 383/408
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death = yes
+	}
+}
+1301178 = {
+	name="Candidianus" #PLRE vol. 2 M. Aelius Candidianus
+	#consularis Byzacenae ?IV/V
+	religion = nicene
+	culture = roman
+	360.1.1={
+		birth=yes
+	}
+	420.1.1={
+		death = yes
+	}
+}
+1301179 = {
+	name="Felicius" #PLRE vol. 2 Q. Avidius Felicius
+	#consularis Byzacenae IV/V
+	religion = nicene
+	culture = roman
+	370.1.1={
+		birth=yes
+	}
+	430.1.1={
+		death = yes
+	}
+}
+1301180 = {
+	name="Quintilianus" #PLRE vol. 1 Quintilianus 2
+	#governor of Samnium ?M/L IV
+	religion = nicene
+	culture = roman
+	360.1.1={
+		birth=yes
+	}
+	420.1.1={
+		death = yes
+	}
+}
+1301181 = {
+	name="Messala" #PLRE vol. 1 Messala 2
+	#governor (consularis) of Pannonia Secunda c. 374
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death = yes
+	}
+}
+1301182 = {
+	name="Isfalangius" #PLRE vol. 1 Tanaucius Isfalangius
+	#consularis of Baetica a. 368/371, PVR ?a. 372/375
+	religion = nicene
+	culture = roman
+	330.1.1={
+		birth=yes
+	}
+	390.1.1={
+		death = yes
+	}
+}
+1301183 = {
+	name="Adelphius" #PLRE vol. 1 Adelphius 3
+	#governor (?consularis) of Galatia c. 392
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth=yes
+	}
+	410.1.1={
+		death = yes
+	}
+}
+1301184 = {
+	name="Olympus" #PLRE vol. 2 Olympus
+	#dux Palaestinae 516
+	religion = nicene
+	culture = roman
+	460.1.1={
+		birth=yes
+	}
+	530.1.1={
+		death = yes
+	}
+}
+1301186 = {
+	name="Romanus" #PLRE vol. 2 Romanus 7
+	#dux Palaestinae c.a. 498-c.a. 501, ?comes rei militaris 503/504-505
+	religion = nicene
+	culture = roman
+	trait = charitable
+	440.1.1={
+		birth=yes
+	}
+	456.1.1 = {
+		add_trait = defensive_leader
+	}
+	510.1.1={
+		death = yes
+	}
+}
+1301188 = {
+	name="Iuventinus" #PLRE vol. 3 Iuventinus
+	#?dux Syriae 572
+	religion = nicene
+	culture = roman
+	trait = greedy
+	535.1.1={
+		birth=yes
+	}
+	551.1.1 = {
+		add_trait = skilled_tactician
+	}
+	605.1.1={
+		death = yes
+	}
+}
+1301198 = {
+	name="Palladius" #PLRE vol. 1 Palladius 11
+	#dux Osdroenae 382 Nov. 30
+	religion = nicene
+	culture = roman
+	340.1.1={
+		birth = yes
+	}
+	410.1.1={
+		death = yes
+	}
+}
+1301199 = {
+	name="Faustus" #PLRE vol. 1 Faustus 3
+	#?vicarius Macedoniae 394
+	religion = nicene
+	culture = roman
+	370.1.1={
+		birth = yes
+	}
+	440.1.1={
+		death = yes
+	}
+}
+1301201 = {
+	name="Sulpicius" #PLRE vol. 1 Sulpicius
+	#governor (praeses of Cappadocia Prima 370/378
+	religion = nicene
+	culture = roman
+	340.1.1={
+		birth = yes
+	}
+	410.1.1={
+		death = yes
+	}
+}
+1301202 = {
+	name="Florentius" #PLRE vol. 1 Florentius 9
+	#governor (?praeses) of Cilicia before 392/393
+	religion = nicene
+	culture = roman
+	trait = paranoid
+	350.1.1={
+		birth = yes
+	}
+	366.1.1 = {
+		add_trait = indulgent_wastrel
+	}
+	420.1.1={
+		death = yes
+	}
+}
+1301203 = {
+	name="Antiochus" #PLRE vol. 2 Antiochus 9
+	#dux of Phoenice E/M V
+	religion = nicene
+	culture = roman
+	father = 1301204
+	380.1.1={
+		birth = yes
+	}
+	450.1.1={
+		death = yes
+	}
+}
+1301204 = {
+	name="Sabinus" #couldn't find him in PLRE, see PLRE vol. 2 Antiochus 9
+	religion = nicene
+	culture = roman
+	360.1.1={
+		birth = yes
+	}
+	430.1.1={
+		death = yes
+	}
+}
+1301208 = {
+	name="Sallustius" # Patriarch of Jerusalem 486–494
+	religion = nicene
+	culture = roman
+	420.1.1={
+		birth = yes
+	}
+	436.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	494.7.23={
+		death = yes
+	}
+}
+1301210 = {
+	name="Iuvenalis" # Patriarch of Jerusalem 451–458
+	religion = nicene
+	culture = roman
+	trait = zealous
+	380.1.1={
+		birth = yes
+	}
+	396.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	451.12.1 = {
+		employer = 70586
+	}
+	458.1.1={
+		death = yes
+	}
+}
+1301211 = {
+	name="Theodosius" # briefly Patriarch of Jerusalem
+	religion = nicene
+	culture = roman
+	trait = zealous
+	390.1.1={
+		birth = yes
+	}
+	406.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	451.11.1 = { # The Council of Chalcedon
+		religion = monophysite
+	}
+	460.1.1={
+		death = yes
+	}
+}
+1301212 = {
+	name="Marcianus"
+	religion = nicene
+	culture = roman
+	430.1.1={
+		birth = yes
+	}
+	446.1.1 = {
+		add_trait = martial_cleric
+	}
+	500.1.1={
+		death = yes
+	}
+}
+1301213 = {
+	name="Ioannes" # Patriarch of Jerusalem 516–524
+	religion = nicene
+	culture = roman
+	father = 1301212
+	trait = zealous
+	450.1.1={
+		birth = yes
+	}
+	466.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	524.4.20={
+		death = yes
+	}
+}
+1301221 = {
+	name="Flavianus" # Patriarch of Antioch 381–404
+	religion = nicene
+	culture = roman
+	trait = humble
+	320.1.1={
+		birth = yes
+	}
+	336.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	404.7.1 = {
+		death = yes
+	}
+}
+1301222 = {
+	name="Porphyrus" # Patriarch of Antioch 404-412
+	religion = nicene
+	culture = roman
+	350.1.1={
+		birth = yes
+	}
+	366.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	412.1.1 = {
+		death = yes
+	}
+}
+1301226 = {
+	name="Domnus" # Patriarch of Antioch 442-449
+	religion = nicene #nicene or nestorian, hard to tell
+	culture = roman
+	trait = craven
+	410.1.1={
+		birth = yes
+	}
+	426.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	429.1.1 = {
+		employer = 1301210 # Juvenal
+	}
+	460.1.1 = {
+		death = yes
+	}
+}
+1301227 = {
+	name="Maximus" # Patriarch of Antioch 449-455
+	religion = nicene
+	culture = roman
+	trait = zealous
+	410.1.1={
+		birth = yes
+	}
+	426.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	470.1.1 = {
+		death = yes
+	}
+}
+1301230 = {
+	name="Martyrius" # Patriarch of Antioch 461–469
+	religion = nicene
+	culture = roman
+	trait = zealous
+	trait = stubborn
+	410.1.1={
+		birth = yes
+	}
+	426.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	480.1.1 = {
+		death = yes
+	}
+}
+1301232 = {
+	name="Iulianus" # Patriarch of Antioch 471-476
+	religion = nicene
+	culture = roman
+	trait = craven
+	420.1.1={
+		birth = yes
+	}
+	436.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	476.2.1 = {
+		death = yes
+	}
+}
+1301235 = {
+	name="Calendion" # Patriarch of Antioch 479-485
+	religion = nicene
+	culture = roman
+	trait = zealous
+	420.1.1 = {
+		birth = yes
+	}
+	436.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	490.1.1 = {
+		death = yes
+	}
+}
+1301236 = {
+	name="Palladius" # Patriarch of Antioch 488–498
+	religion = nicene
+	culture = roman
+	430.1.1 = {
+		birth = yes
+	}
+	446.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	498.1.1 = {
+		death = yes
+	}
+}
+1301237 = {
+	name="Flavianus" # Patriarch of Antioch 498–512
+	religion = nicene
+	culture = roman
+	trait = zealous
+	450.1.1 = {
+		birth = yes
+	}
+	466.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	512.11.6 = {
+		employer = 1301184 # exiled to Petra
+	}
+	518.1.1 = {
+		death = yes
+	}
+}
+1301239 = {
+	name="Paulus" # Patriarch of Antioch 519-521
+	religion = nicene
+	culture = roman
+	trait = zealous
+	trait = cruel
+	450.1.1 = {
+		birth = yes
+	}
+	466.1.1 = {
+		add_trait = scholarly_theologian
+		add_trait = administrator
+	}
+	519.1.1 = {
+		give_nickname = nick_the_jew
+	}
+	521.2.1 = {
+		death = yes
+	}
+}
+1301241 = {
+	name="Domnus" # Patriarch of Antioch 546–561
+	religion = nicene
+	culture = roman
+	490.1.1 = {
+		birth = yes
+	}
+	506.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	561.1.1 = {
+		death = yes
+	}
+}
+1301243 = {
+	name="Gregorius" # Patriarch of Antioch 571–594
+	religion = nicene
+	culture = roman
+	trait = zealous
+	520.1.1 = {
+		birth = yes
+	}
+	536.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	540.1.1 = {
+		add_trait = monk
+		employer = 1300974
+	}
+	593.1.1 = {
+		death = yes
+	}
+}
+1301244 = {
+	name="Anastasius" # Patriarch of Antioch 599–610
+	religion = nicene
+	culture = roman
+	trait = zealous
+	trait = diligent
+	540.1.1 = {
+		birth = yes
+	}
+	556.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	609.12.21 = {
+		death = {
+			death_reason = death_rabble
+		}
+	}
+}
+1301245 = {
+	name="Severus" # patriarch of Aquileia 586–606
+	religion = nicene
+	culture = roman
+	trait = arbitrary
+	trait = craven
+	540.1.1 = {
+		birth = yes
+	}
+	553.6.1 = { # Three Chapters Schism
+		religion = aquileian
+	}
+	556.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	606.1.1 = {
+		death = yes
+	}
+}
+1301246 = {
+	name="Elias" # patriarch of Aquileia 571-586
+	religion = nicene
+	culture = roman
+	trait = zealous
+	520.1.1 = {
+		birth = yes
+	}
+	536.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	553.6.1 = { # Three Chapters Schism
+		religion = aquileian
+	}
+	586.1.1 = {
+		death = yes
+	}
+}
+1301247 = {
+	name="Macedonius" # patriarch of Aquileia 539–556
+	religion = nicene
+	culture = roman
+	490.1.1 = {
+		birth = yes
+	}
+	506.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	553.6.1 = { # Three Chapters Schism
+		religion = aquileian
+	}
+	556.1.1 = {
+		death = yes
+	}
+}
+1301248 = {
+	name="Paulinus" # patriarch of Aquileia 557–569
+	religion = nicene
+	culture = roman
+	500.1.1 = {
+		birth = yes
+	}
+	516.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	553.6.1 = { # Three Chapters Schism
+		religion = aquileian
+	}
+	569.1.1 = {
+		death = yes
+	}
+}
+1301249 = {
+	name="Probinus" # patriarch of Aquileia 569–570
+	religion = nicene
+	culture = roman
+	500.1.1 = {
+		birth = yes
+	}
+	516.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	553.6.1 = { # Three Chapters Schism
+		religion = aquileian
+	}
+	571.1.1 = {
+		death = yes
+	}
+}
+1301250 = {
+	name="Stephanus" # patriarch of Aquileia 515-?
+	religion = nicene
+	culture = roman
+	470.1.1 = {
+		birth = yes
+	}
+	486.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	539.1.1 = {
+		death = yes
+	}
+}
+1301251 = {
+	name="Marcellinus" # bishop of Aquileia 500–513
+	religion = nicene
+	culture = roman
+	450.1.1 = {
+		birth = yes
+	}
+	466.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	515.1.1 = {
+		death = yes
+	}
+}
+1301252 = {
+	name="Marcellianus" # bishop of Aquileia 485–500
+	religion = nicene
+	culture = roman
+	430.1.1 = {
+		birth = yes
+	}
+	446.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	500.1.1 = {
+		death = yes
+	}
+}
+1301253 = {
+	name="Nicetas" # bishop of Aquileia 454–485
+	religion = nicene
+	culture = roman
+	420.1.1 = {
+		birth = yes
+	}
+	436.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	485.1.1 = {
+		death = yes
+	}
+}
+1301254 = {
+	name="Secundus" # bishop of Aquileia 451–452
+	religion = nicene
+	culture = roman
+	390.1.1 = {
+		birth = yes
+	}
+	406.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	454.1.1 = {
+		death = yes
+	}
+}
+1301255 = {
+	name="Januarius" # bishop of Aquileia 444–447
+	religion = nicene
+	culture = roman
+	380.1.1 = {
+		birth = yes
+	}
+	396.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	451.1.1 = {
+		death = yes
+	}
+}
+1301256 = {
+	name="Maximus" # bishop of Aquileia 442–444
+	religion = nicene
+	culture = roman
+	370.1.1 = {
+		birth = yes
+	}
+	386.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	444.1.1 = {
+		death = yes
+	}
+}
+1301257 = {
+	name="Adelphus" # bishop of Aquileia 434–442
+	religion = nicene
+	culture = roman
+	370.1.1 = {
+		birth = yes
+	}
+	386.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	442.1.1 = {
+		death = yes
+	}
+}
+1301258 = {
+	name="Augustinus" # bishop of Aquileia 407–434
+	religion = nicene
+	culture = roman
+	370.1.1 = {
+		birth = yes
+	}
+	386.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	434.1.1 = {
+		death = yes
+	}
+}
+1301259 = {
+	name="Chromatius" # bishop of Aquileia 388–407
+	religion = nicene
+	culture = roman
+	trait = zealous
+	340.1.1 = {
+		birth = yes
+	}
+	356.1.1 = {
+		add_trait = scholarly_theologian
+	}
+	407.1.1 = {
+		death = yes
+	}
+}
+1301265 = {
+	name="Petrus" # PLRE vol. 3 Petrus 56
+	# (dux et) augustalis Aegypti 602
+	religion = nicene
+	culture = roman
+	560.1.1={
+		birth = yes
+	}
+	576.1.1 = {
+		add_trait = defensive_leader
+	}
+	620.1.1={
+		death = yes
+	}
+}
+1301270 = {
+	name="Marinus" # PLRE vol. 3 Marinus 2
+	# comes excubitorum 561-562
+	religion = nicene
+	culture = roman
+	trait = shrewd
+	520.1.1={
+		birth = yes
+	}
+	536.1.1 = {
+		add_trait = intricate_webweaver
+	}
+	580.1.1={
+		death = yes
+	}
+}
+1301271 = {
+	name="Aetius" # PLRE vol. 2 Aetius 4
+	# ?comes Isauriae 479
+	religion = nicene
+	culture = roman
+	440.1.1={
+		birth = yes
+	}
+	456.1.1 = {
+		add_trait = siege_leader
+	}
+	500.1.1={
+		death = yes
+	}
+}
+1301272 = {
+	name="Dorotheus" # PLRE vol. 2 Dorotheus 7
+	# comes et dux Palaestinae 452-453
+	religion = nicene
+	culture = roman
+	trait = trusting
+	410.1.1={
+		birth = yes
+	}
+	426.1.1 = {
+		add_trait = defensive_leader
+	}
+	480.1.1={
+		death = yes
+	}
+}
+1301274 = {
+	name="Maurocellus" # PLRE vol. 2 Maurocellus
+	# vicarius Hispaniarum 420
+	religion = nicene
+	culture = roman
+	390.1.1={
+		birth = yes
+	}
+	406.1.1 = {
+		add_trait = defensive_leader
+	}
+	457.1.1={
+		death = yes
+	}
+}
+1301277 = {
+	name="Baduarius" #PLRE vol. 3 Baduarius 2
+	#cura palatii, patricius, ?MVM vacans, comes stabuli
+	religion = nicene
+	culture = roman
+	530.1.1={
+		birth=yes
+	}
+	546.1.1 = {
+		add_trait = organizer
+	}
+	556.1.1 = {
+		employer = 70512
+		add_spouse = 1004003 # Arabia
+	}
+	565.11.14 = {
+		employer = 70511
+	}
+	566.8.1 = {
+		effect = { give_minor_title = title_commander }
+	}
+	576.2.1={
+		death=yes
+	}
+}
+1301281 = {
+	name = "Maria" # PLRE vol. 2 Maria 9
+	# wife of Hypatius
+	female = yes
+	religion = miaphysite
+	culture = roman
+	trait = quick
+	470.1.1 = {
+		birth = yes
+	}
+	540.1.1 = {
+		death = yes
+	}
+}
+1301282 = {
+	name = "Iuliana" # PLRE vol. 3 Iuliana 1
+	female = yes
+	religion = monophysite
+	culture = roman
+	father = 1003041 # Magnus
+	dynasty = 1022195
+	520.1.1 = {
+		birth = yes
+	}
+	580.1.1 = {
+		death = yes
+	}
+}
+1301284 = {
+	name="Papimus" #PLRE vol. 2 Papimus
+	#cavalry officer (East) under Leontius
+	religion = nicene
+	culture = roman
+	450.1.1={
+		birth=yes
+	}
+	466.1.1 = {
+		add_trait = underhanded_rogue
+	}
+	480.1.1 = {
+		add_trait = cavalry_leader
+	}
+	484.1.1 = {
+		employer = 154000 # Leontius
+		effect = { give_minor_title = title_commander }
+	}
+	488.1.1={
+		effect = { remove_title = title_commander }
+	}
+	510.1.1={
+		death=yes
+	}
+}
+1301293 = {
+	name = "Catulinus" # PLRE vol. 2 Catulinus 3
+	#urban prefect of Rome L V/E VI
+	religion = nicene
+	culture = roman
+	450.1.1 = {
+		birth = yes
+	}
+	520.1.1 = {
+		death = yes
+	}
+}
+1301294 = {
+	name = "Lampadius" # PLRE vol. 2 Lampadius 1
+	#urban prefect of Rome early 398
+	religion = nicene
+	culture = roman
+	360.1.1 = {
+		birth = yes
+	}
+	430.1.1 = {
+		death = yes
+	}
+}
+1301300 = {
+	name = "Vitalianus" # PLRE vol. 2 Vitalianus 1
+	#dux Libyae 417 Oct. 24
+	religion = nicene
+	culture = roman
+	380.1.1 = {
+		birth = yes
+	}
+	450.1.1 = {
+		death = yes
+	}
 }

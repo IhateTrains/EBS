@@ -60,7 +60,7 @@ liege="e_byzantium"
 	holder = 70515 #Zeno
 }
 469.1.1 = {
-	holder = 1300165 #Anagastes
+	holder = 13001650 #Anagastes
 }
 471.1.1={
 	holder = 1100013 #Armatus

@@ -35,8 +35,8 @@ liege="e_byzantium"
 379.1.19 = {
 	holder = 70534 # Theodosius I, Flavius Theodosius Augustus 'The Great'
 }
-395.1.17 = {
-	holder = 70519
+395.1.17={
+	holder=70519
 }
 408.5.1 = {
 	holder = 70533 # Theodosius II

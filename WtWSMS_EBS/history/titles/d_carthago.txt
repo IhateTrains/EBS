@@ -30,7 +30,7 @@
 	holder=1000500 # Ennodius
 	liege = e_roman_empire
 }
-395.1.17 = {
+395.1.17={
 	liege = e_wre
 }
 396.1.1={
@@ -59,6 +59,14 @@
 }
 404.1.1={
 	holder=1008290 # Rufus Antonius Agrypnius Rufius
+}
+420.1.1={
+	holder=1000502 # Ennodius Felix
+	liege = "e_wre"
+}
+423.1.1={
+	holder=36073 # Bonifacius
+	liege = "e_wre"
 }
 428.1.1={
 	holder = 36064 # Hoegeis Silingi
@@ -90,6 +98,12 @@
 	holder = 479 # Sergius of Idriphthon
 }
 545.1.1={
+	holder = 90109 # Athanasius of Idriphthon
+}
+546.1.1 = {
+	holder = 1301196 # Guntharis
+}
+546.2.6={
 	holder = 90109 # Athanasius of Idriphthon
 }
 552.1.1={

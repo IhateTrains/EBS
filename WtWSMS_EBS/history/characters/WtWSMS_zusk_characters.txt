@@ -47,6 +47,33 @@
 		death=yes
 	}
 }
+1301190 = { #fictional
+	name="Reko"
+	dynasty=1207
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 109701
+	490.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+1301191 = { #fictional
+	name="Sampo"
+	dynasty=1207
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1301190
+	540.1.1={
+		birth = yes
+	}
+	610.1.1={
+		death = yes
+	}
+}
+
 109702 = { 
 	name="Otso"
 	dynasty=134
@@ -73,6 +100,34 @@
 		death=yes
 	}
 }
+
+1301192 = { #fictional
+	name="Terho"
+	dynasty=134
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 109702
+	490.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+1301193 = { #fictional
+	name="Voitto"
+	dynasty=134
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1301192
+	540.1.1={
+		birth = yes
+	}
+	610.1.1={
+		death = yes
+	}
+}
+
 109703 = { 
 	name="Päiviö"
 	dynasty=100388
@@ -83,6 +138,32 @@
 		birth = yes
 	}
 	510.1.1={
+		death = yes
+	}
+}
+1301194 = { #fictional
+	name="Vesa"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 109703
+	490.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+1301195 = { #fictional
+	name="Mielitty"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1301194
+	540.1.1={
+		birth = yes
+	}
+	610.1.1={
 		death = yes
 	}
 }
@@ -101,6 +182,48 @@
 	}
 }
 
+1301053 = { 
+	name="Mihka"
+	dynasty=840
+	religion="finnish_pagan"
+	culture="lappish"
+	father=109704
+	470.1.1={
+		birth = yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+
+1301054 = { 
+	name="Orddot"
+	dynasty=840
+	religion="finnish_pagan"
+	culture="lappish"
+	father=1301053
+	500.1.1={
+		birth = yes
+	}
+	570.1.1={
+		death = yes
+	}
+}
+
+1301055 = { 
+	name="Viggu"
+	dynasty=840
+	religion="finnish_pagan"
+	culture="lappish"
+	father=1301054
+	530.1.1={
+		birth = yes
+	}
+	600.1.1={
+		death = yes
+	}
+}
+
 109705 = {
 	name="Oaván"
 	dynasty=100389
@@ -114,38 +237,99 @@
 		death = yes
 	}
 }
+1300998 = {
+	name="Njulgu"
+	dynasty=100389
+	religion="finnish_pagan"
+	culture="lappish"
+	father = 109705
+	490.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+1300999 = {
+	name="Speaidna"
+	dynasty=100389
+	religion="finnish_pagan"
+	culture="lappish"
+	father = 1300998
+	540.1.1={
+		birth = yes
+	}
+	610.1.1={
+		death = yes
+	}
+}
 
-109706 = { #fictional
-    name="Rástos"
-    dynasty=100392
-    religion="finnish_pagan"
-    culture="lappish"
-    father=1300216
-    mother=1300232
-    440.1.1={
-        birth = yes
-    }
-    459.1.1={
-        add_spouse=1300233
-    }
-    510.1.1={
-        death = yes
-    }
+109706 = {
+	name="Rástos"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="lappish"
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
 }
 
 109707 = {
-    name="Èoavvá" #fictional
-    dynasty=100387
-    religion="finnish_pagan"
-    culture="lappish"
-    father=1300235    #Jeansa, fictional
-    mother=1300244    #Buohttá, fictional
-    440.1.1={
-        birth = yes
-    }
-    510.1.1={
-        death = yes
-    }
+	name="Èoavvá"
+	dynasty=100387
+	religion="finnish_pagan"
+	culture="lappish"
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+1301050 = {
+	name="Njulgu"
+	dynasty=100387
+	religion="finnish_pagan"
+	culture="lappish"
+	father=109707
+	470.1.1={
+		birth = yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+
+1301051 = {
+	name="Ára"
+	dynasty=100387
+	religion="finnish_pagan"
+	culture="lappish"
+	father=1301050
+	500.1.1={
+		birth = yes
+	}
+	570.1.1={
+		death = yes
+	}
+}
+
+1301052 = {
+	name="Baeivi"
+	dynasty=100387
+	religion="finnish_pagan"
+	culture="lappish"
+	father=1301051
+	530.1.1={
+		birth = yes
+	}
+	600.1.1={
+		death = yes
+	}
 }
 
 109708 = {
@@ -1388,7 +1572,7 @@
 	}
 }
 
-109769 = {
+109769 = { # fictional
    	name="Erikos"
    	religion="nicene"
 	culture="massalian"
@@ -1577,10 +1761,10 @@
 	culture="mzab_wargla"
 	father = 1300408
 
-   	434.1.1={
+   	450.1.1={
 		birth=yes
 	}
-   	500.1.1={
+   	520.1.1={
 		death=yes
 	}
 }
@@ -1795,10 +1979,10 @@
    	religion="manichean"
 	culture="caucasian_albanian"
 
-   	420.1.1={
+   	450.1.1={
 		birth=yes
 	}
-   	490.1.1={
+   	520.1.1={
 		death=yes
 	}
 }
@@ -1808,10 +1992,10 @@
    	religion="miaphysite"
 	culture="corduenian"
 
-   	420.1.1={
+   	450.1.1={
 		birth=yes
 	}
-   	490.1.1={
+   	520.1.1={
 		death=yes
 	}
 }

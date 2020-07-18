@@ -48,8 +48,8 @@
 	}
 }
 33089 = {
-	name="Khætag"
-	# Khætag Halani
+	name="Khćtag"
+	# Khćtag Halani
 	dynasty=100603 
 	religion="scythian_pagan"
 	culture="alan"

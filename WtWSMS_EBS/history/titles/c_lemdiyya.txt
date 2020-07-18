@@ -1,8 +1,8 @@
-395.1.17={
-	liege = "k_africa"
-}
 390.1.1={
 	holder = 36118 # Cusaila Nicola
+}
+395.1.17={
+	liege = "k_africa"
 }
 430.1.1={
 	holder = 36119 # Samaritanu Nicola

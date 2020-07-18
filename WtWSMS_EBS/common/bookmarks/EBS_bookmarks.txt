@@ -1,210 +1,210 @@
-bm_end_severans = {
-	name = "BM_END_SEVERANS_ERA"
-	desc = "BM_END_SEVERANS_ERA_INFO"
-	date = 235.3.19
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
-
-bm_crisis_third_century = {
-	name = "BM_CRISIS_THIRD_CENTURY_ERA"
-	desc = "BM_CRISIS_THIRD_CENTURY_ERA_INFO"
-	date = 238.3.22
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
-
-bm_disident_empires = {
-	name = "BM_DISIDENT_EMPIRES_ERA"
-	desc = "BM_DISIDENT_EMPIRES_ERA_INFO"
-	date = 265.1.1
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
-
-bm_aurelian = {
-	name = "BM_AURELIAN_ERA"
-	desc = "BM_AURELIAN_ERA_INFO"
-	date = 270.3.19
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
-
-bm_tetrarchy = {
-	name = "BM_TETRARCHY_ERA"
-	desc = "BM_TETRARCHY_ERA_INFO"
-	date = 293.3.1
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
-
-bm_constantine = {
-	name = "BM_CONSTANTINE_ERA"
-	desc = "BM_CONSTANTINE_ERA_INFO"
-	date = 312.10.28
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
-
-bm_division = {
-	name = "BM_DIVISION_ERA"
-	desc = "BM_DIVISION_ERA_INFO"
-	date = 337.5.22
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
-
-bm_julian = {
-	name = "BM_JULIAN_ERA"
-	desc = "BM_JULIAN_ERA_INFO"
-	date = 361.11.3
-	
-	#era = no
-		
-	#selectable_character = { Bookmark is still incomplete
-		#id = 
-		#age = 
-		#name =
-		#title =
-		#title_name =
-		
-		#character = {
-			#dna=
-			#properties=
-			#religion =
-			#culture =
-			#government =
-			#dynasty =
-		#}
-	#}
-	
-}
+#bm_end_severans = {
+#	name = "BM_END_SEVERANS_ERA"
+#	desc = "BM_END_SEVERANS_ERA_INFO"
+#	date = 235.3.19
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
+#
+#bm_crisis_third_century = {
+#	name = "BM_CRISIS_THIRD_CENTURY_ERA"
+#	desc = "BM_CRISIS_THIRD_CENTURY_ERA_INFO"
+#	date = 238.3.22
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
+#
+#bm_disident_empires = {
+#	name = "BM_DISIDENT_EMPIRES_ERA"
+#	desc = "BM_DISIDENT_EMPIRES_ERA_INFO"
+#	date = 265.1.1
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
+#
+#bm_aurelian = {
+#	name = "BM_AURELIAN_ERA"
+#	desc = "BM_AURELIAN_ERA_INFO"
+#	date = 270.3.19
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
+#
+#bm_tetrarchy = {
+#	name = "BM_TETRARCHY_ERA"
+#	desc = "BM_TETRARCHY_ERA_INFO"
+#	date = 293.3.1
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
+#
+#bm_constantine = {
+#	name = "BM_CONSTANTINE_ERA"
+#	desc = "BM_CONSTANTINE_ERA_INFO"
+#	date = 312.10.28
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
+#
+#bm_division = {
+#	name = "BM_DIVISION_ERA"
+#	desc = "BM_DIVISION_ERA_INFO"
+#	date = 337.5.22
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
+#
+#bm_julian = {
+#	name = "BM_JULIAN_ERA"
+#	desc = "BM_JULIAN_ERA_INFO"
+#	date = 361.11.3
+#	
+#	#era = no
+#		
+#	#selectable_character = { Bookmark is still incomplete
+#		#id = 
+#		#age = 
+#		#name =
+#		#title =
+#		#title_name =
+#		
+#		#character = {
+#			#dna=
+#			#properties=
+#			#religion =
+#			#culture =
+#			#government =
+#			#dynasty =
+#		#}
+#	#}
+#	
+#}
 
 bm_end_empire = { # Reserved for eventual 395 bookmark
 	name = "BM_END_EMPIRE_ERA"

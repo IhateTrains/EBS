@@ -20,7 +20,7 @@
 	liege = "k_cilicia"
 }
 527.1.1 = {
-	holder = 1300319 # Callinicus
+	holder = 13100018 # Callinicus
 }
 547.1.1={
 	holder=6868

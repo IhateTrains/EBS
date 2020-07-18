@@ -17,7 +17,7 @@
 	religion="tengri_pagan"
 	culture="chuyue"
 	father = 1300509
-	466.1.1={
+	450.1.1={
 		birth=yes
 	}
 	510.1.1={
