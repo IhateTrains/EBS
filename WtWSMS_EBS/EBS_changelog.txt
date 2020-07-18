@@ -1,9 +1,12 @@
 2020-07-18 v2.1
 -----------
 
+MAJOR:
+- Compatibility with WtWSMS 0.9.13
+
 MINOR:
 - Added a lot of historical characters
-- Added a lot of Wikipiedia links, mostly to indicate which characters are historical
+- Added a lot of Wikipedia links, mostly to indicate which characters are historical
 - Changed the Xionite ruler's religion to Hephthalite
 - Fixed some characters and titles being Nestorian before the Council of Ephesus
 - Made Odoacer's revolt landless
@@ -12,7 +15,7 @@ BUGFIXES:
 - Fixed Theodosius II becoming the Eastern Roman Emperor in 421 instead of 408
 - Added the missing "Steel Arms" nickname
 - Fixed the dynasty of the Balti Visigothic kings
-- Fixed the name of historical vicar of Britannia after 395 from being "Chrystanthus" instead of "Chrysanthus"
+- Fixed the name of historical vicar of Britannia after 395 being "Chrystanthus" instead of "Chrysanthus"
 
 2018-08-02 v2.0
 -----------
