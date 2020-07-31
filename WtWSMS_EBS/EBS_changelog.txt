@@ -1,3 +1,8 @@
+NEXT
+-----------
+- Fixed the Adkaddakhe realm being split in two
+- Fixed the Garamantes not being balkanised in the early bookmarks
+
 2020-07-18 v2.1
 -----------
 

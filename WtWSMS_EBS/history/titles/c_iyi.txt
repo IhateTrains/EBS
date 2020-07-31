@@ -1,12 +1,6 @@
 420.1.1={ 
-	holder=1300569
-}
-466.1.1={ 
-	holder=109786
+	holder=226032 # Sifaks
 }
 490.1.1={ 
-	holder=20814 # Cucunq
-}
-540.1.1={ 
-	holder=36664 # Idus
+	holder=226040 # Yuba
 }

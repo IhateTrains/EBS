@@ -1,6 +1,6 @@
 420.1.1={ 
 	holder = 1300572
-	liege = "k_garamantes"
+	liege="d_adkaddakhe"
 }
 466.1.1={
 	holder=109788
