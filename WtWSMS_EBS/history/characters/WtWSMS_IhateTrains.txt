@@ -538,18 +538,6 @@
 #Magistri militium per Thracias
 ###############################
 
-
-1300163 = {
-	name="Arnegisclus" #PLRE vol.2 Arnegisclus
-	religion="nicene"
-	culture=romano_gothic
-	400.1.1={
-		birth=yes
-	}
-	447.5.1={ #killed in battle against Attila
-		death=yes
-	}
-}
 1300164 = {
 	name="Flavius Rusticius" #PLRE vol.2 Fl. Rusticius 5
 	religion="nicene"
@@ -3046,58 +3034,6 @@
 		death = yes
 	}
 }
-1300870 = {
-	name="Macedonius" #PLRE vol.1 Basilianus Macedonius 7
-	#governor of Rhodope IV/V
-	religion = nicene
-	culture = roman
-	trait = just
-	370.1.1={
-		birth=yes
-	}
-	450.1.1={
-		death = yes
-	}
-}
-1300871 = {
-	name="Busiris" #PLRE vol.2 Fl. Gelasius Busiris
-	#governor Sicily L V/E VI
-	#if dynasty needed, you can use "Busiris" as a dynasty name and "Gelasius" as a name
-	religion = nicene
-	culture = roman
-	trait = quick
-	470.1.1={
-		birth=yes
-	}
-	530.1.1={
-		death = yes
-	}
-}
-1300872 = {
-	name="Merulus" #PLRE vol.2 Merulus
-	#governor Sicily L V/E VI
-	religion = nicene
-	culture = roman
-	trait = roman_nostalgia
-	470.1.1={
-		birth=yes
-	}
-	530.1.1={
-		death = yes
-	}
-}
-1300873 = {
-	name="Paulus" #PLRE vol.3 Paulus 3
-	#dux et praeses Arabiae 535
-	religion = nicene
-	culture = roman
-	514.1.1={
-		birth=yes
-	}
-	594.1.1={
-		death = yes
-	}
-}
 1300877 = { #TODO: ADD BROTHER AND SON
 	name="Theodorus" #PLRE vol.1 Fl. Mallius Theodorus 27
 	#PPO of Italy a. 397-399, consul of 399
@@ -3108,42 +3044,6 @@
 		birth=yes
 	}
 	410.1.1={
-		death = yes
-	}
-}
-1300878 = {
-	name="Foebadius" #PLRE vol.2 Apollonius Foebadius
-	#praeses Dalmatiae IV/V
-	religion = nicene
-	culture = roman 
-	370.1.1={
-		birth=yes
-	}
-	450.1.1={
-		death = yes
-	}
-}
-1300879 = {
-	name="Epiphanius" #PLRE vol.2 Epiphanius 6
-	#consularis Dalmatiae 525/526
-	religion = nicene
-	culture = roman 
-	490.1.1={
-		birth=yes
-	}
-	550.1.1={
-		death = yes
-	}
-}
-1300890 = {
-	name="Martinus" #PLRE vol.2 Anonymus 76
-	#governor of Apulia 401
-	religion = nicene
-	culture = roman
-	370.1.1={
-		birth=yes
-	}
-	450.1.1={
 		death = yes
 	}
 }
@@ -3183,32 +3083,8 @@
 		death=yes
 	}
 }
-1300897 = {
-	name="Iustinianus" #PLRE vol.3 Iustinianus 2
-	#praeses Moesiae Secundae 538
-	religion = nicene
-	culture = roman
-	500.1.1={
-		birth=yes
-	}
-	570.1.1={
-		death=yes
-	}
-}
 1300898 = {
 	name="Hierius" #PLRE vol.2 Hierius 3
-	#?praeses (East) E/M V
-	religion = nicene
-	culture = roman
-	380.1.1={
-		birth=yes
-	}
-	460.1.1={
-		death=yes
-	}
-}
-1300899 = {
-	name="Nemesius" #PLRE vol.2 Nemesius 3
 	#?praeses (East) E/M V
 	religion = nicene
 	culture = roman
@@ -3244,83 +3120,6 @@
 		death=yes
 	}
 }
-1300902 = {
-	name="Simplicius" #PLRE vol.2 Simplicius 3
-	#praeses Tripolitanae 399 June 12
-	religion = nicene
-	culture = illyro_roman #from Mursa
-	370.1.1={
-		birth=yes
-	}
-	450.1.1={
-		death=yes
-	}
-}
-1300903 = {
-	name="Diosporus" #PLRE vol.1 ...por...
-	#praeses Tripolitanae IV/V
-	religion = nicene
-	culture = roman
-	trait = honest
-	trait = just
-	trait = temperate
-	370.1.1={
-		birth=yes
-	}
-	450.1.1={
-		death=yes
-	}
-}
-1300904 = {
-	name="Octavianus" #PLRE vol.1 ...ianus
-	#praeses Tripolitanae IV/V
-	religion = nicene
-	culture = roman
-	360.1.1={
-		birth=yes
-	}
-	440.1.1={
-		death=yes
-	}
-}
-1300905 = {
-	name="Iulianus" #PLRE vol.2 Iul...  (found in fasti, I couldn't find his entry)
-	#?governor of Numidia ?L IV/E V
-	religion = nicene
-	culture = roman
-	350.1.1={
-		birth=yes
-	}
-	410.1.1={
-		death=yes
-	}
-}
-1300906 = {
-	name="Donatianus" #PLRE vol.2 Fl. Barbarus Donatianus 2
-	#consularis Numidiae ?397/398
-	religion = nicene
-	culture = roman
-	350.1.1={
-		birth=yes
-	}
-	410.1.1={
-		death=yes
-	}
-}
-
-1300910 = {
-	name="Gracchus" #PLRE vol.2 Gracchus
-	#?consularis Campaniae a. 397 May 24, PVR a. 415 July 25
-	religion = nicene
-	culture = roman
-	370.1.1={
-		birth=yes
-	}
-	450.1.1={
-		death=yes
-	}
-}
-
 
 1300916 = {
 	name="Theodotus" #PLRE vol.2 Theodotus 2
