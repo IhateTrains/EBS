@@ -10,6 +10,30 @@
 		death=yes
 	}
 }
+109701 = { 
+	name="Antti"
+	dynasty=1207
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1300438
+	440.1.1={
+		birth = yes
+	}
+	476.1.1={
+		effect = {
+			set_global_flag = historical_events_fall_of_rome
+            set_global_flag = settings_flag
+		}
+	}
+	480.1.1={
+		effect = {
+			clr_global_flag = historical_events_fall_of_rome
+		}
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300439 = {
 	name="Satajalka" #fictional
@@ -23,6 +47,46 @@
 		death=yes
 	}
 }
+1301190 = { #fictional
+	name="Reko"
+	dynasty=1207
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 109701
+	490.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+1301191 = { #fictional
+	name="Sampo"
+	dynasty=1207
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1301190
+	540.1.1={
+		birth = yes
+	}
+	610.1.1={
+		death = yes
+	}
+}
+
+109702 = { 
+	name="Otso"
+	dynasty=134
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1300439
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300440 = {
 	name="Ihanti" #fictional
@@ -34,6 +98,73 @@
 	}
 	476.1.1={
 		death=yes
+	}
+}
+
+1301192 = { #fictional
+	name="Terho"
+	dynasty=134
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 109702
+	490.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+1301193 = { #fictional
+	name="Voitto"
+	dynasty=134
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1301192
+	540.1.1={
+		birth = yes
+	}
+	610.1.1={
+		death = yes
+	}
+}
+
+109703 = { 
+	name="Päiviö"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1300440
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+1301194 = { #fictional
+	name="Vesa"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 109703
+	490.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+1301195 = { #fictional
+	name="Mielitty"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1301194
+	540.1.1={
+		birth = yes
+	}
+	610.1.1={
+		death = yes
 	}
 }
 
@@ -201,6 +332,45 @@
 	}
 }
 
+109708 = {
+	name="Arulmolivarman"
+	dynasty=1043015
+	religion="hindu"
+	culture="tamil"
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+109709 = {
+	name="Nirmala"
+	dynasty=1029191
+	religion="buddhist"
+	culture="sinhala"
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+109710 = {
+	name="Yacob"
+	dynasty=101790
+	religion="miaphysite"
+	culture="ethiopian"
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
 1300461 = { #fictional
 	name="Aws"
 	dynasty=101870
@@ -213,6 +383,60 @@
 		religion = nestorian
 	}
 	476.1.1={
+		death = yes
+	}
+}
+109711 = {
+	name="Hafiz"
+	dynasty=101870
+	religion="nestorian"
+	culture="tribal_arab"
+	father = 1300461
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+1300080 = {
+	name="Jabalah"
+	dynasty=101870
+	father = 109711
+	religion="nestorian"
+	culture="tribal_arab"
+	480.1.1={
+		birth = yes
+	}
+	560.1.1={
+		death = yes
+	}
+}
+
+1300081 = {
+	name="Aswad"
+	dynasty=101870
+	father = 1300080
+	religion="nestorian"
+	culture="tribal_arab"
+	520.1.1={
+		birth = yes
+	}
+	600.1.1={
+		death = yes
+	}
+}
+
+109712 = {
+	name="Methodios"
+	dynasty=109701
+	religion="hellenic_pagan"
+	culture="tsakonian"
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
 		death = yes
 	}
 }
@@ -243,6 +467,19 @@
 		death=yes
 	}
 }
+109714 = {
+	name="Nenyts"
+	dynasty=1029111
+	religion="finnish_pagan"
+	culture="samoyed"
+	father = 1300442
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300446 = {
 	name="Tommo" #fictional
@@ -256,6 +493,19 @@
 		death=yes
 	}
 }
+109715 = { 
+	name="Yapti"
+	dynasty=100381
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 1300446
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300441 = {
 	name="Kako" #fictional
@@ -267,6 +517,19 @@
 	}
 	476.1.1={
 		death=yes
+	}
+}
+109716 = { 
+	name="Miemo"
+	dynasty=1029143
+	religion="finnish_pagan"
+	culture="samoyed"
+	father = 1300441
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
 	}
 }
 
@@ -308,6 +571,19 @@
 		death=yes
 	}
 }
+109718 = { 
+	name="Kezhedey"
+	dynasty=9537
+	religion="baltic_pagan"
+	culture="aesti"
+	father = 1300478
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300476 = {
 	name="Aras" #fictional
@@ -319,6 +595,20 @@
 	}
 	476.1.1={
 		death=yes
+	}
+}
+
+109719 = {
+	name="Setyamka"
+	dynasty=9539
+	religion="baltic_pagan"
+	culture="aesti"
+	father = 1300476
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
 	}
 }
 
@@ -460,6 +750,19 @@
 		death=yes
 	}
 }
+109725 = {
+	name="Erziya"
+	dynasty=1029104
+	religion="finnish_pagan"
+	culture="mordvin"
+	father = 1300447
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300450 = {
 	name="Andyamo" #fictional
@@ -472,6 +775,34 @@
 	476.1.1={
 		death=yes
 	}
+}
+109726 = {
+	name="Tugan"
+	dynasty=1029110
+	religion="finnish_pagan"
+	culture="khanty"
+	father = 1300450
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+109727 = {
+    name="Dzata"
+    dynasty=100382
+    religion="finnish_pagan"
+    culture="komi"
+    father=1302002    #Nuyanza, fictional
+    mother=1302015    #Serzhay, fictional
+    440.1.1={
+        birth = yes
+    }
+    510.1.1={
+        death = yes
+    }
 }
 
 1300449 = {
@@ -487,6 +818,20 @@
 	}
 }
 
+109728 = {
+	name="Jordi"
+	dynasty=100384
+	religion="finnish_pagan"
+	culture="komi"
+	father = 1300449
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
 1300448 = {
 	name="Yapti" #fictional
 	dynasty=100385
@@ -497,6 +842,37 @@
 	}
 	476.1.1={
 		death=yes
+	}
+}
+109729 = {
+	name="Orf"
+	dynasty=100385
+	religion="finnish_pagan"
+	culture="samoyed"
+	father = 1300448
+	440.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+109730 = {
+	name="Kashyapa"
+	dynasty=109703
+	religion="buddhist"
+	culture="sinhala"
+	father = 109743
+	440.1.1={
+		birth = yes
+	}
+	473.1.1={
+		give_nickname = nick_the_usurper
+		add_trait = kinslayer
+	}
+	510.1.1={
+		death = yes
 	}
 }
 
@@ -511,6 +887,63 @@
 		death = yes
 	}
 }
+109731 = {
+	name="Zarqa"
+	dynasty=109704
+	father = 1300467
+	dna="ceigezefaat"
+	female=yes
+	
+	martial=12
+	diplomacy=11
+	intrigue=14
+	stewardship=9
+	learning = 5
+	
+	religion="semitic_pagan"
+	culture="tribal_arab"
+	trait = "mastermind_theologian"
+	trait = "mystic"
+	trait = "fair"
+	trait = "quick"
+	trait = "diligent"
+	trait = "ambitious"
+	trait = "chaste"
+	459.5.4={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+109732 = {
+	name="al-Mundhir"
+	dynasty=1042194
+	religion="nestorian"
+	culture="khalan"
+	father = 144
+	459.5.4={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
+
+109733 = {
+	name="al-Harith"
+	dynasty=1042193
+	religion="monophysite"
+	culture="khalan"
+	father = 136
+	459.5.4={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300488 = {
 	name="Vinekh" #fictional
@@ -522,6 +955,19 @@
 	}
 	476.1.1={
 		death=yes
+	}
+}
+109734 = {
+	name="Sko'ti"
+	dynasty=38
+	religion="tengri_pagan"
+	culture="barsil"
+	father = 1300488
+	450.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
 	}
 }
 
@@ -569,6 +1015,18 @@
 		death = yes
 	}
 }
+109738 = {
+	name="Hayu"
+	religion="semitic_pagan"
+	culture="minaean"
+	father = 1300466
+	450.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300462 = {
 	name="Job" #fictional
@@ -581,6 +1039,18 @@
 		death = yes
 	}
 }
+109739 = {
+	name="Abkarib"
+	religion="semitic_pagan"
+	culture="sabaean"
+	father = 1300462
+	450.1.1={
+		birth = yes
+	}
+	510.1.1={
+		death = yes
+	}
+}
 
 1300463 = {
 	name="Musnad" #fictional
@@ -590,6 +1060,18 @@
 		birth = yes
 	}
 	466.1.1={
+		death = yes
+	}
+}
+109740 = {
+	name="Hufn"
+	religion="semitic_pagan"
+	culture="hadhramaut"
+	father = 1300463
+	450.1.1={
+		birth = yes
+	}
+	510.1.1={
 		death = yes
 	}
 }
@@ -685,12 +1167,69 @@
 	}
 }
 
+109746 = {
+	name="Bertger"
+	religion="germanic_pagan"
+	culture="old_frankish"
+	440.1.1={
+		birth = yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+
+109747 = {
+	name="Chlodman"
+	religion="germanic_pagan"
+	culture="old_frankish"
+	440.1.1={
+		birth = yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+
+109748 = {
+	name="Britomaros"
+	religion="celtic_pagan"
+	culture="przeworsk"
+	dynasty=109706
+	trait="content"
+	trait="cynical"
+	410.1.1={
+		birth = yes
+	}
+	470.1.1={
+		add_spouse=109749
+	}
+	540.1.1={
+		death = yes
+	}
+}
+
 109749 = {
 	name="Zdebora"
 	religion="slavic_pagan"
 	culture="old_slavic"
 	female=yes
 	450.1.1={
+		birth = yes
+	}
+	540.1.1={
+		death = yes
+	}
+}
+
+109750 = {
+	name="Duratios"
+	religion="baltic_pagan"
+	culture="przeworsk"
+	dynasty=109706
+	father=109748
+	mother=109749
+	472.1.1={
 		birth = yes
 	}
 	540.1.1={
@@ -758,6 +1297,18 @@
 	}
    	476.1.1={
 		death=yes
+	}
+}
+109753 = {
+	name="Gradi"
+	religion="baltic_pagan"
+	culture="przeworsk"
+	father = 1300496
+	440.1.1={
+		birth = yes
+	}
+	540.1.1={
+		death = yes
 	}
 }
 
@@ -850,6 +1401,24 @@
 	}
 }
 
+109759 = {
+   	name="Grod"
+	dynasty=1042167
+   	religion="tengri_pagan"
+	culture="hunnic"
+	trait="strong"
+	trait="brave"
+	trait="zealous"
+	father=69
+
+   	455.1.1={
+		birth=yes
+	}
+   	530.1.1={
+		death=yes
+	}
+}
+
 109760 = {
    	name="Pankratios"
    	religion="mithraic_pagan"
@@ -857,6 +1426,61 @@
 
    	455.1.1={
 		birth=yes
+	}
+   	530.1.1={
+		death=yes
+	}
+}
+
+109761 = {
+   	name="Epanos"
+   	religion="celtic_pagan"
+	culture="lusitanian"
+
+   	455.1.1={
+		birth=yes
+	}
+   	530.1.1={
+		death=yes
+	}
+}
+
+109762 = {
+   	name="Ogri"
+	dynasty=1042190
+   	religion="scythian_pagan"
+	culture="hunnic"
+	father=113
+	mother=109767
+ 
+	476.1.1={
+		birth = yes
+	}
+	476.1.2={
+		effect = {
+			culture="bolghar"
+		}
+	}
+   	530.1.1={
+		death=yes
+	}
+}
+
+109763 = {
+   	name="Valag"
+	dynasty=1042191
+   	religion="scythian_pagan"
+	culture="hunnic"
+	father=114
+	mother=109766
+
+	476.1.1={
+		birth = yes
+	}
+	476.1.2={
+		effect = {
+			culture="bolghar"
+		}
 	}
    	530.1.1={
 		death=yes
@@ -948,6 +1572,20 @@
 	}
 }
 
+109769 = { # fictional
+   	name="Erikos"
+   	religion="nicene"
+	culture="massalian"
+	dynasty=109769
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
 109770 = {
    	name="Shaytana" #In honor of Shaytana, creator of the Lux Invicta mod.
    	religion="latin_solar_pagan"
@@ -955,6 +1593,40 @@
 	culture="african_romance"
 	female=yes
 	dna=bcgfdmedaag
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109771 = {
+   	name="Achaman"
+   	religion="central_african_pagan"
+    culture="guanches"
+    learning=8
+	martial=16
+	diplomacy=5
+	intrigue=11
+	stewardship=7
+	trait="zealous"
+    trait="cruel"
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109772 = {
+   	name="Wadi"
+   	religion="buddhist"
+	culture="sinhala"
+	dynasty=109709
 
    	450.1.1={
 		birth=yes
@@ -976,6 +1648,19 @@
 		death=yes
 	}
 }
+109773 = {
+   	name="Bni"
+   	religion="cybelian_pagan"
+	culture="riffian"
+	father = 1300455
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
 
 1300456 = {
    	name="Ides" # fictional
@@ -989,11 +1674,64 @@
 		death=yes
 	}
 }
+109774 = {
+   	name="Afus"
+   	religion="mastimani"
+	culture="tamazight"
+	father = 1300456
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109775 = {
+   	name="Tipaza"
+   	religion="valentinianism"
+	culture="shenwa"
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
 
 109776 = {
    	name="Chlef"
    	religion="african_solar_pagan"
 	culture="african_romance"
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109777 = {
+   	name="Yufayyur"
+   	religion="mastimani"
+	culture="tamazight"
+	father = 1300405
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109778 = {
+   	name="Misibsen"
+   	religion="african_solar_pagan"
+	culture="mzab_wargla"
 
    	450.1.1={
 		birth=yes
@@ -1017,6 +1755,33 @@
 	}
 }
 
+109780 = {
+   	name="Lanzanub"
+   	religion="central_african_pagan"
+	culture="mzab_wargla"
+	father = 1300408
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109781 = {
+   	name="Taggara"
+   	religion="african_solar_pagan"
+	culture="tacawit"
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
 1300670 = { #fictional
    	name="Idder"
    	religion="african_solar_pagan"
@@ -1026,6 +1791,19 @@
 		birth=yes
 	}
    	470.1.1={
+		death=yes
+	}
+}
+109782 = {
+   	name="Nafusa"
+   	religion="african_solar_pagan"
+	culture="nafusi"
+	father = 1300670
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
 		death=yes
 	}
 }
@@ -1196,6 +1974,32 @@
 	}
 }
 
+109793 = {
+   	name="Udi"
+   	religion="manichean"
+	culture="caucasian_albanian"
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109794 = {
+   	name="Amida"
+   	religion="miaphysite"
+	culture="corduenian"
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
 1300598 = {
    	name="Martiya"
    	religion="zoroastrian"
@@ -1206,5 +2010,50 @@
 	}
    	460.1.1={
 		death=yes
+	}
+}
+109795 = {
+   	name="Artabanus"
+   	religion="zoroastrian"
+	culture="indo_parthian"
+	trait=zurvanist_trait
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109796 = {
+   	name="Cunobelinus" #fictional
+   	religion="celtic_pagan"
+	culture="gallic"
+
+   	450.1.1={
+		birth=yes
+	}
+   	520.1.1={
+		death=yes
+	}
+}
+
+109797 = {
+	name="Jafaar" # This name and this character are conjecture, added solely to allow the Trading Company to hold a City in Socotra; we don't know any names or rulers of the real traders of Socotra, or whether they were real traders or just pirates
+	religion="nestorian"
+	culture="tribal_arab"
+
+	trait = greedy
+	trait = imposing
+	trait = impaler
+	trait = cruel
+	trait = cynical
+	trait = strong
+
+	440.1.1={
+		birth = yes
+	}
+	480.1.1={
+		death = yes
 	}
 }

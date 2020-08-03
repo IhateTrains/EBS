@@ -362,18 +362,18 @@
 }
 
 159807 = {
-	name="Magnus Maximus" # aka Macsen Wledig
-	dynasty=1029135 #Macsen
-	religion="nicene"
-	culture="romano_hispanic"
+	name="Macsen" # Wledig
+	dynasty=1029129 #Gwent
+	religion="insular"
+	culture="briton"
 	339.1.1={
 		birth="339.1.1"
 	}
 	360.1.1={
-		add_spouse=188549
+		add_spouse=159430
 	}
-	388.8.28={
-		death="388.8.28"
+	380.1.1={
+		death="380.1.1"
 	}
 }
 

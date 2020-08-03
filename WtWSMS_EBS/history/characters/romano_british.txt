@@ -118,14 +118,33 @@
 	name="Ceneu" # 
 	dynasty=1029002 #Ebrauc
 	religion="insular"
-	culture="romano_british"
+	culture="briton"
 	father=159038 # Coel
 	mother=159951 #Ystradwel of Dumnonia
-	390.1.1={
-		birth="390.1.1"
+	
+	add_trait="content"
+	add_trait="skilled_warrior"
+	add_trait="proud"
+	add_trait="hunter"
+	add_trait="ambitious"
+	add_trait = tough_soldier
+	add_trait = shrewd
+	add_trait = tall
+	
+	384.9.13={
+		birth=yes
+		prestige=1070
 	}
-	460.1.1={
-		death="460.1.1"
+	
+	445.1.1 = {
+		
+		wealth = 220
+	
+	}
+
+	451.12.23={
+		add_trait="pneumonic"
+		death = { death_reason = death_trait }
 	}
 }
 159038 = {
@@ -231,11 +250,11 @@
 159810 = {
 	name="Severa" # 
 	female = yes
-	dynasty=1029135 #Macsen
+	dynasty=1029129 #Gwent
 	religion="insular"
-	culture="romano_british"
+	culture="briton"
 	father=159807
-	mother=188549
+	mother=159430
 	360.1.1={
 		birth="360.1.1"
 	}
@@ -249,11 +268,11 @@
 159811 = {
 	name="Gratianna" # 
 	female = yes
-	dynasty=1029135 #Macsen
+	dynasty=1029129 #Gwent
 	religion="insular"
-	culture="romano_british"
+	culture="briton"
 	father=159807
-	mother=188549
+	mother=159430
 	361.1.1={
 		birth="361.1.1"
 	}
@@ -319,12 +338,12 @@
 	}
 }
 159812 = {
-	name="Constantinus" # 
- 	dynasty=1029135 #Macsen
+	name="Custennin" # 
+ 	dynasty=1029129 #Gwent
  	religion="insular"
- 	culture="romano_british"
+ 	culture="briton"
  	father=159807
- 	mother=188549
+ 	mother=159430
  	361.1.1={
  		birth="361.1.1"
 	}
@@ -337,9 +356,9 @@
 	name="Prawst"
 	female = yes
 	religion="insular"
-	culture="romano_british"
-	dynasty=1042292 #Meriadoc
-	father=188544
+	culture="briton"
+	dynasty=1029040 #Dyfnaint
+	father=159436
 	mother=159811
 	406.1.1={
 		birth="406.1.1"
@@ -355,9 +374,9 @@
 	name="Ystradwel"
 	female=yes
 	religion="insular"
-	culture="romano_british"
-	dynasty=1042292 #Meriadoc
-	father=188546
+	culture="briton"
+	dynasty=1029040 #Dyfnaint
+	father=159432
 	345.1.1={
 		birth="345.1.1"
 	}

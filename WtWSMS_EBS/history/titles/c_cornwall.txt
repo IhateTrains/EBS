@@ -15,13 +15,10 @@
 443.1.1 = {
 	holder = 1300524 # king Merion
 }
-480.1.1 = {
-	holder = 1300525 # king Mark
-}
-501.1.1 = {
+470.1.1 = {
  	holder = 1 # Salom
 }
-506.6.6 = {
+483.6.6 = {
 	holder = 20617  # Fracan
 }
 530.1.1 = {

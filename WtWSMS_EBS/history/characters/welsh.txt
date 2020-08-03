@@ -438,76 +438,6 @@
 		death="490.1.1"
 	}
 }
-
-159037 = {
-	name="Ceneu" # 
-	dynasty=1029002 #Ebrauc
-	religion="insular"
-	culture="briton"
-	father=159038 # Coel
-	mother=159951 #Ystradwel of Dumnonia
-	
-	add_trait="content"
-	add_trait="skilled_warrior"
-	add_trait="proud"
-	add_trait="hunter"
-	add_trait="ambitious"
-	add_trait = tough_soldier
-	add_trait = shrewd
-	add_trait = tall
-	
-	384.9.13={
-		birth=yes
-		prestige=1070
-	}
-	
-	445.1.1 = {
-		
-		wealth = 220
-	
-	}
-
-	451.12.23={
-		add_trait="pneumonic"
-		death = { death_reason = death_trait }
-	}
-}
-159038 = {
-	name="Coel" # 
-	dynasty=1029002 #Ebrauc
-	religion="insular"
-	culture="briton"
-	340.1.1={
-		birth="340.1.1"
-	}
-	390.1.1={
-		add_spouse = 159951
-	}
-	420.1.1={
-		give_nickname= nick_the_old
-	}
-	420.1.1={
-		death="420.1.1"
-	}
-}
-159039 = {
-	name="Gwawl" # 
-	female=yes
-	dynasty=1029002 #Ebrauc
-	religion="insular"
-	culture="briton"
-	father=159038 # Coel
-	mother=159951 #Ystradwel of Dumnonia
-	355.1.1={
-		birth="355.1.1"
-	}
-	390.1.2={
-	add_spouse=159010
-	}
-	430.1.1={
-		death="430.1.1"
-	}
-}
 159040 = {
 	name="Ifwr" # ap Cadwaladr
 	dynasty=100064 #Gwynedd
@@ -1765,31 +1695,6 @@
 		death="370.1.1"
 	}
 }
-159428 = {
-	name="Einudd"
-	religion="insular"
-	culture="briton"
-	dynasty=1029001 #Prydain
-	221.1.1={
-		birth="221.1.1"
-	}
-	300.1.1={
-		death="300.1.1"
-	}
-}
-159429 = {
-	name="Eudaf" #Hen
-	religion="insular"
-	culture="briton"
-	dynasty=1029001 #Prydain
-	father=159428
-	261.1.1={
-		birth="261.1.1"
-	}
-	360.1.1={
-		death="360.1.1"
-	}
-}
 159430 = {
 	name="Elen"
 	female = yes
@@ -2037,45 +1942,6 @@
 		death="605.1.1"
 	}
 }
-159753 = {
-	name="Enid"
-	female=yes
-	religion="insular"
-	culture="briton"
-	dynasty=0 #
-	453.1.1={
-		birth="453.1.1"
-	}
-	500.1.1={
-		death="500.1.1"
-	}
-}
-159754 = {
-	name="Ermind" 
-	religion="insular"
-	culture="briton"
-	dynasty=1029040 #Dyfnaint
-	father=159439
-	452.1.1={
-		birth="452.1.1"
-	}
-	505.1.1={
-		death="505.1.1"
-	}
-}
-159755 = {
-	name="Dywel" 
-	religion="insular"
-	culture="briton"
-	dynasty=1029040 #Dyfnaint
-	father=159439
-	454.1.1={
-		birth="454.1.1"
-	}
-	505.1.1={
-		death="505.1.1"
-	}
-}
 159697 = {
 	name="Iudon"
 	religion="insular"
@@ -2087,73 +1953,6 @@
 	}
 	827.1.1={
 		death="827.1.1"
-	}
-}
-159807 = {
-	name="Macsen" # Wledig
-	dynasty=1029129 #Gwent
-	religion="insular"
-	culture="briton"
-	339.1.1={
-		birth="339.1.1"
-	}
-	360.1.1={
-		add_spouse=159430
-	}
-	380.1.1={
-		death="380.1.1"
-	}
-}
-
-159810 = {
-	name="Severa" # 
-	female = yes
-	dynasty=1029129 #Gwent
-	religion="insular"
-	culture="briton"
-	father=159807
-	mother=159430
-	360.1.1={
-		birth="360.1.1"
-	}
-	375.1.1={
-		add_spouse=159056
-	}
-	428.1.1={
-		death="428.1.1"
-	}
-}
-159811 = {
-	name="Gratianna" # 
-	female = yes
-	dynasty=1029129 #Gwent
-	religion="insular"
-	culture="briton"
-	father=159807
-	mother=159430
-	361.1.1={
-		birth="361.1.1"
-	}
-	380.1.1={
-		add_spouse=159436
-	}
-	428.1.1={
-		death="428.1.1"
-	}
-}
-
-159808 = {
-	name="Annwn Dynod" # 
-	dynasty=1029129 #Gwent
-	religion="insular"
-	culture="briton"
-	father=159807
-	mother=159430
-	345.1.1={
-		birth="345.1.1"
-	}
-	428.1.1={
-		death="428.1.1"
 	}
 }
 159813 = {
@@ -2339,45 +2138,6 @@
 		death="570.1.1"
 	}
 }
-159809 = {
-	name="Owain" # 
-	dynasty=1029130 #Cernyw
-	religion="insular"
-	culture="briton"
-	father=159807
-	357.1.1={
-		birth="357.1.1"
-	}
-	428.1.1={
-		death="428.1.1"
-	}
-}
-159826 = {
-	name="Mor" # 
-	dynasty=1029130 #Cernyw
-	religion="insular"
-	culture="briton"
-	father=159809
-	378.1.1={
-		birth="378.1.1"
-	}
-	448.1.1={
-		death="448.1.1"
-	}
-}
-159827 = {
-	name="Solor" # 
-	dynasty=1029130 #Cernyw
-	religion="insular"
-	culture="briton"
-	father=159826
-	398.1.1={
-		birth="398.1.1"
-	}
-	470.1.1={
-		death="470.1.1"
-	}
-}
 159828 = {
 	name="Glywys" # 
 	dynasty=1029130 #Cernyw
@@ -2526,39 +2286,7 @@
 		death="500.1.1"
 	}
 }
-159812 = {
-	name="Custennin" # 
- 	dynasty=1029129 #Gwent
- 	religion="insular"
- 	culture="briton"
- 	father=159807
- 	mother=159430
- 	361.1.1={
- 		birth="361.1.1"
-	}
-	411.1.1={
-		death="411.1.1"
-	}
-}
 
-159932 = {
-	name="Prawst"
-	female = yes
-	religion="insular"
-	culture="briton"
-	dynasty=1029040 #Dyfnaint
-	father=159436
-	mother=159811
-	406.1.1={
-		birth="406.1.1"
-	}
-	435.1.1={
-		add_spouse = 159323
-	}
-	500.1.1={
-		death="500.1.1"
-	}
-}
 
 159933 = {
 	name="Celeinion" # 
@@ -2801,23 +2529,6 @@
 	}
 }
 
-159951 = {
-	name="Ystradwel"
-	female=yes
-	religion="insular"
-	culture="briton"
-	dynasty=1029040 #Dyfnaint
-	father=159432
-	345.1.1={
-		birth="345.1.1"
-	}
-	390.1.1={
-		add_spouse = 159038
-	}
-	400.1.1={
-		death="400.1.1"
-	}
-}
 
 159952 = {
 	name="Cynfarch" #Oer
