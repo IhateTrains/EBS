@@ -139,19 +139,6 @@ d_raetia_prima = {
 	}
 }
 
-d_raetia_secunda = {
-	color={ 150 230 145 }
-	color2 = { 255 255 255 }
-	
-	capital = 315 # Kempten
-	
-	culture = roman
-	
-	allow = {
-		always = no
-	}
-}
-
 k_chionites = { #Xionites
 	color={ 173 123 83 }
 	
