@@ -1,34 +1,4 @@
-k_nicene = {
-	color={ 217 155 177 }
-	color2={ 220 220 0 }
-	
-	capital = 774 # Jerusalem
-	
-	title = "HIGH_PATRIARCH"
-	foa = "POPE_FOA"
-	
-	short_name = yes
 
-	# Always exists
-	landless = yes
-	
-	# Controls a religion
-	controls_religion = nicene
-	
-	religion = nicene
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
-	
-	# Regnal names
-	male_names = {
-		Abraham Alexandros Alexios Agatho Anastasios Andronikos Athanasios Benjamin Christodolos Cosmas Kyril Damian 
-		Demetrius Dioscorus Gabriel Yohannes Iosephos Isaakios Iakobos Makarios Markianos Markos Matheos Khail Mina 
-		Petros Philotheos Shenouda Simeon Theodoros Theophilus Timotheos Zacharias
-	}
-}
 d_insular = {
 	color={ 217 155 177 }
 	color2={ 220 220 0 }
@@ -668,7 +638,7 @@ d_orospeda = {
 	color={ 50 50 160 }
 	color2 = { 255 255 255 }
 	
-	capital = 179 # Háiþi
+	capital = 179 # H i i
 	
 	culture = visigothic
 
@@ -1315,8 +1285,8 @@ k_wales = {
 	
 	culture = welsh	
 	
-	old_saxon = Wéalas
-	anglo = Wéalas
+	old_saxon = W alas
+	anglo = W alas
 	briton = Cymry
 	roman = Cambria
 	romano_gallic = Cambria
@@ -1799,7 +1769,7 @@ d_sussex = {
 	pannonian = Noviomagus
 	dalmatian = Noviomagus
 	noricroman = Noviomagus
-	old_saxon = Suþseaxna
+	old_saxon = Su seaxna
 	anglo = Sudsaexland
 	
 	capital = 25 # Sussex
@@ -2363,9 +2333,9 @@ k_orkney = {
 	
 	capital = 36 # Orkney
 	
-	swedish = "Orknö"
-	danish = "Orknø"
-	norse = "Orknö"
+	swedish = "Orkn "
+	danish = "Orkn "
+	norse = "Orkn "
 	scottish = "Arcaibh"
 	pictish = "Arcaibh"
 	irish = "Insi Orc"
@@ -2381,7 +2351,7 @@ k_orkney = {
 	romano_persian = "Orcades"
 	romano_frank = "Orcades"
 	romano_gallic = "Orcades"
-	greek = "Órkneï"
+	greek = " rkne "
 	old_slavic = "Orkneyskiye"
 	polish = Orkady
 	
@@ -2587,8 +2557,8 @@ d_arbayistan = {
 e_wre = {
 	color={ 220 20 60 }
 	
-	capital = 351 #	Ravenna (402–476)
-	#capital = 235 # Mediolanum (286–402)
+	capital = 351 #	Ravenna (402 476)
+	#capital = 235 # Mediolanum (286 402)
 	
 	culture = roman
 
@@ -2608,7 +2578,7 @@ e_hre = {
 	color={ 155 155 155 }
 	color2={ 220 220 20 }
 	
-	capital = 90 # Jülich / Aachen
+	capital = 90 # J lich / Aachen
 	
 	religion=catholic
 	culture = german
@@ -3165,7 +3135,7 @@ k_franconia = {
 	color={ 100 108 100 }
 	color2={ 255 255 255 }
 	
-	capital = 254 # Würzburg
+	capital = 254 # W rzburg
 
 	title_prefix = "GRAND_DUCHY_PREFIX"
 	title = "GRAND_DUCHY_RULER"
