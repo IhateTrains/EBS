@@ -163,7 +163,7 @@ k_papal_state = {
 		Gregorius Hadrianus Honorius Innocentius Ioannes Marinus Martinus
 		Nicolaus Sergius Silvester Stephanus Urbanus Victor
 		Lucius Callixtus Iulius Pelagius Adeodatus Theodorus Agapetus Damasus Paschalis
-		Gelasius Marcellus "Ioannes Paulus" Anacletus Evaristus Telesphorus Hyginus Anicetus Marcus Hilarius 
+		Gelasius Marcellus "Ioannes Paulus" Anacletus Evaristus Telesphorus Hyginus Anicetus Marcus Hilarius 
 		Simplicius Symmachus Hormisdas Silverius Vigilius Sabinianus Severinus Vitalianus Donus Agatho
 		Conon Sisinnius Constantinus Zacharias Valentinus Formosus Romanus Lando
 	}
@@ -260,7 +260,7 @@ d_papal_state = {
 		Gregorius Hadrianus Honorius Innocentius Ioannes Martinus
 		Nicolaus Sergius Silvester Stephanus Urbanus Victor
 		Lucius Callixtus Iulius Pelagius Adeodatus Theodorus Marinus Agapetus Damasus Paschalis
-		Gelasius Marcellus "Ioannes Paulus" Anacletus Evaristus Telesphorus Hyginus Anicetus Marcus Hilarius 
+		Gelasius Marcellus "Ioannes Paulus" Anacletus Evaristus Telesphorus Hyginus Anicetus Marcus Hilarius 
 		Simplicius Symmachus Hormisdas Silverius Vigilius Sabinianus Severinus Vitalianus Donus Agatho
 		Conon Sisinnius Constantinus Zacharias Valentinus Formosus Romanus Lando
 	}
@@ -1082,18 +1082,18 @@ e_germania = {
 		germanic_pagan_reformed = 5000 # Crusade target weight
 
 		thuringian = Wheisseloand 
-		alamannian = Waioosänd 
+		alamannian = Waioos nd 
 		burgundian = Hveitsland
 		old_saxon = Voetland 
 		anglo = Voetland 
-		lombard = Voetsþleudan
-		visigothic = Hveitslàndis
-		ostrogothic = Hveitslàndis
-		old_frankish = Itlán
-		old_frisian = Wytlân
+		lombard = Voets leudan
+		visigothic = Hveitsl ndis
+		ostrogothic = Hveitsl ndis
+		old_frankish = Itl n
+		old_frisian = Wytl n
 		suebi = "Therach Bilanchio"
 		german = Weissland
-		jute = Hsiðþord
+		jute = Hsi  ord
 		dane = Hvidjord 
 		
 		# Creation/usurpation trigger
@@ -1109,20 +1109,20 @@ e_germania = {
 			capital = 251
 
 			thuringian = Ersheloand 
-			alamannian = Äärstoänd 
-			burgundian = Faúrþisland
+			alamannian =   rsto nd 
+			burgundian = Fa r island
 			old_saxon = Eowerteland 
 			anglo = Eowerteland 
-			lombard = Ersðeþleudan
-			visigothic = Faúrþislàndis
-			ostrogothic = Faúrþislàndis
+			lombard = Ers e leudan
+			visigothic = Fa r isl ndis
+			ostrogothic = Fa r isl ndis
 			old_frankish = Irstolan
-			old_frisian = Earstlân
+			old_frisian = Earstl n
 			suebi = "Therach Prims" 
-			frankish = Premièreterre 
+			frankish = Premi reterre 
 			german = Ersteland
-			jute = Fyersteiþord
-			dane = Førstejord 
+			jute = Fyerstei ord
+			dane = F rstejord 
 
 			c_baden = {
 				color={ 102 102 102 }
@@ -1291,19 +1291,19 @@ e_germania = {
 			capital = 122
 			
 			thuringian = Zbiheloand 
-			alamannian = Zwaidänd 
-			burgundian = Anþarland
+			alamannian = Zwaid nd 
+			burgundian = An arland
 			old_saxon = Tweidland 
 			anglo = Tweidland 
 			lombard = Tveitsleudan
-			visigothic = Anþarlàndis
-			ostrogothic = Anþarlàndis
+			visigothic = An arl ndis
+			ostrogothic = An arl ndis
 			old_frankish = Tuuietelaond
-			old_frisian = Twaddelân
+			old_frisian = Twaddel n
 			suebi = "Therach Secothica" 
-			frankish = Deuxièmeterre 
+			frankish = Deuxi meterre 
 			german = Zweiteland
-			jute = Sejujðþord
+			jute = Sejuj  ord
 			dane = Sekundjord 
 
 			c_wurttemberg = {
@@ -1372,12 +1372,12 @@ e_germania = {
 				color={ 126 126 126 }
 				color2={ 255 255 255 }
 				
-				alamannian = "Sûrwulst"
-				thuringian = "Sûrwulst"
+				alamannian = "S rwulst"
+				thuringian = "S rwulst"
 			
 				b_leiningen = {
-					alamannian = "Sûrwulst"
-					thuringian = "Sûrwulst"
+					alamannian = "S rwulst"
+					thuringian = "S rwulst"
 				}
 				b_heidelberg = {
 				}
@@ -1411,12 +1411,12 @@ e_germania = {
 
 		thuringian = Jhossrik 
 		alamannian = Groosreix
-		burgundian = Mikilduþreiki
+		burgundian = Mikildu reiki
 		old_saxon = Grotroehd
 		anglo = Grotroehd
 		lombard = Grotsreihd
-		visigothic = Mikilduþreiki
-		ostrogothic = Mikilduþreiki
+		visigothic = Mikildu reiki
+		ostrogothic = Mikildu reiki
 		old_frankish = Togcuoningkrike
 		old_frisian = Grutkeninkryk
 		suebi = "Regno Grandisch" 
@@ -1444,7 +1444,7 @@ e_germania = {
 				color={ 200 100 30 }
 				color2={ 255 255 255 }
 				
-				old_frisian = Gelderlân
+				old_frisian = Gelderl n
 				old_frankish = "Hamaland"
 			
 				b_nijmegen = {
@@ -1594,9 +1594,9 @@ e_germania = {
 				color={ 190 90 10 }
 				color2={ 255 255 255 }
 				
-				old_frisian = Eastfryslân
+				old_frisian = Eastfrysl n
 				gaulish = "Chaici"
-				old_saxon = "Ênfriskland"
+				old_saxon = " nfriskland"
 				roman = "Frisia orientalis"
 				romano_british = "Frisia orientalis"
 				illyro_roman = "Frisia orientalis"
@@ -1655,7 +1655,7 @@ e_germania = {
 				color={ 170 80 15 }
 				color2={ 255 255 255 }
 				
-				old_frisian = Fryslân
+				old_frisian = Frysl n
 			
 				b_groningen = {
 					roman = Groninga
@@ -1768,7 +1768,7 @@ e_germania = {
 				color={ 235 85 30 }
 				color2={ 255 255 255 }
 				
-				old_frisian = Hollân
+				old_frisian = Holl n
 				old_frankish = "Hol Land"
 				roman = Hollandia
 				romano_british = Hollandia
@@ -2067,7 +2067,7 @@ e_germania = {
 				color={ 245 99 50 }
 				color2={ 255 255 255 }
 				
-				old_frisian = Westfryslân
+				old_frisian = Westfrysl n
 				roman = "Frisia occidentalis"
 				romano_british = "Frisia occidentalis"
 				illyro_roman = "Frisia occidentalis"
@@ -2205,16 +2205,16 @@ e_germania = {
 
 			thuringian = Oschsewrujh
 			alamannian = Osxebrucxe
-			burgundian = Aúhsagaggs 
+			burgundian = A hsagaggs 
 			old_saxon = Ohdebrugge
 			anglo = Ohdebrugge
 			lombard = Ohtseprugge
-			visigothic = Aúhsagaggs 
-			ostrogothic = Aúhsagaggs 
+			visigothic = A hsagaggs 
+			ostrogothic = A hsagaggs 
 			old_frankish = Uosvrug
-			old_frisian = Oksebrêge
+			old_frisian = Oksebr ge
 			suebi = Buechpontich 
-			jute = Ojseißye 
+			jute = Ojsei ye 
 			dane = Oksebro 
 
 			c_bremen = {
@@ -2391,7 +2391,7 @@ e_germania = {
 				color2={ 255 255 255 }
 				
 				old_saxon = "Aldenburg"
-				old_frisian = Âldeboarch
+				old_frisian =  ldeboarch
 				
 				b_oldenburg = {
 					old_saxon = "Aldenburg"
@@ -2481,26 +2481,26 @@ e_germania = {
 			
 			culture = old_saxon
 
-			thuringian = Säuleshaus
-			alamannian = Säilääshaus
+			thuringian = S uleshaus
+			alamannian = S il  shaus
 			burgundian = Hunslrazn
-			old_saxon = Tælethäs
-			anglo = Tælethäs
-			lombard = Täleþsäs
+			old_saxon = T leth s
+			anglo = T leth s
+			lombard = T le s s
 			visigothic = Hunslrazn
 			ostrogothic = Hunslrazn
 			old_frankish = Pileirhuis
-			old_frisian = Pealthús
+			old_frisian = Pealth s
 			suebi = Pilastrichcas
-			jute = Syeþlehþem
-			dane = Søjlehjem
+			jute = Sye leh em
+			dane = S jlehjem
 
 			c_anhalt = {
 				color={ 184 184 184 }
 				color2={ 255 255 255 }
 
 				pommeranian = Dolomici
-				old_saxon = "Uuordtêcan"
+				old_saxon = "Uuordt can"
 				
 				holy_site = germanic_pagan
 				holy_site = germanic_pagan_reformed
@@ -2913,7 +2913,7 @@ e_germania = {
 			old_frankish = Duonau
 			old_frisian = Rivierby
 			suebi = Danubio
-			jute = Ðyenau
+			jute =  yenau
 			dane = Donau
 			polish = Dunaj
 			roman = Danubius
@@ -3105,13 +3105,13 @@ e_germania = {
 				noricroman = "Castra Batava"
 				latin = "Castra Batava"
 				raetoroman = "Castra Batava"
-				rygir = "Þreisaþabaúrgs"
-				gepid = "Þreisaþabaúrgs"
-				ostrogothic = "Þreisaþabaúrgs"
+				rygir = " reisa aba rgs"
+				gepid = " reisa aba rgs"
+				ostrogothic = " reisa aba rgs"
 				old_saxon = "Thrieahaburg"
-				lombard = "Drîfluzburg"
-				alamannian = "Drîfluzburg"
-				thuringian = "Drîfluzburg"
+				lombard = "Dr fluzburg"
+				alamannian = "Dr fluzburg"
+				thuringian = "Dr fluzburg"
 				
 				b_passau = {
 					roman = "Castra Batava"
@@ -3132,13 +3132,13 @@ e_germania = {
 					noricroman = "Castra Batava"
 					latin = "Castra Batava"
 					raetoroman = "Castra Batava"
-					rygir = "Þreisaþabaúrgs"
-					gepid = "Þreisaþabaúrgs"
-					ostrogothic = "Þreisaþabaúrgs"
+					rygir = " reisa aba rgs"
+					gepid = " reisa aba rgs"
+					ostrogothic = " reisa aba rgs"
 					old_saxon = "Thrieahaburg"
-					lombard = "Drîfluzburg"
-					alamannian = "Drîfluzburg"
-					thuringian = "Drîfluzburg"
+					lombard = "Dr fluzburg"
+					alamannian = "Dr fluzburg"
+					thuringian = "Dr fluzburg"
 				}
 				b_ortenburg = {
 				}
@@ -3184,17 +3184,17 @@ e_germania = {
 				pommeranian = Ploni
 				thuringian = "Degenburg"
 				alamannian = "Degenburg"
-				rygir = "Draúhtsbaúrgs"
-				ostrogothic = Draúhtsbaúrgs
-				romano_gothic = Draúhtsbaúrgs
+				rygir = "Dra htsba rgs"
+				ostrogothic = Dra htsba rgs
+				romano_gothic = Dra htsba rgs
 				
 				b_plauen = {
 					pommeranian = Ploni
 					thuringian = "Degenburg"
 					alamannian = "Degenburg"
-					rygir = "Draúhtsbaúrgs"
-					ostrogothic = Draúhtsbaúrgs
-					romano_gothic = Draúhtsbaúrgs
+					rygir = "Dra htsba rgs"
+					ostrogothic = Dra htsba rgs
+					romano_gothic = Dra htsba rgs
 				}
 				b_leipzig = {
 					pommeranian = Lipsk
@@ -3321,20 +3321,20 @@ e_germania = {
 		baltic_pagan_reformed = 1500
 
 		thuringian = Oshenloand 
-		alamannian = Ostäänänd 
+		alamannian = Ost  n nd 
 		burgundian = Afland
 		old_saxon = Otdenland 
 		anglo = Otdenland 
 		lombard = Otdenland 
-		visigothic = Aflàndis
-		ostrogothic = Aflàndis
+		visigothic = Afl ndis
+		ostrogothic = Afl ndis
 		old_frankish = Ovtinloand
-		old_frisian = Eastersklân
+		old_frisian = Easterskl n
 		suebi = "Therach Oriens" 
 		frankish = Estterre 
 		german = Ostenlannd
-		jute = Yestþord
-		dane = Østjord
+		jute = Yest ord
+		dane =  stjord
 
 		d_werle = {
 			color={ 0 0 50 }
@@ -3349,19 +3349,19 @@ e_germania = {
 				pommeranian = Weligrad
 				old_saxon = "Mekelenborg"
 				anglo = "Mekelenborg" 
-				lebus = "Gardsbáurgs" 
-				gustow = "Gardsbáurgs"
-				denziner = "Gardsbáurgs"
-				vidivarii = "Gardsbáurgs"
+				lebus = "Gardsb urgs" 
+				gustow = "Gardsb urgs"
+				denziner = "Gardsb urgs"
+				vidivarii = "Gardsb urgs"
 				
 				b_mecklemburg = {
 					pommeranian = Weligrad
 					old_saxon = "Mekelenborg"
 					anglo = "Mekelenborg" 
-					lebus = "Gardsbáurgs" 
-					gustow = "Gardsbáurgs"
-					denziner = "Gardsbáurgs"
-					vidivarii = "Gardsbáurgs"
+					lebus = "Gardsb urgs" 
+					gustow = "Gardsb urgs"
+					denziner = "Gardsb urgs"
+					vidivarii = "Gardsb urgs"
 				}
 				b_wismar = {
 					pommeranian = Vesimer
@@ -3385,22 +3385,22 @@ e_germania = {
 				color={ 204 204 204 }
 				color2={ 255 255 255 }
 
-				pommeranian = Rastokú
+				pommeranian = Rastok 
 				old_saxon = Eldmarkt
 				anglo = "Ealdmarket"
-				lebus = "Sineigsmaþl" 
-				gustow = "Sineigsmaþl"
-				denziner = "Sineigsmaþl"
-				vidivarii = "Sineigsmaþl"
+				lebus = "Sineigsma l" 
+				gustow = "Sineigsma l"
+				denziner = "Sineigsma l"
+				vidivarii = "Sineigsma l"
 				
 				b_rostock = {
-					pommeranian = Rastokú
+					pommeranian = Rastok 
 					old_saxon = Eldmarca
 					anglo = "Ealdmarket"
-					lebus = "Sineigsmaþl" 
-					gustow = "Sineigsmaþl"
-					denziner = "Sineigsmaþl"
-					vidivarii = "Sineigsmaþl"
+					lebus = "Sineigsma l" 
+					gustow = "Sineigsma l"
+					denziner = "Sineigsma l"
+					vidivarii = "Sineigsma l"
 				}
 				b_penzlin = {	
 					pommeranian = Pentzelin	
@@ -3427,10 +3427,10 @@ e_germania = {
 				pommeranian = Dymin
 				old_saxon = Ridburg
 				anglo = "Ridburg"
-				lebus = "Sineigsmaþl" 
-				gustow = "Sineigsmaþl"
-				denziner = "Sineigsmaþl"
-				vidivarii = "Sineigsmaþl"
+				lebus = "Sineigsma l" 
+				gustow = "Sineigsma l"
+				denziner = "Sineigsma l"
+				vidivarii = "Sineigsma l"
 				
 				b_waren = {
 				}
@@ -3447,7 +3447,7 @@ e_germania = {
 				b_treptow = {
 				}
 				b_friedland = {
-					pommeranian = Mirów
+					pommeranian = Mir w
 				}
 				b_templin = {
 				}
@@ -3490,24 +3490,24 @@ e_germania = {
 				color2={ 255 255 255 }
 
 				pommeranian = Wologoszcz
-				old_saxon = Fluôtjanburg 
+				old_saxon = Flu tjanburg 
 				anglo = "Eacastel"
-				lebus = "Ahuabaúrgs" 
-				gustow = "Ahuabaúrgs"
-				denziner = "Ahuabaúrgs"
-				vidivarii = "Ahuabaúrgs"
+				lebus = "Ahuaba rgs" 
+				gustow = "Ahuaba rgs"
+				denziner = "Ahuaba rgs"
+				vidivarii = "Ahuaba rgs"
 				
 				b_wolgast = {
 					pommeranian = Wologoszcz
-					old_saxon = Fluôtjanburg 
+					old_saxon = Flu tjanburg 
 					anglo = "Eacastel"
-					lebus = "Ahuabaúrgs" 
-					gustow = "Ahuabaúrgs"
-					denziner = "Ahuabaúrgs"
-					vidivarii = "Ahuabaúrgs"
+					lebus = "Ahuaba rgs" 
+					gustow = "Ahuaba rgs"
+					denziner = "Ahuaba rgs"
+					vidivarii = "Ahuaba rgs"
 				}
 				b_usedom = {
-					pommeranian = Uznjöm
+					pommeranian = Uznj m
 				}
 				b_anklam = {	
 					pommeranian = Taglim			
@@ -3537,18 +3537,18 @@ e_germania = {
 				pommeranian = Szczecin
 				old_saxon = Tesumnaburg 
 				anglo = "Beorgcastel"
-				lebus = "Hláinsbaúrgs" 
-				gustow = "Hláinsbaúrgs"
-				denziner = "Hláinsbaúrgs"
-				vidivarii = "Hláinsbaúrgs"
+				lebus = "Hl insba rgs" 
+				gustow = "Hl insba rgs"
+				denziner = "Hl insba rgs"
+				vidivarii = "Hl insba rgs"
 			
 				b_soldin = {
 					old_saxon = Tesumnaburg 
 					anglo = "Beorgcastel"
-					lebus = "Hláinsbaúrgs" 
-					gustow = "Hláinsbaúrgs"
-					denziner = "Hláinsbaúrgs"
-					vidivarii = "Hláinsbaúrgs"
+					lebus = "Hl insba rgs" 
+					gustow = "Hl insba rgs"
+					denziner = "Hl insba rgs"
+					vidivarii = "Hl insba rgs"
 				}
 				b_stettin = {
 					pommeranian = Szczecin
@@ -3571,7 +3571,7 @@ e_germania = {
 				color2={ 255 255 255 }
 				
 				pommeranian = "Gdansk"
-				polish = "Gdañsk"
+				polish = "Gda sk"
 				bohemian = "Gdansk"
 				russian = "Gdansk"
 				prussian = "Gdansk"
@@ -3583,10 +3583,10 @@ e_germania = {
 				danish = "Danzig"
 				old_saxon = Lanmerce 
 				anglo = "Langmarket"
-				lebus = "Laggsmaþl" 
-				gustow = "Laggsmaþl"
-				denziner = "Laggsmaþl"
-				vidivarii = "Laggsmaþl"
+				lebus = "Laggsma l" 
+				gustow = "Laggsma l"
+				denziner = "Laggsma l"
+				vidivarii = "Laggsma l"
 				roman = "Gedania"
 				romano_british = "Gedania"
 				illyro_roman = "Gedania"
@@ -3611,7 +3611,7 @@ e_germania = {
 				}
 				b_danzig = {
 					pommeranian = "Gdansk"
-					polish = "Gdañsk"
+					polish = "Gda sk"
 					bohemian = "Gdansk"
 					russian = "Gdansk"
 					prussian = "Gdansk"
@@ -3623,10 +3623,10 @@ e_germania = {
 					danish = "Danzig"
 				    old_saxon = Lanmerce 
 				    anglo = "Langmarket"
-				    lebus = "Laggsmaþl" 
-				    gustow = "Laggsmaþl"
-				    denziner = "Laggsmaþl"
-				    vidivarii = "Laggsmaþl"
+				    lebus = "Laggsma l" 
+				    gustow = "Laggsma l"
+				    denziner = "Laggsma l"
+				    vidivarii = "Laggsma l"
 					roman = "Gedania"
 					romano_british = "Gedania"
 					illyro_roman = "Gedania"
@@ -3716,12 +3716,12 @@ e_germania = {
 				norwegian = Gnesen
 				danish = Gnesen
 				old_saxon = Thiornabolta
-				anglo = "Mægdenbeorg"
-				lebus = "Maghowbaúrgs" 
-				gustow = "Maghowbaúrgs"
-				denziner = "Maghowbaúrgs"
-				vidivarii = "Maghowbaúrgs"
-				lombard = "Wîbburg"
+				anglo = "M gdenbeorg"
+				lebus = "Maghowba rgs" 
+				gustow = "Maghowba rgs"
+				denziner = "Maghowba rgs"
+				vidivarii = "Maghowba rgs"
+				lombard = "W bburg"
 				
 				b_gniezno = {
 					german = Gnesen
@@ -3730,12 +3730,12 @@ e_germania = {
 					norwegian = Gnesen
 					danish = Gnesen
 					old_saxon = Thiornabolta
-					anglo = "Mægdenbeorg"
-					lebus = "Maghowbaúrgs" 
-					gustow = "Maghowbaúrgs"
-					denziner = "Maghowbaúrgs"
-					vidivarii = "Maghowbaúrgs"
-					lombard = "Wîbburg"
+					anglo = "M gdenbeorg"
+					lebus = "Maghowba rgs" 
+					gustow = "Maghowba rgs"
+					denziner = "Maghowba rgs"
+					vidivarii = "Maghowba rgs"
+					lombard = "W bburg"
 				}
 				b_lekno = {
 				}
@@ -3763,10 +3763,10 @@ e_germania = {
 				danish = Posen
 				old_saxon = Kennianburg
 				anglo = "Cunnanburg"
-				lebus = "Kunnanbaúrgs" 
-				gustow = "Kunnanbaúrgs"
-				denziner = "Kunnanbaúrgs"
-				vidivarii = "Kunnanbaúrgs"
+				lebus = "Kunnanba rgs" 
+				gustow = "Kunnanba rgs"
+				denziner = "Kunnanba rgs"
+				vidivarii = "Kunnanba rgs"
 				lombard = "Wizzanburg"
 			
 				b_poznan = {
@@ -3777,10 +3777,10 @@ e_germania = {
 					danish = Posen
 					old_saxon = Kennianburg
 					anglo = "Cunnanburg"
-					lebus = "Kunnanbaúrgs" 
-					gustow = "Kunnanbaúrgs"
-					denziner = "Kunnanbaúrgs"
-					vidivarii = "Kunnanbaúrgs"
+					lebus = "Kunnanba rgs" 
+					gustow = "Kunnanba rgs"
+					denziner = "Kunnanba rgs"
+					vidivarii = "Kunnanba rgs"
 					lombard = "Wizzanburg"
 				}
 				b_obrzycko = {
@@ -3980,7 +3980,7 @@ e_germania = {
 				
 				old_slavic = "Dziadonszanie"
 				lombard = "Scarfiberg"
-				lebus = "Þaúrnus"
+				lebus = " a rnus"
 			
 				b_glogow = {
 					german = Glogau
@@ -3990,7 +3990,7 @@ e_germania = {
 					danish = Glogau
 					old_slavic = "Dziadonszanie"
 					lombard = "Scarfiberg"
-					lebus = "Þaúrnus"
+					lebus = " a rnus"
 				}
 				b_legnica = {
 					german = Liegnitz
@@ -4115,16 +4115,16 @@ e_germania = {
 				color={ 155 6 20}
 				color2={ 255 255 255 }
 				
-				heruli = "Manageibáurgs"
+				heruli = "Manageib urgs"
 				old_slavic = "Narodugradysty"
 				alamannian = "Heriburg"
 				vistula_veneti = "Miniamiestas"
 				old_saxon = Diduniburg
 				anglo = "Diduniburg"
-				lebus = "Didunibaúrgs" 
-				gustow = "Didunibaúrgs"
-				denziner = "Didunibaúrgs"
-				vidivarii = "Didunibaúrgs"
+				lebus = "Diduniba rgs" 
+				gustow = "Diduniba rgs"
+				denziner = "Diduniba rgs"
+				vidivarii = "Diduniba rgs"
 				lombard = "Diduniburg"
 				
 				b_kalisz = {
@@ -4266,7 +4266,7 @@ e_germania = {
 				norwegian = Krakau
 				danish = Krakau
 				old_slavic = "Krakula"
-				heruli = "Reikidraúhts"
+				heruli = "Reikidra hts"
 				lombard = "Reikburg"
 			
 				b_krakow = {
@@ -4276,7 +4276,7 @@ e_germania = {
 					norwegian = Krakau
 					danish = Krakau
 					old_slavic = "Krakula"
-					heruli = "Reikidraúhts"
+					heruli = "Reikidra hts"
 					lombard = "Reikburg"
 				}
 				b_jedrzejow = {
@@ -4301,7 +4301,7 @@ e_germania = {
 				german = Schieratz
 				lombard = Schieratz
 				alamannian = Schieratz
-				heruli = Skattsdraúhts
+				heruli = Skattsdra hts
 				vistula_veneti = "Senasnamo"
 				swedish = Schieratz
 				norse = Schieratz
@@ -4338,20 +4338,20 @@ e_germania = {
 			capital = 438 #Hradec
 
 			thuringian = Oshenloand 
-			alamannian = Ostäänänd 
+			alamannian = Ost  n nd 
 			burgundian = Afland
 			old_saxon = Otdenland 
 			anglo = Otdenland 
 			lombard = Otdenland 
-			visigothic = Aflàndis
-			ostrogothic = Aflàndis
+			visigothic = Afl ndis
+			ostrogothic = Afl ndis
 			old_frankish = Ovtinloand
-			old_frisian = Eastersklân
+			old_frisian = Easterskl n
 			suebi = "Therach Oriens" 
 			frankish = Estterre 
 			german = Ostenlannd
-			jute = Yestþord
-			dane = Østjord
+			jute = Yest ord
+			dane =  stjord
 
 			c_znojmo = {
 				color={ 51 51 51 }
@@ -4360,23 +4360,23 @@ e_germania = {
 				lombard = "Steinfluz"
 				alamannian = "Steinfluz"
 				thuringian = "Steinfluz"
-				old_slavic = "Kamênyêryeka"
-				heruli = "Stáinsahua"
-				rygir = "Stáinsahua"
-				ostrogothic = "Stáinsahua"
-				romano_gothic = "Stáinsahua"
-				skirian = "Stáinsahua"
+				old_slavic = "Kam ny ryeka"
+				heruli = "St insahua"
+				rygir = "St insahua"
+				ostrogothic = "St insahua"
+				romano_gothic = "St insahua"
+				skirian = "St insahua"
 				
 				b_mikulov = {
 					lombard = "Steinfluz"
 					alamannian = "Steinfluz"
 					thuringian = "Steinfluz"
-					old_slavic = "Kamênyêryeka"
-					heruli = "Stáinsahua"
-					rygir = "Stáinsahua"
-					ostrogothic = "Stáinsahua"
-					romano_gothic = "Stáinsahua"
-					skirian = "Stáinsahua"
+					old_slavic = "Kam ny ryeka"
+					heruli = "St insahua"
+					rygir = "St insahua"
+					ostrogothic = "St insahua"
+					romano_gothic = "St insahua"
+					skirian = "St insahua"
 				}
 				b_iglau = {
 				}
@@ -4398,22 +4398,22 @@ e_germania = {
 				color2={ 255 255 255 }
 				
 				old_slavic = "Tsyesarzhdu"
-				rygir = "Þiudigard"
-				heruli = "Þiudigard"
-				ostrogothic = "Þiudigard"
-				skirian = "Þiudigard"
-				romano_gothic = "Þiudigard"
+				rygir = " iudigard"
+				heruli = " iudigard"
+				ostrogothic = " iudigard"
+				skirian = " iudigard"
+				romano_gothic = " iudigard"
 				alamannian = "Kuningburg"
 				lombard = "Kuningburg"
 				thuringian = "Kuningburg"
 				
 				b_hradeckralove = {
 					old_slavic = "Tsyesarzhdu"
-					rygir = "Þiudigard"
-					heruli = "Þiudigard"
-					ostrogothic = "Þiudigard"
-					skirian = "Þiudigard"
-					romano_gothic = "Þiudigard"
+					rygir = " iudigard"
+					heruli = " iudigard"
+					ostrogothic = " iudigard"
+					skirian = " iudigard"
+					romano_gothic = " iudigard"
 					alamannian = "Kuningburg"
 					lombard = "Kuningburg"
 					thuringian = "Kuningburg"
@@ -4457,10 +4457,10 @@ e_germania = {
 				old_slavic = "Predhradi"
 				alamannian = "Julberg"
 				lombard = "Julberg"
-				rygir = "Faírgunibaúrgs"
-				heruli = "Faírgunibaúrgs"
-				ostrogothic = "Faírgunibaúrgs"
-				romano_gothic = "Faírgunibaúrgs"
+				rygir = "Fa rguniba rgs"
+				heruli = "Fa rguniba rgs"
+				ostrogothic = "Fa rguniba rgs"
+				romano_gothic = "Fa rguniba rgs"
 				polish = Olomuniec
 				
 				b_opava = {
@@ -4486,10 +4486,10 @@ e_germania = {
 					old_slavic = "Predhradi"
 					alamannian = "Julberg"
 					lombard = "Julberg"
-					rygir = "Faírgunibaúrgs"
-					heruli = "Faírgunibaúrgs"
-					ostrogothic = "Faírgunibaúrgs"
-					romano_gothic = "Faírgunibaúrgs"
+					rygir = "Fa rguniba rgs"
+					heruli = "Fa rguniba rgs"
+					ostrogothic = "Fa rguniba rgs"
+					romano_gothic = "Fa rguniba rgs"
 					polish = Olomuniec
 				}
 				b_sternberk = {
@@ -4531,10 +4531,10 @@ e_germania = {
 				alamannian = "Starcburg"
 				lombard = "Starcburg"
 				skirian = "Bruno"
-				rygir = "Swinþsbaúrgs" 
-				heruli = "Swinþsbaúrgs" 
-				ostrogothic = "Swinþsbaúrgs" 
-				romano_gothic = "Swinþsbaúrgs" 
+				rygir = "Swin sba rgs" 
+				heruli = "Swin sba rgs" 
+				ostrogothic = "Swin sba rgs" 
+				romano_gothic = "Swin sba rgs" 
 				
 				b_boskovice = {
 				}
@@ -4626,10 +4626,10 @@ e_germania = {
 				color2={ 255 255 255 }
 				
 				hebrew = "Bumsla"
-				rygir = "Niuklahsbaúrgs"
-				heruli = "Niuklahsbaúrgs"
-				ostrogothic = "Niuklahsbaúrgs"
-				skirian = "Niuklahsbaúrgs"
+				rygir = "Niuklahsba rgs"
+				heruli = "Niuklahsba rgs"
+				ostrogothic = "Niuklahsba rgs"
+				skirian = "Niuklahsba rgs"
 				old_slavic = "Maluk"
 				
 				b_glatz = {
@@ -4672,30 +4672,30 @@ e_germania = {
 				color={ 142 142 142 }
 				color2={ 255 255 255 }
 				
-				danish = "Lybæk"
-				swedish = "Lybäck"
-				norwegian = "Lybæk"
-				norse = "Lybæck"
+				danish = "Lyb k"
+				swedish = "Lyb ck"
+				norwegian = "Lyb k"
+				norse = "Lyb ck"
 				pommeranian = "Liubice"
 				polish = "Liubice"
 				bohemian = "Liubice"
 				prussian = "Liubice"
 				
 				b_lubeck = {
-					danish = "Lybæk"
-					swedish = "Lybäck"
-					norwegian = "Lybæk"
-					norse = "Lybæck"
+					danish = "Lyb k"
+					swedish = "Lyb ck"
+					norwegian = "Lyb k"
+					norse = "Lyb ck"
 					pommeranian = "Liubice"
 					polish = "Liubice"
 					bohemian = "Liubice"
 					prussian = "Liubice"
 					old_saxon = "Lufburg"
 					anglo = "Lufuborg" 
-					lebus = "Walisdraúhts" 
-					gustow = "Walisdraúhts"
-					denziner = "Walisdraúhts"
-					vidivarii = "Walisdraúhts"
+					lebus = "Walisdra hts" 
+					gustow = "Walisdra hts"
+					denziner = "Walisdra hts"
+					vidivarii = "Walisdra hts"
 				}
 				b_ratzeburg = {
 					danish = "Ratseborg"
@@ -4704,10 +4704,10 @@ e_germania = {
 					norwegian = "Ratseborg"
 					old_saxon = "Lufburg"
 					anglo = "Lufuborg" 
-					lebus = "Walisdraúhts" 
-					gustow = "Walisdraúhts"
-					denziner = "Walisdraúhts"
-					vidivarii = "Walisdraúhts"
+					lebus = "Walisdra hts" 
+					gustow = "Walisdra hts"
+					denziner = "Walisdra hts"
+					vidivarii = "Walisdra hts"
 				}
 				b_travemunde = {
 				}
@@ -4828,19 +4828,19 @@ e_germania = {
 				color={ 225 84 84 }
 				color2={ 255 255 255 }
 				
-				german = "Jütland"
+				german = "J tland"
 				english = "Jutland"
 			
 				b_aarhus = {
-					swedish = "Århus"
+					swedish = " rhus"
 				}
 				b_viborg = {
 				}
 				b_aalborg = {
 				}
 				b_ringkobing = {
-					swedish = "Ringköping"
-					norse = Ringköping
+					swedish = "Ringk ping"
+					norse = Ringk ping
 				}
 				b_randers = {
 				}
@@ -4890,13 +4890,13 @@ e_germania = {
 				b_slesvig = {
 				}
 				b_sonderborg = {
-					swedish = "Sönderborg"
+					swedish = "S nderborg"
 					german = "Sonderburg"
 				}
 				b_tonder = {
 				}
 				b_aabenraa = {
-					swedish = "Åbenrå"
+					swedish = " benr "
 					german = "Apenrade"
 				}
 				b_haderslev = {
@@ -4905,7 +4905,7 @@ e_germania = {
 				b_kolding = {
 				}
 				b_hedeby = {
-					norse = Heiðabyr
+					norse = Hei abyr
 				}
 			}
 			c_wadden_islands = {
@@ -4917,7 +4917,7 @@ e_germania = {
 				b_nordby = {
 				}
 				b_sonderho = {
-					swedish = "Sönderborg"
+					swedish = "S nderborg"
 					german = "Sonderburg"
 				}
 				b_mando = {
@@ -4945,28 +4945,28 @@ e_germania = {
 				color={ 216 50 50 }
 				color2={ 255 255 255 }
 				
-				swedish = Själland
-				norse = Sjælland
+				swedish = Sj lland
+				norse = Sj lland
 				english = Zealand
 				
 				holy_site = norse_pagan
 				holy_site = norse_pagan_reformed		
 				
 				b_kobenhavn = {
-					swedish = Köpenhamn
+					swedish = K penhamn
 					norse = Hafn
 				}
 				b_roskilde = {
 				}
 				b_helsingor = {
-					swedish = Helsingör
-					norse = Helsingör
+					swedish = Helsing r
+					norse = Helsing r
 				}
 				b_kalundborg = {
 				}
 				b_naestved = {
-					swedish = Nästved
-					norse = Næstved
+					swedish = N stved
+					norse = N stved
 				}
 				b_slagelse = {
 				}
@@ -4975,7 +4975,7 @@ e_germania = {
 				b_ringsted = {
 				}
 				b_lejre = {
-					norse = Hleiðra
+					norse = Hlei ra
 				}
 			}
 			c_fyn = {
@@ -5035,8 +5035,8 @@ e_germania = {
 				b_hammershus = {
 				}
 				b_nexo = {
-					swedish = "Nexö"
-					norse = "Nexö"
+					swedish = "Nex "
+					norse = "Nex "
 				}
 				b_aakirkeby = {
 				}
@@ -5571,7 +5571,7 @@ e_byzantium = {
 					turkish = "Ayvansaray"
 				}
 				b_hieron = {
-					turkish = "Kadiköy"
+					turkish = "Kadik y"
 				}
 				b_deuteron = {
 					turkish = "Topkapi"
@@ -6775,7 +6775,7 @@ e_byzantium = {
 					turkish = "Fiaki"
 				}
 				b_cerigo = {
-					turkish = "Çuha"
+					turkish = " uha"
 				}
 			}
 		}
@@ -7365,7 +7365,7 @@ e_byzantium = {
 				color={ 176 25 124 }
 				color2={ 255 255 20 }
 				
-				turkish = "Kütahya"
+				turkish = "K tahya"
 				
 				b_dorylaion = {
 					turkish = "Eskisehir"
@@ -7373,7 +7373,7 @@ e_byzantium = {
 				b_pessinus = {
 				}
 				b_kotiaion = {
-					turkish = "Kütahya"
+					turkish = "K tahya"
 				}
 				b_orkistos = {
 				}
@@ -7485,11 +7485,11 @@ e_byzantium = {
 				turkish = "Bursa"
 				
 				b_prusa = {
-					turkish = "Hüdavendigar"
+					turkish = "H davendigar"
 				}
 				b_darieium = {
 					greek = "Dorieion"
-					turkish = "Sögüt"
+					turkish = "S g t"
 				}
 				b_apamea = {
 					greek = "Trigleia"
@@ -7999,7 +7999,7 @@ e_byzantium = {
 				raetoroman = "Doliche"
 				latin = "Doliche"
 				greek = "Doliche"
-				turkish = "Gâvur"
+				turkish = "G vur"
 	
 				b_teluch = {
 					roman = "Doliche"
@@ -13106,10 +13106,10 @@ e_scandinavia = {
 		baltic_pagan_reformed = 50 # Crusade target weight
 		finnish_pagan_reformed = 50
 		
-		norse = Sviþjod
-		swede = "Svíþjóð"
+		norse = Svi jod
+		swede = "Sv  j  "
 		geatish = "Geatland"
-		saxon = "Sweoþeod"
+		saxon = "Sweo eod"
 		anglo = "Swihoniz"
 		roman = "Suetidi"
 		romano_british = "Suetidi"
@@ -13124,7 +13124,7 @@ e_scandinavia = {
 		romano_frank = "Suetidi"
 		romano_gallic = "Suetidi"
 		german = "Schweden"
-		greek = "Souidía"
+		greek = "Souid a"
 		old_slavic = "Shvetsiya"
 		dane = Sverige
 	
@@ -13138,10 +13138,10 @@ e_scandinavia = {
 			
 			capital = 290 # Uppland
 			
-			norse = Sviþjod
-			swede = "Svíþjóð"
+			norse = Svi jod
+			swede = "Sv  j  "
 			geatish = "Geatland"
-			saxon = "Sweoþeod"
+			saxon = "Sweo eod"
 			anglo = "Swihoniz"
 			roman = "Suetidi"
 			romano_british = "Suetidi"
@@ -13156,7 +13156,7 @@ e_scandinavia = {
 			romano_frank = "Suetidi"
 			romano_gallic = "Suetidi"
 			german = "Schweden"
-			greek = "Souidía"
+			greek = "Souid a"
 			old_slavic = "Shvetsiya"
 			
 			pagan_coa = {
@@ -13187,8 +13187,8 @@ e_scandinavia = {
 			   		# norse = Uppsalir
 				}
 				b_osteras = {
-					norwegian = "Østerås"
-					danish = "Østerås"
+					norwegian = " ster s"
+					danish = " ster s"
 				}
 				b_hatuna = {
 				}
@@ -13196,12 +13196,12 @@ e_scandinavia = {
 					used_for_dynasty_names = no
 				}
 				b_enkoping = {
-					norwegian = "Enkøping"
-					danish = "Enkøbing"
+					norwegian = "Enk ping"
+					danish = "Enk bing"
 				}
 				b_alsno = {
-					norwegian = "Alsnø"
-					danish = "Alsnø"
+					norwegian = "Alsn "
+					danish = "Alsn "
 				}
 				b_vaksala = {
 				}
@@ -13220,8 +13220,8 @@ e_scandinavia = {
 				b_hille = {
 				}
 				b_farnebo = {
-					norwegian = "Færnebo"
-					danish = "Færnebo"
+					norwegian = "F rnebo"
+					danish = "F rnebo"
 				}
 				b_hedesunda = {
 				}
@@ -13249,12 +13249,12 @@ e_scandinavia = {
 				b_godby = {
 				}
 				b_finstrom = {
-					norwegian = "Finstrøm"
-					danish = "Finstrøm"
+					norwegian = "Finstr m"
+					danish = "Finstr m"
 				}
 				b_eckero = {
-					norwegian = "Eckerø"
-					danish = "Eckerø"
+					norwegian = "Ecker "
+					danish = "Ecker "
 				}
 				b_kumlinge = {
 				}
@@ -13263,31 +13263,31 @@ e_scandinavia = {
 				color={ 50 35 225 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Sødermanland"
-				danish = "Sødermanland"
+				norwegian = "S dermanland"
+				danish = "S dermanland"
 				norse = "Sudermanland"
 				
 				b_nykoping = {
-					norwegian = "Nykøping"
-					danish = "Nykøbing"
+					norwegian = "Nyk ping"
+					danish = "Nyk bing"
 				}
 				b_telge = {
 				}
 				b_gripsholm = {
 				}
 				b_strangnas = {
-					norwegian = "Strængnes"
-					danish = "Strængnæs"
+					norwegian = "Str ngnes"
+					danish = "Str ngn s"
 				}
 				b_torshalla = {
-					norwegian = "Torshælla"
-					danish = "Torshælla"
+					norwegian = "Torsh lla"
+					danish = "Torsh lla"
 				}
 				b_eskilstuna = {
 				}
 				b_vaderbrunn = {
-					norwegian = "Væderbrunn"
-					danish = "Væderbrunn"
+					norwegian = "V derbrunn"
+					danish = "V derbrunn"
 				}
 				b_hundhamra = {
 				}
@@ -13297,7 +13297,7 @@ e_scandinavia = {
 			color={ 210 2 2 }
 			color2={ 255 255 255 }
 		
-			capital = 303 # Skåne
+			capital = 303 # Sk ne
 			
 			english = Scania
 			
@@ -13316,14 +13316,14 @@ e_scandinavia = {
 				b_herrevad = {
 				}
 				b_lillohus = {
-					danish = "Lilløhus"
-					norwegian = "Lilløhus"
+					danish = "Lill hus"
+					norwegian = "Lill hus"
 				}
 				b_helsingborg = {
 				}
 				b_malmo = {
-					danish = "Malmø"
-					norwegian = "Malmø"
+					danish = "Malm "
+					norwegian = "Malm "
 				}
 				b_ystad = {
 				}
@@ -13345,7 +13345,7 @@ e_scandinavia = {
 				b_kungsbacka = {
 				}
 				b_aranaes = {
-					danish = "Aranæs"
+					danish = "Aran s"
 					norwegian = "Aranes"
 				}
 				b_baastad = {
@@ -13358,16 +13358,16 @@ e_scandinavia = {
 				color2={ 255 255 255 }
 			
 				b_solvesborg_slott = {
-					danish = "Sølvesborg Slott"
-					norwegian = "Sølvesborg Slott"
+					danish = "S lvesborg Slott"
+					norwegian = "S lvesborg Slott"
 				}
 				b_solvesborg = {
-					danish = "Sølvesborg"
-					norwegian = "Sølvesborg"
+					danish = "S lvesborg"
+					norwegian = "S lvesborg"
 				}
 				b_avaskar = {
-					danish = "Avaskær"
-					norwegian = "Avaskær"
+					danish = "Avask r"
+					norwegian = "Avask r"
 				}
 				b_elleholm = {
 				}
@@ -13385,39 +13385,39 @@ e_scandinavia = {
 			color={ 44 20 169 }
 			color2={ 255 255 255 }
 			
-			capital = 293 # Östergötland
+			capital = 293 #  sterg tland
 			
-			norwegian = "Østergøtland"
-			danish = "Østergøtland"
+			norwegian = " sterg tland"
+			danish = " sterg tland"
 			norse = "Austergautland"
 			
 			c_ostergotland = {
 				color={ 50 50 149 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Østergøtland"
-				danish = "Østergøtland"
+				norwegian = " sterg tland"
+				danish = " sterg tland"
 				norse = "Austergautland"
 				
 				b_stegeborg = {
 				}
 				b_skanninge = {
-					norwegian = "Skænninge"
-					danish = "Skænninge"
+					norwegian = "Sk nninge"
+					danish = "Sk nninge"
 				}
 				b_vadstena = {
 				}
 				b_linkoping = {
-					norwegian = "Linkøping"
-					danish = "Linkøbing"
+					norwegian = "Link ping"
+					danish = "Link bing"
 				}
 				b_norrkoping = {
-					norwegian = "Norrkøping"
-					danish = "Norrkøbing"
+					norwegian = "Norrk ping"
+					danish = "Norrk bing"
 				}
 				b_soderkoping = {
-					norwegian = "Søderkøping"
-					danish = "Søderkøbing"
+					norwegian = "S derk ping"
+					danish = "S derk bing"
 				}
 				b_alvastra = {
 				}
@@ -13425,11 +13425,11 @@ e_scandinavia = {
 				}
 				b_nasborg = {
 					norwegian = "Nesborg"
-					danish = "Næsborg"
+					danish = "N sborg"
 				}
 				b_jonkoping = {
-					norwegian = "Jønkøping"
-					danish = "Jønkøbing"
+					norwegian = "J nk ping"
+					danish = "J nk bing"
 				}
 			}
 			c_narke = {
@@ -13441,12 +13441,12 @@ e_scandinavia = {
 				norse = Nerike
 				
 				b_goksholm = {
-					norwegian = "Gøksholm"
-					danish = "Gøksholm"
+					norwegian = "G ksholm"
+					danish = "G ksholm"
 				}
 				b_orebro = {
-					norwegian = "Ørebro"
-					danish = "Ørebro"
+					norwegian = " rebro"
+					danish = " rebro"
 				}
 				b_mosas = {
 				}
@@ -13472,14 +13472,14 @@ e_scandinavia = {
 				b_vimmerby = {
 				}
 				b_doderhult = {
-					norwegian = "Døderhult"
-					danish = "Døderhult"
+					norwegian = "D derhult"
+					danish = "D derhult"
 				}
 				b_hulingsryd = { # Now Hultsfred
 				}
 				b_tornsfall = {
-					norwegian = "Tørnsfall"
-					danish = "Tørnsfall"
+					norwegian = "T rnsfall"
+					danish = "T rnsfall"
 				}
 				b_kisa = {
 				}
@@ -13511,10 +13511,10 @@ e_scandinavia = {
 		d_vastergotland = {
 			color={ 46 30 205 }
 			color2={ 255 255 255 }
-			capital = 297 # Västergötland
+			capital = 297 # V sterg tland
 			
-			norwegian = "Vestergøtland"
-			danish = "Vestergøtland"
+			norwegian = "Vesterg tland"
+			danish = "Vesterg tland"
 			norse = "Vestergautland"
 			
 			pagan_coa = {
@@ -13534,25 +13534,25 @@ e_scandinavia = {
 				color={ 60 55 255 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Vestergøtland"
-				danish = "Vestergøtland"
+				norwegian = "Vesterg tland"
+				danish = "Vesterg tland"
 				norse = "Vestergautland"
 				
 				holy_site = pagan
 				
 				b_galakvist = {
-					norwegian = "Gælakvist"
-					danish = "Gælakvist"
+					norwegian = "G lakvist"
+					danish = "G lakvist"
 				}
 				b_lodose = {
-					norwegian = "Lødøse"
-					danish = "Lødøse"
+					norwegian = "L d se"
+					danish = "L d se"
 				}
 				b_skara = {
 				}
 				b_falkoping = {
-					norwegian = "Falkøping"
-					danish = "Falkøbing"
+					norwegian = "Falk ping"
+					danish = "Falk bing"
 				}
 				b_ymseborg = {
 				}
@@ -13561,8 +13561,8 @@ e_scandinavia = {
 				b_varnhem = {
 				}
 				b_lacko = {
-					norwegian = "Læckø"
-					danish = "Læckø"
+					norwegian = "L ck "
+					danish = "L ck "
 				}
 				# b_lena
 				# b_skalunda
@@ -13599,16 +13599,16 @@ e_scandinavia = {
 				b_bagahus = {
 				}
 				b_kungahalla = {
-					norwegian = "Kungahælla"
-					danish = "Kungahælla"
+					norwegian = "Kungah lla"
+					danish = "Kungah lla"
 				}
 				b_svarteborg = {
 				}
 				b_svenneby = {
 				}
 				b_ockero = {
-					norwegian = "Øckerø"
-					danish = "Øckerø"
+					norwegian = " cker "
+					danish = " cker "
 				}
 				b_hede = {
 				}
@@ -13621,17 +13621,17 @@ e_scandinavia = {
 		d_norrland = { 
 			color={ 50 50 160 }
 			color2={ 255 255 255 }
-			capital = 285 # Hälsingland
+			capital = 285 # H lsingland
 			
 			finnish=Lappi
-			lappish=Sápmi
+			lappish=S pmi
 			
 			c_lappland = {
 				color={ 60 60 130 }
 				color2={ 255 255 255 }
 				
 				finnish=Lappi
-				lappish=Sápmi
+				lappish=S pmi
 				
 				b_lycksele = {
 				}
@@ -13660,8 +13660,8 @@ e_scandinavia = {
 				norwegian = "Vesterbotten"
 				danish = "Vesterbotten"
 				norse = "Vesterbotn"
-				finnish=Länsipohja
-				lappish=Länsipohja
+				finnish=L nsipohja
+				lappish=L nsipohja
 				
 				b_umea = {
 					finnish=Uumaja
@@ -13672,8 +13672,8 @@ e_scandinavia = {
 				b_skelleftea = {
 				}
 				b_lovanger = {
-					norwegian = "Løvånger"
-					danish = "Løvånger"
+					norwegian = "L v nger"
+					danish = "L v nger"
 				}
 				b_kalix = {
 				}
@@ -13681,15 +13681,15 @@ e_scandinavia = {
 					norwegian = "Vesterbotten"
 					danish = "Vesterbotten"
 					norse = "Vesterbotn"
-					finnish=Länsipohja
-					lappish=Länsipohja
+					finnish=L nsipohja
+					lappish=L nsipohja
 				}
 				b_vasterbotten2 = {
 					norwegian = "Vesterbotten"
 					danish = "Vesterbotten"
 					norse = "Vesterbotn"
-					finnish=Länsipohja
-					lappish=Länsipohja
+					finnish=L nsipohja
+					lappish=L nsipohja
 				}
 			}
 			c_norrbotten = {
@@ -13746,28 +13746,28 @@ e_scandinavia = {
 				norse = Angermanland
 				
 				b_bjartra = {
-					norwegian = "Bjertrå"
-					danish = "Bjærtrå"
+					norwegian = "Bjertr "
+					danish = "Bj rtr "
 				}
 				b_ulvo = {
-					norwegian = "Ulvø"
-					danish = "Ulvø"
+					norwegian = "Ulv "
+					danish = "Ulv "
 				}
 				b_natra = {
 				}
 				b_skulnas = {
 					norwegian = "Skulnes"
-					danish = "Skulnæs"
+					danish = "Skuln s"
 				}
 				b_solleftea = {
 				}
 				b_harnosand = {
-					norwegian = "Hærnøsand"
-					danish = "Hærnøsand"
+					norwegian = "H rn sand"
+					danish = "H rn sand"
 				}
 				b_ornskoldsvik = {
-					norwegian = "Ørnskøldsvik"
-					danish = "Ørnskøldsvik"
+					norwegian = " rnsk ldsvik"
+					danish = " rnsk ldsvik"
 				}
 				b_biedsta = {
 				}
@@ -13779,14 +13779,14 @@ e_scandinavia = {
 				b_selanger = {
 				}
 				b_alno = {
-					norwegian = "Alnø"
-					danish = "Alnø"
+					norwegian = "Aln "
+					danish = "Aln "
 				}
 				b_njurunda = {
 				}
 				b_skon = {
-					norwegian = "Skøn"
-					danish = "Skøn"
+					norwegian = "Sk n"
+					danish = "Sk n"
 				}
 				b_liden = {
 				}
@@ -13810,8 +13810,8 @@ e_scandinavia = {
 				b_hog = {
 				}
 				b_jattendal = {
-					norwegian = "Jættendal"
-					danish = "Jættendal"
+					norwegian = "J ttendal"
+					danish = "J ttendal"
 				}
 				b_forsa = {
 				}
@@ -13828,16 +13828,16 @@ e_scandinavia = {
 		d_bergslagen = { 
 			color={ 60 60 200 }
 			color2={ 255 255 255 }
-			capital = 288 # Värmland
+			capital = 288 # V rmland
 			
 			c_dalarna = {
 				color={ 20 20 230 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Jernbæraland"
-				danish = "Jernbæraland"
+				norwegian = "Jernb raland"
+				danish = "Jernb raland"
 				english = Dalecarlia
-				norse = Járnberaland
+				norse = J rnberaland
 				
 				b_borganas = {
 				}
@@ -13861,7 +13861,7 @@ e_scandinavia = {
 				color2={ 255 255 255 }
 				
 				norwegian = "Vermland"
-				danish = "Værmland"
+				danish = "V rmland"
 				norse = "Vermaland"
 				
 				b_saxholm = {
@@ -13890,18 +13890,18 @@ e_scandinavia = {
 				norse = "Vestmannaland"
 				
 				b_vasteras = {
-					norwegian = "Vesterås"
-					danish = "Vesterås"
+					norwegian = "Vester s"
+					danish = "Vester s"
 				}
 				b_arboga = {
 				}
 				b_kopingshus = {
-					norwegian = "Køpingshus"
-					danish = "Købingshus"
+					norwegian = "K pingshus"
+					danish = "K bingshus"
 				}
 				b_koping = {
-					norwegian = "Køping"
-					danish = "Købing"
+					norwegian = "K ping"
+					danish = "K bing"
 				}
 				b_norberg = {
 				}
@@ -13916,19 +13916,19 @@ e_scandinavia = {
 		d_smaland = {
 			color={ 60 40 255 }
 			color2={ 255 255 255 }
-			capital = 298 # Småland
+			capital = 298 # Sm land
 			
-			norse = "Smáland"
+			norse = "Sm land"
 			
-			c_smaland = { # Värend
+			c_smaland = { # V rend
 				color={ 95 30 215 }
 				color2={ 255 255 255 }
 				
 				b_piksborg = {
 				}
 				b_vaxjo = {
-					danish = Vexjø
-					norwegian = Vexjø
+					danish = Vexj 
+					norwegian = Vexj 
 				}
 				b_aringsas = {
 				}
@@ -13946,8 +13946,8 @@ e_scandinavia = {
 				color={ 105 55 215 }
 				color2={ 255 255 255 }
 				
-				danish = Møre
-				norwegian = Møre
+				danish = M re
+				norwegian = M re
 				
 				b_kalmar = {
 				}
@@ -13968,8 +13968,8 @@ e_scandinavia = {
 				color={ 75 60 255 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Øland"
-				danish = "Øland"
+				norwegian = " land"
+				danish = " land"
 				
 				b_borgholm = {
 				}
@@ -13986,12 +13986,12 @@ e_scandinavia = {
 				b_gardby = {
 				}
 				b_gronhogen = {
-					norwegian = "Grønhøgen"
-					danish = "Grønhøgen"
+					norwegian = "Gr nh gen"
+					danish = "Gr nh gen"
 				}
 				b_kopingsvik = {
-					danish = "Købingsvik"
-					norwegian = "Køpingsvik"
+					danish = "K bingsvik"
+					norwegian = "K pingsvik"
 				}
 			}
 		}
@@ -14017,13 +14017,13 @@ e_scandinavia = {
 		romano_persian = "Insula Gardari"
 		romano_frank = "Insula Gardari"
 		romano_gallic = "Insula Gardari"
-		norse = "Ísland"
+		norse = " sland"
 		danish = Island
 		swedish = Island
 		norwegian = Island
 		german = "Island"
 		old_slavic = "Islandiya"
-		greek = "Islandía"
+		greek = "Island a"
 		irish = "Paparia"
 		
 		d_iceland = {
@@ -14044,20 +14044,20 @@ e_scandinavia = {
 			romano_persian = "Insula Gardari"
 			romano_frank = "Insula Gardari"
 			romano_gallic = "Insula Gardari"
-			norse = "Ísland"
+			norse = " sland"
 			danish = Island
 			swedish = Island
 			norwegian = Island
 			german = "Island"
 			old_slavic = "Islandiya"
-			greek = "Islandía"
+			greek = "Island a"
 			irish = "Paparia"
 			
 			c_vestisland = {
 				color={ 190 230 250 }
 				color2={ 220 220 220 }
 				
-				swedish = "Västisland"
+				swedish = "V stisland"
 				roman = "Vesperislandia"
 				romano_british = "Vesperislandia"
 				illyro_roman = "Vesperislandia"
@@ -14070,16 +14070,16 @@ e_scandinavia = {
 				romano_persian = "Vesperislandia"
 				romano_frank = "Vesperislandia"
 				romano_gallic = "Vesperislandia"
-				norse = "Vasurfirðir"
+				norse = "Vasurfir ir"
 				german = "Westenisland"	
 				old_slavic = "Zapadislandiya"
-				greek = "Dýsislandía"
+				greek = "D sisland a"
 				irish = "Siarpaparia"
 				
 				b_reykjavik = {
 				}
 				b_alftanes = {
-					swedish = "Alftanäs"
+					swedish = "Alftan s"
 				}
 				b_skalholt = {
 				}
@@ -14098,7 +14098,7 @@ e_scandinavia = {
 				color={ 185 195 255 }
 				color2={ 220 220 220 }
 				
-				swedish = "Östisland"
+				swedish = " stisland"
 				roman = "Aurorislandia"
 				romano_british = "Aurorislandia"
 				illyro_roman = "Aurorislandia"
@@ -14111,10 +14111,10 @@ e_scandinavia = {
 				romano_persian = "Aurorislandia"
 				romano_frank = "Aurorislandia"
 				romano_gallic = "Aurorislandia"
-				norse = "Austfirðir"
+				norse = "Austfir ir"
 				german = "Westenisland"	
 				old_slavic = "Vostokislandiya"
-				greek = "Anatolíslandía"
+				greek = "Anatol sland a"
 				irish = "Thoirpaparia"
 				
 				b_husavik = {
@@ -14141,7 +14141,7 @@ e_scandinavia = {
 			
 			capital = 36 # Orkney
 			
-			norse = "Norðreyjar"
+			norse = "Nor reyjar"
 			scottish = "Arcaibh"
 			pictish = "Arcaibh"
 			irish = "Insi Orc"
@@ -14157,7 +14157,7 @@ e_scandinavia = {
 			romano_persian = "Orcades"
 			romano_frank = "Orcades"
 			romano_gallic = "Orcades"
-			greek = "Órkneï"
+			greek = " rkne "
 			old_slavic = "Orkneyskiye"
 			polish = Orkady
 			
@@ -14178,11 +14178,11 @@ e_scandinavia = {
 				color={ 116 145 239 }
 				color2={ 255 255 255 }
 				
-				swedish = "Färöarna"
-				dane = "Færøerne"
-				norse = "Føroyar"	
+				swedish = "F r arna"
+				dane = "F r erne"
+				norse = "F royar"	
 				old_slavic = "Farerskiye"
-				greek = "Feróe"
+				greek = "Fer e"
 				roman = "Feroyum"
 				romano_british = "Feroyum"
 				illyro_roman = "Feroyum"
@@ -14195,8 +14195,8 @@ e_scandinavia = {
 				romano_persian = "Feroyum"
 				romano_frank = "Feroyum"
 				romano_gallic = "Feroyum"
-				irish = "Fharó"
-				german = "Färöer"
+				irish = "Fhar "
+				german = "F r er"
 				
 				b_skansin = {
 				}
@@ -14264,9 +14264,9 @@ e_scandinavia = {
 				color={ 106 140 235 }
 				color2={ 255 255 255 }
 				
-				swedish = "Orknö"
-				danish = "Orknø"
-				norse = "Orknö"
+				swedish = "Orkn "
+				danish = "Orkn "
+				norse = "Orkn "
 				scottish = "Arcaibh"
 				pictish = "Arcaibh"
 				irish = "Insi Orc"
@@ -14282,21 +14282,21 @@ e_scandinavia = {
 				romano_persian = "Orcades"
 				romano_frank = "Orcades"
 				romano_gallic = "Orcades"
-				greek = "Órkneï"
+				greek = " rkne "
 				old_slavic = "Orkneyskiye"
 				polish = Orkady
 				
 				b_kirkwall = {
-					norwegian = "Kirkuvåg"
+					norwegian = "Kirkuv g"
 					danish = "Kyrkovik"
 					swedish = "Kyrkovik"
 					norse = "Kyrkovik"
 				}
 				b_birsay = {
-					norwegian = "Birgishærad"
-					danish = "Birgishærad"
-					swedish = "Birgishärad"
-					norse = "Birgishærad"
+					norwegian = "Birgish rad"
+					danish = "Birgish rad"
+					swedish = "Birgish rad"
+					norse = "Birgish rad"
 				}
 				b_orphir = {
 				}
@@ -14325,7 +14325,7 @@ e_scandinavia = {
 		catholic = 100 # Crusade target weight
 		finnish_pagan_reformed = 50
 
-		norse = "Nóregr"
+		norse = "N regr"
 		danish = Norge
 		swedish = Norge
 		norwegian = Norge
@@ -14341,13 +14341,13 @@ e_scandinavia = {
 		romano_persian = "Northvegia"
 		romano_frank = "Northvegia"
 		romano_gallic = "Northvegia"
-		saxon = "Norþweg" 
+		saxon = "Nor weg" 
 		dane = "Norge" 
-		jute = "Nørger" 
+		jute = "N rger" 
 		old_slavic = "Norvegiya"
 		german = "Norwegen"
 		
-		greek = "Norvigía"
+		greek = "Norvig a"
 
 		d_vestlandet = {
 			color={ 120 160 245 }
@@ -14355,9 +14355,9 @@ e_scandinavia = {
 			
 			capital = 274 # Bergenhus
 
-			greek = "Dytikinorvigía"
-			jute = "Småkongedømmener"
-			dane = "Småkongedømmene"
+			greek = "Dytikinorvig a"
+			jute = "Sm konged mmener"
+			dane = "Sm konged mmene"
 			old_slavic = "Zapadnayanorvegiya"
 			german = "Westnorwegen"
 			latin = "Occidentali"			
@@ -14366,9 +14366,9 @@ e_scandinavia = {
 				color={ 40 85 255 }
 				color2={ 255 255 255 }
 
-				dane = "Sørlandet"
-				jute = "Sørlandet"
-				norse = "Agðir"
+				dane = "S rlandet"
+				jute = "S rlandet"
+				norse = "Ag ir"
 				roman = "Augandia"
 				romano_british = "Augandia"
 				illyro_roman = "Augandia"
@@ -14381,7 +14381,7 @@ e_scandinavia = {
 				romano_persian = "Augandia"
 				romano_frank = "Augandia"
 				romano_gallic = "Augandia"
-				greek = "Nótiatischóras"
+				greek = "N tiatisch ras"
 				geatish = "Agwjo"
 				old_slavic = "Yugostrana"
 			
@@ -14418,7 +14418,7 @@ e_scandinavia = {
 				romano_persian = "Rugia"
 				romano_frank = "Rugia"
 				romano_gallic = "Rugia"
-				greek = "Rugiá"
+				greek = "Rugi "
 				old_slavic = "Rugiya" 
 				norse = "Stavanger"
 				jute = "Rygjafylki"
@@ -14445,13 +14445,13 @@ e_scandinavia = {
 				color={ 45 160 255 }
 				color2={ 255 255 255 }
 
-				norse = "Þelamork"
+				norse = " elamork"
 				norwegian = "Bratsberg"
 				dane = "Telskov"
 				jute = "Telsvoz"
 				irish = "Telcoillearnach"
 				old_slavic = "Tellesnoy"
-				greek = "Teldásos"
+				greek = "Teld sos"
 				roman = "Telsilvestris"
 				romano_british = "Telsilvestris"
 				illyro_roman = "Telsilvestris"
@@ -14487,8 +14487,8 @@ e_scandinavia = {
 				color={ 60 157 209 }
 				color2={ 255 255 255 }
 				
-				norse = Horðaland
-				norwegian = "Søndre Bergenhus"
+				norse = Hor aland
+				norwegian = "S ndre Bergenhus"
 				swedish = "Hordmark"
 				greek = "Cheudi"
 				roman = "Charudeterra"
@@ -14535,11 +14535,11 @@ e_scandinavia = {
 			
 			capital = 272 # Akershus
 
-			dane = "Østlandet"
-			jute = "Østlandet"
-			norse = "Østlandet"
+			dane = " stlandet"
+			jute = " stlandet"
+			norse = " stlandet"
 			german = "Ost-Land"
-			swede = "Östraland"
+			swede = " straland"
 			roman = "Ad Orientem"
 			romano_british = "Ad Orientem"
 			illyro_roman = "Ad Orientem"
@@ -14552,7 +14552,7 @@ e_scandinavia = {
 			romano_persian = "Ad Orientem"
 			romano_frank = "Ad Orientem"
 			romano_gallic = "Ad Orientem"
-			greek = "Ianatolikígi"
+			greek = "Ianatolik gi"
 			saxon = "Easteard"
 			old_slavic = "Vostokzemli"
 
@@ -14573,7 +14573,7 @@ e_scandinavia = {
 				color={ 89 100 195 }
 				color2={ 255 255 255 }
 
-				greek = "Dytikátisptychís"
+				greek = "Dytik tisptych s"
 				roman = "Occidenteovili"
 				romano_british = "Occidenteovili"
 				illyro_roman = "Occidenteovili"
@@ -14586,7 +14586,7 @@ e_scandinavia = {
 				romano_persian = "Occidenteovili"
 				romano_frank = "Occidenteovili"
 				romano_gallic = "Occidenteovili"
-				swede = "Västerfaldig"
+				swede = "V sterfaldig"
 				old_slavic = "Zapadraza"
 				
 				b_kaupang = {
@@ -14626,7 +14626,7 @@ e_scandinavia = {
 				romano_persian = "Akerdomus"
 				romano_frank = "Akerdomus"
 				romano_gallic = "Akerdomus"
-				greek = "Akerspíti"
+				greek = "Akersp ti"
 				german = "Akerhaus"
 				old_frisian = "Akerhuis"
 				dane = "Akerhus"
@@ -14653,7 +14653,7 @@ e_scandinavia = {
 				color2={ 255 255 255 }
 
 				norse = "Upplond"
-				saxon = "Norþland"
+				saxon = "Nor land"
 				swede = "Ny Uppland"
 				dane = "Opland"
 				jute = "Opland"
@@ -14669,7 +14669,7 @@ e_scandinavia = {
 				romano_persian = "Etterrae"
 				romano_frank = "Etterrae"
 				romano_gallic = "Etterrae"
-				greek = "Epánogi"
+				greek = "Ep nogi"
 				old_slavic = "Verkhzemlya"
 				old_frisian = "Omhoogland"
 				german = "Obenland"
@@ -14695,13 +14695,13 @@ e_scandinavia = {
 				color={ 110 140 235 }
 				color2={ 255 255 255 }
 				
-				norse = Heiðmork
+				norse = Hei mork
 				norwegian = "Hedemarkens"
-				dane = "Heiðnirskov"
-				jute = "Heiðnirsvoz"
-				irish = "Heiðnircoillearnach"
-				old_slavic = "Heiðnirlesnoy"
-				greek = "Heiderdásos"
+				dane = "Hei nirskov"
+				jute = "Hei nirsvoz"
+				irish = "Hei nircoillearnach"
+				old_slavic = "Hei nirlesnoy"
+				greek = "Heiderd sos"
 				roman = "Heidersilvestris"
 				romano_british = "Heidersilvestris"
 				illyro_roman = "Heidersilvestris"
@@ -14714,7 +14714,7 @@ e_scandinavia = {
 				romano_persian = "Heidersilvestris"
 				romano_frank = "Heidersilvestris"
 				romano_gallic = "Heidersilvestris"
-				swedish = "Heiðnirskogsmark"
+				swedish = "Hei nirskogsmark"
 				
 				b_hamarhus = {
 				}
@@ -14741,9 +14741,9 @@ e_scandinavia = {
 			
 			capital = 275 # Trondelag
 			
-			swedish = "Tröndelag"
-			german = "Tröndelag"
-			norse = "Tröndelag"
+			swedish = "Tr ndelag"
+			german = "Tr ndelag"
+			norse = "Tr ndelag"
 			
 			pagan_coa = {
 				template = 0
@@ -14762,9 +14762,9 @@ e_scandinavia = {
 				color={ 20 155 255 }
 				color2={ 255 255 255 }
 				
-				swedish = "Tröndelag"
-				german = "Tröndelag"
-				norse = "Tröndelag"
+				swedish = "Tr ndelag"
+				german = "Tr ndelag"
+				norse = "Tr ndelag"
 				
 				b_nidaros = {
 				}
@@ -14832,7 +14832,7 @@ e_scandinavia = {
 				color={ 174 161 110 }
 				color2={ 255 255 255 }
 				
-				lappish=Finnmárku
+				lappish=Finnm rku
 				
 				b_varghoeya = {
 				}
@@ -14922,7 +14922,7 @@ e_scandinavia = {
 				color={ 40 76 225 }
 				color2={ 255 255 255 }
 				
-				swedish = "Härjedalen"
+				swedish = "H rjedalen"
 				norse = "Herjadal"
 				
 				b_sveg = {
@@ -14932,19 +14932,19 @@ e_scandinavia = {
 				b_tannas = {
 				}
 				b_herjedalen = {
-					swedish = "Härjedalen"
+					swedish = "H rjedalen"
 					norse = "Herjadal"
 				}
 				b_herjedalen2 = {
-					swedish = "Härjedalen"
+					swedish = "H rjedalen"
 					norse = "Herjadal"
 				}
 				b_herjedalen3 = {
-					swedish = "Härjedalen"
+					swedish = "H rjedalen"
 					norse = "Herjadal"
 				}
 				b_herjedalen4 = {
-					swedish = "Härjedalen"
+					swedish = "H rjedalen"
 					norse = "Herjadal"
 				}
 			}
@@ -15071,7 +15071,7 @@ e_wendish_empire = {
 					norse = "Yxkull"
 					danish = "Yxkull"
 					norwegian = "Yxkull"
-					german = "Üxküll"
+					german = " xk ll"
 				}
 				b_cesis = {
 				}
@@ -15120,11 +15120,11 @@ e_wendish_empire = {
 				color={ 101 48 48 }
 				color2={ 255 255 255 }
 				
-				swedish = "Ösel"
-				norse = "Ösel"
-				danish = "Øsel"
-				norwegian = "Øsel"
-				german = "Ösel"
+				swedish = " sel"
+				norse = " sel"
+				danish = " sel"
+				norwegian = " sel"
+				german = " sel"
 				
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
@@ -15137,11 +15137,11 @@ e_wendish_empire = {
 					german = "Arensburg"
 				}
 				b_hiiumaa = {
-					swedish = "Dagö"
-					norse = "Dagö"
-					danish = "Dagø"
-					norwegian = "Dagø"
-					german = "Dagö"
+					swedish = "Dag "
+					norse = "Dag "
+					danish = "Dag "
+					norwegian = "Dag "
+					german = "Dag "
 				}
 				b_muhu = {
 					swedish = "Moon"
@@ -15187,23 +15187,23 @@ e_wendish_empire = {
 					polish = "Braniewo"
 				}
 				b_elbing = {
-					polish = "Elbl¹g"
+					polish = "Elbl g"
 				}
 				b_christburg = {
 					polish = "Kiszporg"
 				}
 				b_heilsberg = {
-					polish = "Lidzbark Warmiñski"
+					polish = "Lidzbark Warmi ski"
 					prussian = "Lecbargs"
 				}
 				b_bartenstein = {
 					polish = "Barsztyn"
 					prussian = "Bartanstabs"
-					lithuanian = "Barštynas"
+					lithuanian = "Bar tynas"
 				}
 				b_marienwerder = {
 					lechite = "Kwedis"
-					polish = "Kwidzyñ"
+					polish = "Kwidzy "
 					latin = "Quedin"
 					roman = "Quedin"
 					romano_british = "Quedin"
@@ -15276,7 +15276,7 @@ e_wendish_empire = {
 				norwegian = "Samland"
 					
 				b_konigsberg = {
-					polish = "Królewiec"
+					polish = "Kr lewiec"
 					prussian = "Krolewiec"
 					pommeranian = "Krolewiec"
 					lithuanian = "Krolewiec"
@@ -15466,14 +15466,14 @@ e_wendish_empire = {
 				norse = "Pallteskja"
 				danish = "Pallteskja"
 				norwegian = "Pallteskja"
-				polish = "Po³ock"
+				polish = "Po ock"
 			
 				b_polotsk = {
 					swedish = "Pallteskja"
 					norse = "Pallteskja"
 					danish = "Pallteskja"
 					norwegian = "Pallteskja"
-					polish = "Po³ock"
+					polish = "Po ock"
 				}
 				b_braslaw = {
 				}
@@ -15498,7 +15498,7 @@ e_wendish_empire = {
 					polish = "Lepel"
 				}
 				b_chashniki = {
-					polish = "Czaœniki"
+					polish = "Cza niki"
 				}
 				b_novolukoml = {
 				}
@@ -15519,21 +15519,21 @@ e_wendish_empire = {
 				color={ 125 18 18 }
 				color2={ 255 255 255 }
 				
-				german = "Düna"
+				german = "D na"
 				swedish = "Dyna"
 				norse = "Dyna"
 				danish = "Dyna"
 				norwegian = "Dyna"
 				russian = "Dvina"
-				polish = "DŸwina"
+				polish = "D wina"
 			
 				b_daugavpils = {
-					german = "Dünaburg"
+					german = "D naburg"
 					swedish = "Dynaborg"
 					norse = "Dynaborg"
 					danish = "Dynaborg"
 					norwegian = "Dynaborg"
-					finnish = "Väinänlinna"
+					finnish = "V in nlinna"
 					russian = "Dvinsk"
 					polish = "Dyneburg"
 				}
@@ -15586,7 +15586,7 @@ e_wendish_empire = {
 				color={ 146 21 21 }
 				color2={ 255 255 255 }
 				
-				polish = "Jaæwie¿"
+				polish = "Ja wie "
 			
 				b_vilkaviskis = {
 				}
@@ -15838,7 +15838,7 @@ e_wendish_empire = {
 				german = "Sameiten"
 				prussian = "Zhmud"
 				lithuanian = "Zemaitija"
-				polish = "¯mudŸ"
+				polish = " mud "
 				russian = "Zhmud"
 				pommeranian = "Zhmud"
 				bohemian = "Zhmud"
@@ -15927,11 +15927,11 @@ e_russia = {
 			}
 		}
 		
-		norse = Könugarðr
-		swedish = Könugård
-		norwegian = Kønugård
-		danish = Kønugård
-		polish = "Ruœ"
+		norse = K nugar r
+		swedish = K nug rd
+		norwegian = K nug rd
+		danish = K nug rd
+		polish = "Ru "
 		
 		d_kiev = {
 			color={ 129 187 125 }
@@ -15940,11 +15940,11 @@ e_russia = {
 			dignity = 10 # Counted as having 10 more counties than it does
 			capital = 547 # Kiev
 			
-			norse = Könugarðr
-			swedish = Könugård
-			norwegian = Kønugård
-			danish = Kønugård
-			polish = "Kijów"
+			norse = K nugar r
+			swedish = K nug rd
+			norwegian = K nug rd
+			danish = K nug rd
+			polish = "Kij w"
 			
 			pagan_coa = {
 				template = 0
@@ -15963,10 +15963,10 @@ e_russia = {
 				color={ 102 102 22 }
 				color2={ 255 255 255 }
 				
-				polish = "Korsuñ"
+				polish = "Korsu "
 	
 				b_korsun = {
-					polish = "Korsuñ"
+					polish = "Korsu "
 				}
 				b_kaniv = {
 				}
@@ -15987,21 +15987,21 @@ e_russia = {
 				color={ 106 106 26 }
 				color2={ 255 255 255 }
 				
-				norse = Könugarðr
-				swedish = Könugård
-				norwegian = Kønugård
-				danish = Kønugård
-				polish = "Kijów"
+				norse = K nugar r
+				swedish = K nug rd
+				norwegian = K nug rd
+				danish = K nug rd
+				polish = "Kij w"
 				
 				holy_site = slavic_pagan
 				holy_site = slavic_pagan_reformed
 	
 				b_kiev = {
-					norse = Könugarðr
-					swedish = Könugård
-					norwegian = Kønugård
-					danish = Kønugård
-					polish = "Kijów"
+					norse = K nugar r
+					swedish = K nug rd
+					norwegian = K nug rd
+					danish = K nug rd
+					polish = "Kij w"
 				}
 				b_yuriev = {	
 				}
@@ -16029,7 +16029,7 @@ e_russia = {
 				color={ 104 104 24 }
 				color2={ 255 255 255 }
 				
-				old_slavic = Ancêlugrada
+				old_slavic = Anc lugrada
 	
 				b_terebovl = {
 				}
@@ -16053,11 +16053,11 @@ e_russia = {
 				color2={ 255 255 255 }
 				
 				old_slavic = Meryagrada
-				heruli = Meryabaúrgs
+				heruli = Meryaba rgs
 	
 				b_galich = {
 				old_slavic = Meryagrada
-				heruli = Meryabaúrgs
+				heruli = Meryaba rgs
 				}
 				b_lvov = {
 				}
@@ -16731,7 +16731,7 @@ e_dacia = {
 
 				croatian = Pecuh
 				serbian = Pecuj
-				german = Fünfkirchen
+				german = F nfkirchen
 				bohemian=Balaton
 				roman = "Sopianae"
 				romano_british = "Sopianae"
@@ -16750,7 +16750,7 @@ e_dacia = {
 				b_pecs = {
 					croatian = Pecuh
 					serbian = Pecuj
-					german = Fünfkirchen
+					german = F nfkirchen
 					bohemian=Balaton
 					roman = "Sopianae"
 					romano_british = "Sopianae"
@@ -16860,7 +16860,7 @@ e_dacia = {
 				romano_persian = "Colonia Iustinia"
 				romano_frank = "Colonia Iustinia"
 				romano_gallic = "Colonia Iustinia"
-				gepid = "Faírguniháims"
+				gepid = "Fa rgunih ims"
 				
 				b_bacs = {
 					roman = "Colonia Iustinia"
@@ -16875,7 +16875,7 @@ e_dacia = {
 					romano_persian = "Colonia Iustinia"
 					romano_frank = "Colonia Iustinia"
 					romano_gallic = "Colonia Iustinia"
-					gepid = "Faírguniháims"
+					gepid = "Fa rgunih ims"
 				}
 				b_apatin = {
 				}
@@ -17006,7 +17006,7 @@ e_dacia = {
 
 				romanian = "Alba de Jos"
 				german = Unterweissenburg
-				gepid = "Þeits"
+				gepid = " eits"
 				roman = "Albinia"
 				romano_british = "Albinia"
 				illyro_roman = "Albinia"
@@ -17023,7 +17023,7 @@ e_dacia = {
 				b_feher = {
 					romanian = "Alba de Jos"
 					german = Unterweissenburg
-					gepid = "Þeits"
+					gepid = " eits"
 					roman = "Albinia"
 					romano_british = "Albinia"
 					illyro_roman = "Albinia"
@@ -17092,11 +17092,11 @@ e_dacia = {
 				color={ 164 23 23 }
 				color2={ 255 255 255 }
 				
-				gepid = "Þeitsstáineins"
+				gepid = " eitsst ineins"
 				german = Maramuresch
 				
 				b_maramarossziget = {
-					gepid = "Þeitsstáineins"
+					gepid = " eitsst ineins"
 					german = Maramuresch
 				}
 				b_nagybanya = {
@@ -17174,13 +17174,13 @@ e_dacia = {
 			color2={ 255 255 255 }
 			
 			capital = 522
-			gepid = "Aúhns"
+			gepid = "A hns"
 			
 			c_pest = {
 				color={ 176 67 67 }
 				color2={ 255 255 255 }
 				
-				gepid = "Aúhns"
+				gepid = "A hns"
 				roman = "Caminia"
 				romano_british = "Caminia"
 				illyro_roman = "Caminia"
@@ -17198,7 +17198,7 @@ e_dacia = {
                 holy_site = dacian_pagan_reformed
 				
 				b_pest = {
-					gepid = "Aúhns"
+					gepid = "A hns"
 					roman = "Caminia"
 					romano_british = "Caminia"
 					illyro_roman = "Caminia"
@@ -17298,7 +17298,7 @@ e_dacia = {
 				german = Gran
 				bohemian = Ostrihom
 				croatian = Ostrogon
-				old_slavic = "Strêgom"
+				old_slavic = "Str gom"
 				roman = "Ostrogonia"
 				romano_british = "Ostrogonia"
 				illyro_roman = "Ostrogonia"
@@ -17315,7 +17315,7 @@ e_dacia = {
 				iazyges = "Oioril"
 				
 				b_esztergom = {
-					old_slavic = "Strêgom"
+					old_slavic = "Str gom"
 					roman = "Ostrogonia"
 					romano_british = "Ostrogonia"
 					illyro_roman = "Ostrogonia"
@@ -17465,7 +17465,7 @@ e_dacia = {
 				color={ 202 33 33 }
 				color2={ 255 255 255 }
 				
-				hungarian = Gömör
+				hungarian = G m r
 				roman = "Gomorinum"
 				romano_british = "Gomorinum"
 				illyro_roman = "Gomorinum"
@@ -17576,7 +17576,7 @@ e_dacia = {
 				color2={ 255 255 255 }
 
 				german = Arwa
-				hungarian = Árva
+				hungarian =  rva
 				gepid = Orava 
 				
 				b_arvavara = {
@@ -17663,7 +17663,7 @@ e_dacia = {
 				romano_persian = "Beregia"
 				romano_frank = "Beregia"
 				romano_gallic = "Beregia"
-				gepid = "Draúhts"
+				gepid = "Dra hts"
 				
 				holy_site = dacian_pagan
                 holy_site = dacian_pagan_reformed
@@ -17681,7 +17681,7 @@ e_dacia = {
 					romano_persian = "Beregia"
 					romano_frank = "Beregia"
 					romano_gallic = "Beregia"
-					gepid = "Draúhts"
+					gepid = "Dra hts"
 				}
 				b_perecseny = {
 					pentarchy = dacian_pagan
@@ -17821,10 +17821,10 @@ e_dacia = {
 				color={ 244 198 75 }
 				color2={ 255 255 255 }
 				
-				old_slavic = "Tärggradytsy"
+				old_slavic = "T rggradytsy"
 			
 				b_targoviste = {
-					old_slavic = "Tärggradytsy"
+					old_slavic = "T rggradytsy"
 				}
 				b_curteadearges = {
 				}
@@ -17900,10 +17900,10 @@ e_dacia = {
 				color={ 227 206 149 }
 				color2={ 255 255 255 }
 				
-				old_slavic = Gorôgrada
+				old_slavic = Gor grada
 			
 				b_torki = {
-				old_slavic = Gorôgrada
+				old_slavic = Gor grada
 				}
 				b_bogdana = {
 				}
@@ -17975,14 +17975,14 @@ e_dacia = {
 				color={ 231 210 153 }
 				color2={ 255 255 255 }
 				
-				old_slavic = Svõtiigrada
+				old_slavic = Sv tiigrada
 				
 				holy_site = dacian_pagan
                 holy_site = dacian_pagan_reformed
 
 			
 				b_belgorod = {
-					old_slavic = Svõtiigrada
+					old_slavic = Sv tiigrada
 				}
 				b_oblucita = {
 					pentarchy = dacian_pagan
@@ -18331,13 +18331,13 @@ e_serindia = {
 				color = { 50 95 130 }
 				color2={ 255 255 255 }
 				
-				uyghur = "Ürümqi"
-				mongol = "Ürümqi"
+				uyghur = " r mqi"
+				mongol = " r mqi"
 				tocharian = "Urabo"
 				
 				b_luntai = {
-					uyghur = "Ürümqi"
-					mongol = "Ürümqi"
+					uyghur = " r mqi"
+					mongol = " r mqi"
 					tocharian = "Urabo"
 				}
 				b_fukang = {
@@ -18361,7 +18361,7 @@ e_serindia = {
 
 			capital = 1442 # Charqlik
 
-			tocharian = "Krorän"
+			tocharian = "Kror n"
 			sogdian = "Kroraina"
 			sakan = "Kroraina"
 			uyghur = "Qroran"
@@ -18371,7 +18371,7 @@ e_serindia = {
 				color = { 70 200 230 }
 				color2={ 255 255 255 }
 				
-				tocharian = "Krorän"
+				tocharian = "Kror n"
 				sogdian = "Kroraina"
 				sakan = "Kroraina"
 				uyghur = "Qroran"
@@ -18382,7 +18382,7 @@ e_serindia = {
 				holy_site = bon_reformed
 				
 				b_loulan = {
-					tocharian = "Krorän"
+					tocharian = "Kror n"
 					sogdian = "Kroraina"
 					sakan = "Kroraina"
 					uyghur = "Qroran"
@@ -18401,7 +18401,7 @@ e_serindia = {
 				b_yingpan = {
 				}
 				b_loulan2 = {
-					tocharian = "Krorän"
+					tocharian = "Kror n"
 					sogdian = "Kroraina"
 					sakan = "Kroraina"
 					uyghur = "Qroran"
@@ -18575,7 +18575,7 @@ e_serindia = {
 					sogdian = "Kunlyu"
 				}
 				b_yiwu = {
-					uyghur = "Aratürük"
+					uyghur = "Arat r k"
 				}
 				b_dahe = {
 				}
@@ -18851,7 +18851,7 @@ e_tartaria = {
 			color = { 110 150 220 }
 			color2={ 255 255 255 }
 			
-			capital = 1461 # Ötüken
+			capital = 1461 #  t ken
 			
 			c_kyzyl = {
 				color = { 136 144 240 }
@@ -19010,7 +19010,7 @@ e_tartaria = {
 					mongol = "Khyaagta"
 				}
 				b_uda = {
-					mongol = "Üde"
+					mongol = " de"
 				}
 				b_galuuta = {
 				}
@@ -19032,8 +19032,8 @@ e_tartaria = {
 				b_qian_pulei = {
 				}
 				b_barkul = {
-					turkish = "Barköl"
-					uyghur = "Barköl"
+					turkish = "Bark l"
+					uyghur = "Bark l"
 				}
 				b_khoid = {
 				}
@@ -23204,7 +23204,7 @@ e_persia = {
 
 				aramean = "Nashibina"
 				persian = "Nusaybin"
-				kurdish= "Nisêbîn"
+				kurdish= "Nis b n"
 				assyrian = "Nashibina"
 				greek = "Antiochia Mygdonia"
 				isaurian = "Antiochia Mygdonia"
@@ -23214,7 +23214,7 @@ e_persia = {
 				b_nusaybin = {
 					aramean = "Nashibina"
 					persian = "Nusaybin"
-					kurdish= "Nisêbîn"
+					kurdish= "Nis b n"
 					assyrian = "Nashibina"
 					greek = "Antiochia Mygdonia"
 					isaurian = "Antiochia Mygdonia"
@@ -23227,7 +23227,7 @@ e_persia = {
 					assyrian = "Savr"
 				}
 				b_dairodmorhannanyo = {
-					kurdish = "Dêra Zehferanê"
+					kurdish = "D ra Zehferan "
 					aramean = "Dairo d-Kurkmo"
 					assyrian = "Dairo d-Kurkmo"
 					bedouin_arabic = "Dairu 'l-Za'faran"
@@ -23247,14 +23247,14 @@ e_persia = {
 				color={ 9 236 89 }
 				color2={ 255 255 255 }
 	
-				kurdish = "Mûsil"
-				aramean = "Nînwe"
-				assyrian = "Nînwe"
-				greek = "Mosoúli"
-				isaurian = "Mosoúli"
-				persian = "Mépsila" 
-				parthian = "Mépsila" 
-				helleno_aramean = "Mosoúli"
+				kurdish = "M sil"
+				aramean = "N nwe"
+				assyrian = "N nwe"
+				greek = "Moso li"
+				isaurian = "Moso li"
+				persian = "M psila" 
+				parthian = "M psila" 
+				helleno_aramean = "Moso li"
 				armenian = "Musul"
 				turkish = "Musul"
 				bedouin_arabic = "al-Mawsil"
@@ -23263,14 +23263,14 @@ e_persia = {
 				holy_site = yazidi					
 				
 				b_mosul = {
-					kurdish = "Mûsil"
-					aramean = "Nînwe"
-					assyrian = "Nînwe"
-					greek = "Mosoúli"
-					isaurian = "Mosoúli"
-					persian = "Mépsila" 
-					parthian = "Mépsila" 
-					helleno_aramean = "Mosoúli"
+					kurdish = "M sil"
+					aramean = "N nwe"
+					assyrian = "N nwe"
+					greek = "Moso li"
+					isaurian = "Moso li"
+					persian = "M psila" 
+					parthian = "M psila" 
+					helleno_aramean = "Moso li"
 					armenian = "Musul"
 					turkish = "Musul"
 					bedouin_arabic = "al-Mawsil"
@@ -23345,7 +23345,7 @@ e_persia = {
 				color={ 86 143 61 }
 				color2={ 255 255 255 }
 
-				kurdish = "Wirmê"
+				kurdish = "Wirm "
 				greek = "Urmia"
 				persian = "Urmiye"
 				isaurian = "Urmia"
@@ -23355,7 +23355,7 @@ e_persia = {
 				holy_site = zoroastrian # The Great Fire of Adur Gushnasp
 				
 				b_oroumieh = {
-					kurdish = "Wirmê"
+					kurdish = "Wirm "
 					greek = "Urmia"
 					persian = "Urmiye"
 					isaurian = "Urmia"
@@ -23900,7 +23900,7 @@ e_persia = {
 			
 			capital = 643 # Fars
 
-			persian = "Pârs"
+			persian = "P rs"
 			
 			c_fars = {
 				color={ 91 130 24 }
@@ -24140,7 +24140,7 @@ e_persia = {
 				color={ 144 177 88 }
 				color2={ 255 255 255 }
 
-				persian = "Arg-é Bam"
+				persian = "Arg-  Bam"
 				
 				b_bampur = {
 				}
@@ -24252,12 +24252,12 @@ e_persia = {
 				color2={ 255 255 255 }
 
 				aramean = "Astarabad"
-				persian = "Varkâna"
+				persian = "Vark na"
 				greek = "Hyrcania"
 				
 				b_gurgan = {
 					aramean = "Astarabad"
-					persian = "Varkâna"
+					persian = "Vark na"
 					greek = "Hyrcania"
 				}
 				b_sadd_i_iskandar = {
@@ -25854,6 +25854,68 @@ e_gaul = {
 		}
 	}
 
+k_gallia = {
+	color={ 30 110 25 }
+	color2={ 255 255 255 }
+	capital = 118 # Augusta Treverorum (Trier)
+	
+	culture = romano_gallic
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+d_lugdunensis_tertia = {
+	color={ 0 128 0 }
+	color2={ 255 255 255 }
+	
+	capital = 140 # Tours
+ 
+	allow = {
+		always = no
+	}	
+}
+d_lugdunensis_secunda = {
+	color={ 34 139 34 }
+	color2={ 255 255 255 }
+	
+	capital = 97 # Rouen
+
+	allow = {
+		always = no
+	}	
+}
+d_lugdunensis_quarta = {
+	color={ 25 100 25 }
+	color2={ 255 255 255 }
+	
+	capital = 131 # Sens
+
+	allow = {
+		always = no
+	}
+}
+d_belgica_prima = {
+	color={ 126 51 51 }
+	color2={ 255 255 255 }
+	
+	capital = 118 # Trier
+	
+	allow = {
+		always = no
+	}
+}
+d_belgica_secunda = {
+	color={ 150 140 80 }
+	color2={ 255 255 255 }
+
+	capital = 114 # Durocotorum
+	
+	allow = {
+		always = no
+	}
+}
+}
 	k_lugdunensis = {
 		color={ 0 100 0 }
 		capital = 112 # Ile de France
@@ -25867,18 +25929,18 @@ e_gaul = {
 		norse_pagan_reformed = 100 # Crusade target weight
 		
 		thuringian = Heshenloand 
-		alamannian = Mesäänänd 
+		alamannian = Mes  n nd 
 		burgundian = Sagqsland
 		old_saxon = Vetdenland 
 		anglo = Vetdenland 
 		lombard = Vetsdenland 
-		visigothic = Sagqslàndis
-		ostrogothic = Sagqslàndis
+		visigothic = Sagqsl ndis
+		ostrogothic = Sagqsl ndis
 		old_frankish = Austrasia
-		old_frisian = Westliklân
+		old_frisian = Westlikl n
 		frankish = Austrasia
 		german = Westenland
-		jute = Sehtþord
+		jute = Seht ord
 		dane = Vestjordr
 		
 		# Creation/usurpation trigger
@@ -25888,6 +25950,18 @@ e_gaul = {
 			}
 		}
 		
+		d_viennensis = {
+		color={ 35 68 101 }
+		color2={ 255 255 255 }
+	
+		capital = 228
+	
+		culture = roman
+
+		allow = {
+		d_viennensis = { is_titular = no }
+		}
+		}
 		d_noviodunum = {
 			color={ 34 139 34 }
 			color2={ 255 255 255 }
@@ -25895,18 +25969,18 @@ e_gaul = {
 			capital = 112 # Lutetia 
 			
 			thuringian = Wehelloand
-			alamannian = Betteländ 
-			burgundian = Þarbaland
+			alamannian = Bettel nd 
+			burgundian =  arbaland
 			old_saxon = Beddelland
 			anglo = Beddelland
 			lombard = Peddelland
-			visigothic = Þarbalàndis
-			ostrogothic = Þarbalàndis
+			visigothic =  arbal ndis
+			ostrogothic =  arbal ndis
 			old_frankish = Uetalarloand
-			old_frisian = Bidlerslân
+			old_frisian = Bidlersl n
 			frankish = Amiens
 			german = Betteland
-			jute = Tixeirþorð
+			jute = Tixeir or 
 			dane = Tiggjerjordr
 			
 			c_ile_de_france = {
@@ -26249,7 +26323,7 @@ e_gaul = {
 			capital = 107 # Andegavia ?
 			
 			thuringian = Eiwesiejer
-			alamannian = Éibeseigäär
+			alamannian =  ibeseig  r
 			burgundian = Bagnsigis
 			old_saxon = Eibeteiker
 			anglo = Eibeteiker
@@ -26259,7 +26333,7 @@ e_gaul = {
 			old_frankish = Taxusuuinar
 			old_frisian = Iiko
 			german = Eibeseiger
-			jute = Tajsþorð
+			jute = Tajs or 
 			dane = Taksjordr
 
 			c_avranches = {
@@ -27842,10 +27916,10 @@ e_gaul = {
 		
 		visigothic = Sibungawi
 		thuringian = Siewenloander
-		alamannian = Siibeänder
+		alamannian = Siibe nder
 		burgundian = Sibungawi
-		old_saxon = Teobenländer
-		anglo = Teobenländer
+		old_saxon = Teobenl nder
+		anglo = Teobenl nder
 		roman = "Septem Provincae"
 		romano_british = "Septem Provincae"
 		illyro_roman = "Septem Provincae"
@@ -27863,14 +27937,14 @@ e_gaul = {
 	    noricroman = "Septem Provinciae"
 		pannonian = "Septem Provinciae"
 		dalmatian = "Septem Provinciae"
-		lombard = Tsopenländr
+		lombard = Tsopenl ndr
 		ostrogothic = Sibungawi
 		old_frankish =Tsonaloande
-		old_frisian = Santjinlâns
+		old_frisian = Santjinl ns
 		suebi = Setteterre
 		frankish = Neustria
-		german = Siebenländer
-		jute = Ssynþorðe
+		german = Siebenl nder
+		jute = Ssyn or e
 		dane = Svynjorder
 		
 		allow = {
@@ -27895,18 +27969,18 @@ e_gaul = {
 			
 			culture = romano_gallic
 
-			visigothic = Niunþiuda
+			visigothic = Niun iuda
 			thuringian = Neunmenschen
-			alamannian = Nyynmenschään
-			burgundian = Niunþiuda
+			alamannian = Nyynmensch  n
+			burgundian = Niun iuda
 			old_saxon = Neovenmenht
 			anglo = Neovenmenht
-			lombard = Neovenmeuþln
-			ostrogothic = Niunþiuda
+			lombard = Neovenmeu ln
+			ostrogothic = Niun iuda
 			old_frankish = Nagonmensen
-			old_frisian = Santjinlâns
+			old_frisian = Santjinl ns
 			suebi = Novepopoli
-			german = Neunländer
+			german = Neunl nder
 			jute = Nifoljeislax
 			dane = Nifolkeslag
 
@@ -31725,8 +31799,8 @@ e_gaul = {
 		celtic_pagan_reformed = 300
 		
 		norse = Bertangaland
-		welsh = Arymôr
-		irish = Bhriotáin
+		welsh = Arym r
+		irish = Bhriot in
 		frankish = Bretagne
 		armorican = Armorica
 		gallic = Armorica
@@ -31750,7 +31824,7 @@ e_gaul = {
 			norse = Bertangaland
 			breton = Breizh
 			welsh = Llydaw
-			irish = Briotáine
+			irish = Briot ine
 			frankish = Bretagne
 			armorican = Armorica
 			gallic = Armorica
@@ -31875,7 +31949,7 @@ e_gaul = {
 				color={ 140 30 13 }
 				color2={ 255 255 255 }
 
-				breton = Broërec
+				breton = Bro rec
 				welsh = Guened
 				roman = "Dariotirum"
 				romano_gallic = "Dariotirum"
@@ -32117,7 +32191,7 @@ e_gaul = {
 				b_plougonven = {
 				}
 				b_plourivo = {
-					breton = "Plourivoù"
+					breton = "Plourivo "
 				}
 			}
 			c_penthievre = {
@@ -32169,7 +32243,7 @@ e_gaul = {
 				    dalmatian = Moncontor
 				}
 				b_peran = {
-					breton = "Sant-Pêran"
+					breton = "Sant-P ran"
 				}
 				b_loudeac = {
 				}
@@ -32232,7 +32306,7 @@ e_gaul = {
 					breton = "Sant-Mikael"
 				}
 				b_st_malo = {
-					breton = "Sant-Maloù"
+					breton = "Sant-Malo "
 					roman = "Reginca"
 					romano_gallic = "Reginca"
 				    romano_hispanic = Reginca
@@ -32256,7 +32330,7 @@ e_gaul = {
 				b_dinan = {
 				}
 				b_st_meen = {
-					breton = "Sant-Méen"
+					breton = "Sant-M en"
 				}
 				b_porhoet = {
 				}
@@ -32276,17 +32350,17 @@ e_gaul = {
 		celtic_pagan_reformed = 50
 
 		thuringian = Herssloand
-		alamannian = Häärzänd 
-		burgundian = Haírtoland
+		alamannian = H  rz nd 
+		burgundian = Ha rtoland
 		old_saxon = Kertland 
 		anglo = Kertland 
 		lombard = Kertsleuda  
-		visigothic = Haírtolàndis
-		ostrogothic = Haírtolàndis
+		visigothic = Ha rtol ndis
+		ostrogothic = Ha rtol ndis
 		old_frankish = Artloand
-		old_frisian = Hertenlân
+		old_frisian = Hertenl n
 		suebi = "Therach de Cor"
-		jute = Hverteiþorð
+		jute = Hvertei or 
 		dane = Hjertejord 
 		
 		# Creation/usurpation trigger
@@ -33099,7 +33173,7 @@ e_gaul = {
 				color={ 113 113 158 }
 				color2={ 255 255 255 }
 				
-				old_frisian = Lúksemboarch
+				old_frisian = L ksemboarch
 				old_frankish = "Heigeroburc"
 			
 				b_luxembourg = {
@@ -33714,16 +33788,16 @@ e_gaul = {
 		catholic = 5000 # Crusade target weight
 
 		thuringian = Weshlihlusses
-		alamannian = Wäästliuwflusses
-		burgundian = Aúhumaahver
+		alamannian = W  stliuwflusses
+		burgundian = A humaahver
 		old_saxon = Vedligplutet
 		anglo = Vedligplutet
-		lombard = Vedligþleutset
-		visigothic = Aúhumaahver
-		ostrogothic = Aúhumaahver
+		lombard = Vedlig leutset
+		visigothic = A humaahver
+		ostrogothic = A humaahver
 		old_frankish = Uuestirsrine
-		old_frisian = Ôfslaanfrysk
-		jute = Flyeðenveiste
+		old_frisian =  fslaanfrysk
+		jute = Flye enveiste
 		dane = Flodenwestern
 		
 		# Creation/usurpation trigger
@@ -33913,7 +33987,7 @@ e_gaul = {
 				color={ 200 100 65 }
 				color2={ 255 255 255 }
 				
-				old_frisian = Brabân
+				old_frisian = Brab n
 				old_frankish = "Blaoburc"
 				roman = Toxandria
 				romano_gallic = Toxandria
@@ -34293,7 +34367,7 @@ e_gaul = {
 				holy_site = norse_pagan
 				holy_site = norse_pagan_reformed
 				
-				old_frisian = Seelân
+				old_frisian = Seel n
 				roman = "Nehalennia"
 				old_frankish = "Nehalennland"
 				romano_gallic = Nehalennia
@@ -34446,16 +34520,16 @@ e_gaul = {
 		catholic = 150 # Crusade target weight
 		
 		thuringian = Hawlloand
-		alamannian = Halnänd 
+		alamannian = Haln nd 
 		burgundian = Burgundy
-		old_saxon = Hælfland
-		anglo = Hælfland
-		lombard = Hælptsland
-		visigothic = Halbslàndis
-		ostrogothic = Halbslàndis
-		old_frankish = Ielveân
-		old_frisian = Heallân
-		jute = Halsþorð
+		old_saxon = H lfland
+		anglo = H lfland
+		lombard = H lptsland
+		visigothic = Halbsl ndis
+		ostrogothic = Halbsl ndis
+		old_frankish = Ielve n
+		old_frisian = Heall n
+		jute = Hals or 
 		dane = Halvjordr	
 
 		# Creation/usurpation trigger
@@ -34493,7 +34567,7 @@ e_gaul = {
 				pannonian = "Novum Castellum"
 				dalmatian = "Novum Castellum"
 				alamannian = "Niuwiburg"
-				burgundian = "Niujisbaúrgs"
+				burgundian = "Niujisba rgs"
 				
 				b_neuchatel = {
 					roman = "Novum Castellum"
@@ -34514,7 +34588,7 @@ e_gaul = {
 					pannonian = "Novum Castellum"
 					dalmatian = "Novum Castellum"
 					alamannian = "Niuwiburg"
-					burgundian = "Niujisbaúrgs"
+					burgundian = "Niujisba rgs"
 				}
 				b_stimier = {
 				}
@@ -35341,8 +35415,8 @@ e_spain = {
 				roman = "Castra Septem"
 				romano_gallic = "Castra Septem"
 				romano_hispanic = "Castra Septem"
-				visigothic = Sibunaúrgs
-				suebi = Sibunaúrgs
+				visigothic = Sibuna rgs
+				suebi = Sibuna rgs
 				
 				b_alcantara = {
 				}
@@ -35402,8 +35476,8 @@ e_spain = {
 				roman = "Castra Caecilia"
 				romano_gallic = "Castra Caecilia"
 				romano_hispanic = "Castra Caecilia"
-				visigothic = Káisarbaúrgs
-				suebi = Káisarbaúrgs
+				visigothic = K isarba rgs
+				suebi = K isarba rgs
 
 				b_caceres = {
 				}
@@ -35531,8 +35605,8 @@ e_spain = {
 				roman = "Castra Blancus"
 				romano_gallic = "Castra Blancus"
 				romano_hispanic = "Castra Blancus"
-				visigothic = Eitbaírgahei
-				suebi = Eitbaírgahei
+				visigothic = Eitba rgahei
+				suebi = Eitba rgahei
 				romano_gothic = "Castra Blancus"
 				romano_dacian = "Castra Blancus"
 				romano_frank = "Castra Blancus"
@@ -35552,8 +35626,8 @@ e_spain = {
 					roman = "Castra Blancus"
 					romano_gallic = "Castra Blancus"
 					romano_hispanic = "Castra Blancus"
-					visigothic = Eitbaírgahei
-					suebi = Eitbaírgahei
+					visigothic = Eitba rgahei
+					suebi = Eitba rgahei
 				    romano_gothic = "Castra Blancus"
 				    romano_dacian = "Castra Blancus"
 				    romano_frank = "Castra Blancus"
@@ -35613,8 +35687,8 @@ e_spain = {
 				roman = "Aeminium"
 				romano_gallic = "Aeminium"
 				romano_hispanic = "Aeminium"
-				visigothic = Emínio
-				suebi = Emínio
+				visigothic = Em nio
+				suebi = Em nio
 				romano_gothic = Aeminium
 				romano_dacian = Aeminium
 				romano_frank = Aeminium
@@ -35854,8 +35928,8 @@ e_spain = {
 				roman = "Scalabis"
 				romano_gallic = "Scalabis"
 				romano_hispanic = "Scalabis"
-				visigothic = Ana-bidaúhtar
-				suebi = Ana-bidaúhtar
+				visigothic = Ana-bida htar
+				suebi = Ana-bida htar
 				romano_gothic = Scalabis
 				romano_dacian = Scalabis
 				romano_frank = Scalabis
@@ -36477,8 +36551,8 @@ e_spain = {
 				roman = Hispalis
 				romano_gallic = Hispalis
 				romano_hispanic = Hispalis
-				visigothic = Hnáiwland
-				suebi = Hnáiwland
+				visigothic = Hn iwland
+				suebi = Hn iwland
 				punic = Spal
 				romano_gothic = Hispalis
 				romano_dacian = Hispalis
@@ -36678,8 +36752,8 @@ e_spain = {
 				roman = Gades
 				romano_gallic = Gades
 				romano_hispanic = Gades
-				visigothic = Waddjusbaúrgs
-				suebi = Waddjusbaúrgs
+				visigothic = Waddjusba rgs
+				suebi = Waddjusba rgs
 				punic = Agadir
 				greek = Gadeira 
 				
@@ -36761,7 +36835,7 @@ e_spain = {
 				visigothic = Hweitskip
 				suebi = Hweitskip
 				punic = Gaederia
-				greek = Lefkólimáni
+				greek = Lefk lim ni
 				romano_gothic = Traducta
 				romano_dacian = Traducta
 				romano_frank = Traducta
@@ -37264,7 +37338,7 @@ e_spain = {
 				romano_hispanic = Coronia
 				visigothic = Wipja
 				suebi = "Faro do Burgo"
-				greek = "Stémma"
+				greek = "St mma"
 				old_frankish = Krone
 				romano_gothic = Coronia
 				romano_dacian = Coronia
@@ -37341,9 +37415,9 @@ e_spain = {
 				roman = "Composita Tella"
 				romano_gallic = "Composita Tella"
 				romano_hispanic = "Composita Tella"
-				visigothic =  Aúrahji
-				suebi = Aúrahji
-				greek = Ágiosédafos
+				visigothic =  A rahji
+				suebi = A rahji
+				greek =  gios dafos
 				romano_gothic = "Composita Tella"
 				romano_dacian = "Composita Tella"
 				romano_frank = "Composita Tella"
@@ -37460,8 +37534,8 @@ e_spain = {
 				roman = "Asturica-Ovidus"
 				romano_gallic = Asturica-Ovidus
 				romano_hispanic = "Asturica-Ovidus"
-				visigothic =  Uviéu
-				suebi = Uviéu
+				visigothic =  Uvi u
+				suebi = Uvi u
 				romano_gothic = "Asturica-Ovidus"
 				romano_dacian = "Asturica-Ovidus"
 				romano_frank = "Asturica-Ovidus"
@@ -37749,8 +37823,8 @@ e_spain = {
 				romano_aramean = "Hispania Citerior"
 				romano_persian = "Hispania Citerior"
 				romano_frank = "Hispania Citerior"
-				visigothic =  Ga-háiljanland
-				suebi = Ga-háiljanland
+				visigothic =  Ga-h iljanland
+				suebi = Ga-h iljanland
 				african_romance = "Hispania Citerior"
 				raetoroman = "Hispania Citerior"
 				noricroman = "Hispania Citerior"
@@ -37838,8 +37912,8 @@ e_spain = {
 				romano_aramean = Vindius
 			    romano_persian = Vindius
 			    romano_frank = Vindius
-				visigothic =  Akranaláusakr
-				suebi = Akranaláusakr
+				visigothic =  Akranal usakr
+				suebi = Akranal usakr
 				african_romance = Vindius
 				raetoroman = Vindius
 				noricroman = Vindius
@@ -38016,7 +38090,7 @@ e_spain = {
 				dalmatian = "Castra Vasconensis"
 				
 				b_pamplona = {
-					basque = Iruña
+					basque = Iru a
 					roman = Pompaelo
 					romano_gallic = Pompaelo
 					romano_hispanic = Pompaelo
@@ -38555,8 +38629,8 @@ e_spain = {
 				roman = "Marca Hispanica"
 				romano_gallic = "Marca Hispanica"
 				romano_hispanic = "Marca Hispanica"
-				visigothic = Aúhumaland
-				suebi = Aúhumaland
+				visigothic = A humaland
+				suebi = A humaland
 				old_frankish = "Marca Hispanica"
 				romano_gothic = "Marca Hispanica"
 			    romano_dacian = "Marca Hispanica"
@@ -39706,8 +39780,8 @@ e_spain = {
 				roman = Almadus
 				romano_gallic = Almadus
 				romano_hispanic = Almadus
-				visigothic = Grabanbaúrgs
-				suebi = Grabanbaúrgs
+				visigothic = Grabanba rgs
+				suebi = Grabanba rgs
 				romano_gothic = Almadus
 				romano_dacian = Almadus
 				romano_frank = Almadus
@@ -39764,8 +39838,8 @@ e_spain = {
 				roman = Desertum
 				romano_gallic = Desertum
 				romano_hispanic = Desertum
-				visigothic = Áuþida
-				suebi = Áuþida
+				visigothic =  u ida
+				suebi =  u ida
 				romano_gothic = Desertum
 				romano_dacian = Desertum
 				romano_frank = Desertum
@@ -39805,8 +39879,8 @@ e_spain = {
 				roman = Arva
 				romano_gallic = Arva
 				romano_hispanic = Arva
-				visigothic = Háiþi
-				suebi = Háiþi
+				visigothic = H i i
+				suebi = H i i
 				romano_gothic = Arva
 				romano_dacian = Arva
 				romano_frank = Arva
@@ -41343,8 +41417,8 @@ e_britannia = {
 	color2={ 255 255 255 }
 	capital = 32 # Middle
 
-	old_saxon = Brytenríce
-	anglo = Brytenríce
+	old_saxon = Brytenr ce
+	anglo = Brytenr ce
 	briton = "Ynys Pridein"
 	roman = Albion
 	romano_british = Albion
@@ -41353,7 +41427,7 @@ e_britannia = {
 	scottish = Alba
 	pictish = Alba
 	breton = Prydain
-	saxon = "Mære Bret"
+	saxon = "M re Bret"
 	
 	k_england = {
 
@@ -41378,7 +41452,7 @@ e_britannia = {
 		manx = Sostyn
 		greek = Albion
 		old_saxon = Seaxeland
-		anglo = Ænglaland
+		anglo =  nglaland
 		saxon = Anglecynn
 		jute = Kentland
 		brittonic_jute = "Great Kent"
@@ -41401,7 +41475,7 @@ e_britannia = {
 
 			saxon = Northumbria
 			anglo = Bernicia
-			old_saxon = Norþhymbra
+			old_saxon = Nor hymbra
 			briton = Bryneich
 			cumbric = Bryneich
 			romano_british = Brigantia
@@ -41494,8 +41568,8 @@ e_britannia = {
 				romano_persian = Vinovia
 				romano_frank = Vinovia
 				romano_gallic = Vinovia
-				jute = Ðunorholm
-				brittonic_jute = Ðunorholm
+				jute =  unorholm
+				brittonic_jute =  unorholm
 	
 				b_gateshead = {
 					old_saxon = Geatheafod
@@ -41533,8 +41607,8 @@ e_britannia = {
 				b_raby = {
 				}
 				b_st_cuthbert = {
-					old_saxon = "Halig Cuþbert"
-					anglo = "Halig Cuþbert"
+					old_saxon = "Halig Cu bert"
+					anglo = "Halig Cu bert"
 					briton = "Sant Cuthbert"
 				}
 			}
@@ -41564,8 +41638,8 @@ e_britannia = {
 				b_gilsland = {
 				}
 				b_penrith = {
-					old_saxon = Penrið
-					anglo = Penrið
+					old_saxon = Penri 
+					anglo = Penri 
 					briton = Penrhyd
 					roman = Voreda
 					romano_british = Voreda
@@ -41592,9 +41666,9 @@ e_britannia = {
 			capital = 58 # Lancaster
 			
 			welsh = Rheged
-			saxon = Lancæster
-			old_saxon = Mameceasterscír
-			anglo = Mameceasterscír
+			saxon = Lanc ster
+			old_saxon = Mameceastersc r
+			anglo = Mameceastersc r
 			briton = Cilgwri
 			roman = Mamucium
 			romano_british = Mamucium
@@ -41628,13 +41702,13 @@ e_britannia = {
 			    romano_persian = Mamucium
 			    romano_frank = Mamucium
 			    romano_gallic = Mamucium
-				saxon = Cæster
+				saxon = C ster
 			
 				b_salford = {
 				}
 				b_lancaster = {
-					old_saxon = Loncæster
-					anglo = Loncæster
+					old_saxon = Lonc ster
+					anglo = Lonc ster
 				}
 				b_bolton = {
 					old_saxon = Bothltun
@@ -41710,9 +41784,9 @@ e_britannia = {
 				color={ 255 60 15 }
 				color2={ 255 255 255 }
 
-				manx = "Yn Çhaayr"
-				old_saxon = Legacæstir
-				anglo = Legacæstir
+				manx = "Yn  haayr"
+				old_saxon = Legac stir
+				anglo = Legac stir
 				briton = Deverdoeu
 				roman = Deva
 				romano_british = Deva
@@ -41760,8 +41834,8 @@ e_britannia = {
 				danish = "Djuraby"
 				swedish = "Djuraby"
 				norse = "Djuraby"	
-				old_saxon = Pecsæt
-				anglo = Pecsæt
+				old_saxon = Pecs t
+				anglo = Pecs t
 				briton = Derwent
 				roman = Derventio
 				romano_british = Derventio
@@ -41803,8 +41877,8 @@ e_britannia = {
 					anglo = Pechesers
 				}
 				b_chesterfield = {
-					old_saxon = Cæsterfeld
-					anglo = Cæsterfeld
+					old_saxon = C sterfeld
+					anglo = C sterfeld
 				}
 				b_burton = {
 					old_saxon = Beardan
@@ -41836,8 +41910,8 @@ e_britannia = {
 			irish = Eburos
 			roman = "Britannia Secunda"
 			romano_british = "Britannia Secunda"
-			jute = Jórvík
-			brittonic_jute = Jórvík
+			jute = J rv k
+			brittonic_jute = J rv k
 			old_frankish = Yourke
 			old_frisian = Yerk
 			norse = Eburaz
@@ -41871,8 +41945,8 @@ e_britannia = {
 				irish = Eburos
 				roman = Brigantes
 				romano_british = Brigantes
-				jute = Jórvík
-				brittonic_jute = Jórvík
+				jute = J rv k
+				brittonic_jute = J rv k
 				old_frankish = Yourke
 				old_frisian = Yerk
 				norse = Eburaz 
@@ -41904,8 +41978,8 @@ e_britannia = {
 					romano_persian = Eburacum
 					romano_frank = Eburacum
 					romano_gallic = Eburacum
-					jute = Jórvík
-					brittonic_jute = Jórvík
+					jute = J rv k
+					brittonic_jute = J rv k
 					old_frankish = Yourke
 					old_frisian = Yerk
 				}
@@ -41950,8 +42024,8 @@ e_britannia = {
 				color={ 255 85 10 }
 				color2={ 255 255 255 }
 
-				old_saxon = Elmedsætna
-				anglo = Elmedsætna
+				old_saxon = Elmeds tna
+				anglo = Elmeds tna
 				briton = "Caer Lind Colun"
 				roman = Coritani
 				romano_british = Coritani
@@ -41971,8 +42045,8 @@ e_britannia = {
 					briton = "Tigguo Cobauc"
 				}
 				b_southwell = {
-					old_saxon = Suþwiell
-					anglo = Suþwiell
+					old_saxon = Su wiell
+					anglo = Su wiell
 					roman = "Ad Pontem"
 					romano_british = "Ad Pontem"
 				}
@@ -42085,8 +42159,8 @@ e_britannia = {
 
 				alamannian = "Bucinobantia"
 				bucinobantian = "Bucinobantia"
-				old_saxon = Norþfolc
-				anglo = Norþfolc
+				old_saxon = Nor folc
+				anglo = Nor folc
 				briton = "Caer Went"
 				roman = Iceni
 				romano_british = Iceni
@@ -42120,8 +42194,8 @@ e_britannia = {
 					briton = Llyn
 				}
 				b_yarmouth = {
-					old_saxon = Yernemuð
-					anglo = Yernemuð
+					old_saxon = Yernemu 
+					anglo = Yernemu 
 					briton = Gariannum
 					roman = Gariannonum
 					romano_british = Gariannonum
@@ -42144,8 +42218,8 @@ e_britannia = {
 
 				jute = Suthfolc
 				brittonic_jute = Suthfolc
-				old_saxon = Suþfolc
-				anglo = Suþfolc
+				old_saxon = Su folc
+				anglo = Su folc
 				briton = Ansrum
 				roman = Trinovantes
 				romano_british = Trinovantes
@@ -42247,13 +42321,13 @@ e_britannia = {
 				b_st_albans = {
 					roman = Verulamium
 					romano_british = Verulamium
-					anglo = Wæclingacaester
-					old_saxon = Wæclingacaester
+					anglo = W clingacaester
+					old_saxon = W clingacaester
 					briton = "Caer Mincip"
 				}
 				b_berkhamsted = {
-					anglo = Beorhðanstædæ
-					old_saxon = Beorhðanstædæ
+					anglo = Beorh anst d 
+					old_saxon = Beorh anst d 
 				}
 				b_luton = {
 				}
@@ -42275,9 +42349,9 @@ e_britannia = {
 				old_saxon = "Noxgaga"
 				anglo = "Noxgaga"
 				briton = "Lundeiniu"
-				norse = "Lundúnir"
+				norse = "Lund nir"
 				irish = "Londain"
-				gaelic = "Llundaín"
+				gaelic = "Llunda n"
 				manx = "Lunnin"
 				roman = "Londinium"
 				romano_british = "Londinium"
@@ -42301,15 +42375,15 @@ e_britannia = {
 					used_for_dynasty_names = yes
 					
 					norse = Vestmystur
-					old_saxon = Þornieg
-					anglo = Þornieg
+					old_saxon =  ornieg
+					anglo =  ornieg
 				}
 				b_london = {
 					used_for_dynasty_names = yes
 					
-					norse = "Lundúnir"
+					norse = "Lund nir"
 					irish = "Londain"
-					gaelic = "Llundaín"
+					gaelic = "Llunda n"
 					manx = "Lunnin"
 					roman = "Londinium"
 					romano_british = Londinium
@@ -42353,8 +42427,8 @@ e_britannia = {
 					anglo = Hearg
 				}
 				b_chelsea = {
-					old_saxon = Cealchyð
-					anglo = Cealchyð
+					old_saxon = Cealchy 
+					anglo = Cealchy 
 				}
 			}
 			c_essex = {
@@ -42482,9 +42556,9 @@ e_britannia = {
 				romano_british = Magna
 			
 				b_st_ethelberts = {
-					old_saxon = "Halig Æthelbert"
-					anglo = "Halig Æthelbert"
-					briton = "Sant Æthelbert"
+					old_saxon = "Halig  thelbert"
+					anglo = "Halig  thelbert"
+					briton = "Sant  thelbert"
 				}
 				b_hereford = {
 					old_saxon = Hereford
@@ -42575,8 +42649,8 @@ e_britannia = {
 				color={ 241 60 30 }
 				color2={ 255 255 255 }
 
-				old_saxon = Arosætna
-				anglo = Arosætna
+				old_saxon = Aros tna
+				anglo = Aros tna
 				briton = Alauna
 				roman = Alauna
 				romano_british = Alauna
@@ -42600,8 +42674,8 @@ e_britannia = {
 				b_stafford = {
 				}
 				b_tamworth = {
-					old_saxon = Tomworðig
-					anglo = Tomworðig
+					old_saxon = Tomwor ig
+					anglo = Tomwor ig
 				}
 				b_kenilworth = {
 					old_saxon = Chinewrde
@@ -42706,8 +42780,8 @@ e_britannia = {
 				romano_gallic = Dobuni
 
 				b_gloucester = {
-					old_saxon = Glevcæster
-					anglo = Glevcæster
+					old_saxon = Glevc ster
+					anglo = Glevc ster
 					briton = "Caer Gloui"
 					roman = Glevum
 					romano_british = Glevum
@@ -42758,8 +42832,8 @@ e_britannia = {
 					romano_british = Sorviodunum
 				}
 				b_clarendon = {
-					old_saxon = Æglesburgh
-					anglo = Æglesburgh
+					old_saxon =  glesburgh
+					anglo =  glesburgh
 				}
 				b_malmesbury = {
 					old_saxon = Malmesbyrig
@@ -42785,21 +42859,21 @@ e_britannia = {
 				color={ 255 115 15 }
 				color2={ 255 255 255 }
 
-				old_saxon = Færpinga
-				anglo = Færpinga
+				old_saxon = F rpinga
+				anglo = F rpinga
 				briton = Doric
 				roman = "Aelia Castra"
 				romano_british = "Aelia Castra"
 				jute = Okserfjord
 				brittonic_jute = Okserfjord
-				norse = Vaðnauta
+				norse = Va nauta
 				geatish = Oxarford
 				german = Ochsenfurt
-				irish = Damhát
+				irish = Damh t
 				thuringian = Voluford
-				greek = Vódiasidoros
+				greek = V diasidoros
 				basque = Idiford
-				ostrogothic = Aúhsafdord
+				ostrogothic = A hsafdord
 				old_frisian = Ossenford
 				
 				b_oxford = {
@@ -42828,8 +42902,8 @@ e_britannia = {
 					briton = Rhyddinge
 				}
 				b_aylesbury = {
-					old_saxon = Æglesburgh #NOTE:Same as b_clarendon, need to ask Mr. Repwoc
-					anglo = Æglesburgh #NOTE:Same as b_clarendon, need to ask Mr. Repwoc
+					old_saxon =  glesburgh #NOTE:Same as b_clarendon, need to ask Mr. Repwoc
+					anglo =  glesburgh #NOTE:Same as b_clarendon, need to ask Mr. Repwoc
 				}
 				b_eynsham = {
 				}
@@ -42919,8 +42993,8 @@ e_britannia = {
 				holy_site = west_pagan
 				
 				b_rochester = {
-					old_saxon = Rocæstre
-					anglo = Rocæstre
+					old_saxon = Roc stre
+					anglo = Roc stre
 					briton = Dourbruf
 					roman = Durobrivae
 					romano_british = Durobrivae
@@ -42963,8 +43037,8 @@ e_britannia = {
 				color={ 241 110 60 }
 				color2={ 255 255 255 }
 
-				old_saxon = Suþsexena
-				anglo = Suþsexena
+				old_saxon = Su sexena
+				anglo = Su sexena
 				briton = Rhegin
 				roman = Anderida
 				romano_british = Anderida
@@ -42994,8 +43068,8 @@ e_britannia = {
 					romano_british = Mutuantonis
 				}
 				b_arundel = {
-					old_saxon = Ærndæl
-					anglo = Ærndæl
+					old_saxon =  rnd l
+					anglo =  rnd l
 					briton = Arno
 					roman = Arnus
 					romano_british = Arnus
@@ -43015,24 +43089,24 @@ e_britannia = {
 			
 			capital = 64 # Gwynedd
 
-			old_saxon = Norðwéalas
-			anglo = Norðwéalas
+			old_saxon = Nor w alas
+			anglo = Nor w alas
 			briton = Guynet
 			roman = Venedotia
 			romano_british = Venedotia
 			romano_gallic = Venedotia
-			irish = Féniweidh
+			irish = F niweidh
 			old_frisian = "Kriichatshebinde"
 			dane = Krigerjordr
-			jute = Kriþxirþorð
-			saxon = "Duguð"
+			jute = Kri xir or 
+			saxon = "Dugu "
 
 			c_gwynedd = {
 				color={ 175 80 10 }
 				color2={ 255 255 255 }
 
-				old_saxon = Norðwéalas
-				anglo = Norðwéalas
+				old_saxon = Nor w alas
+				anglo = Nor w alas
 				briton = Guynet
 				roman = Venedotia
 				romano_british = Venedotia
@@ -43046,11 +43120,11 @@ e_britannia = {
 				romano_aramean = Venedotia
 				romano_persian = Venedotia
 				romano_frank = Venedotia
-				irish = Féniweidh
+				irish = F niweidh
 				old_frisian = "Kriichatshebinde"
 				dane = Krigerjordr
-				jute = Kriþxirþorð
-				saxon = "Duguð"
+				jute = Kri xir or 
+				saxon = "Dugu "
 				
 				b_caernarfon = {
 					old_saxon = Custoient
@@ -43071,7 +43145,7 @@ e_britannia = {
 				}
 				b_aberffraw = {
 					briton = Aberffro
-					norwegian = Ongullsøy
+					norwegian = Ongulls y
 					english = Anglesey
 					saxon = Anglesey
 				}
@@ -43102,10 +43176,10 @@ e_britannia = {
 				roman = Deceangi
 				romano_british = Deceangi
 				romano_gallic = Deceangi
-				irish = Lárnatíre
-				old_frisian = Miggengrûn
+				irish = L rnat re
+				old_frisian = Miggengr n
 				dane = Middeljordr
-				jute = Miþðelþorð
+				jute = Mi  el or 
 				saxon = Mideard
 				
 				b_denbigh = {
@@ -43127,7 +43201,7 @@ e_britannia = {
 				b_hawarden = {
 					old_saxon = Haordine
 					anglo = Haordine
-					briton = Penarlâg
+					briton = Penarl g
 				}
 			}
 			c_powys = {
@@ -43141,11 +43215,11 @@ e_britannia = {
 				romano_british = Pagus
 				breton = Ternyllwg
 				german = Landschaft
-				saxon = Lyþerlicæcer
+				saxon = Ly erlic cer
 				romano_gallic = Pagus
 				irish = Tuath
-				old_frisian = Plattelân
-				jute= Lanðsjasset
+				old_frisian = Plattel n
+				jute= Lan sjasset
 				dane = Landskabet
 				welsh = Powys
 
@@ -43182,16 +43256,16 @@ e_britannia = {
 			color={ 125 51 3 }
 			color2={ 255 255 255 }
 
-			old_saxon = Westwéalas
-			anglo = Westwéalas
+			old_saxon = Westw alas
+			anglo = Westw alas
 			briton = Glywysing
 			roman = Glevenses
 			romano_british = Glevenses
 			romano_gallic = Glevenses
-			saxon = Rihtfolmedæl
-			old_frisian = Rjochtúthân
-			dane = Håndhøjre
-			jute = Håjðhyeþrei			
+			saxon = Rihtfolmed l
+			old_frisian = Rjocht th n
+			dane = H ndh jre
+			jute = H j hye rei			
 			welsh = Deheubarth
 
 			capital = 18 # Dyfed
@@ -43201,11 +43275,11 @@ e_britannia = {
 				color2={ 255 255 255 }
 			
 				saxon = Dyfed
-				irish = "Déisi Muman"
-				breton = Déisi
-				old_saxon = Westwéalas
-				anglo = Westwéalas
-				briton = Déisi
+				irish = "D isi Muman"
+				breton = D isi
+				old_saxon = Westw alas
+				anglo = Westw alas
+				briton = D isi
 				roman = Demetae	
 				romano_gallic = Demetae
 				romano_british = Demetae
@@ -43221,7 +43295,7 @@ e_britannia = {
 				norman = Pembrokeshire
 				old_frisian = Betsjinder
 				dane = Tjenestepigejordr
-				jute = Tþejneþixejorð
+				jute = T ejne ixejor 
 				
 				holy_site = insular
 				holy_site = celtic_pagan
@@ -43238,7 +43312,7 @@ e_britannia = {
 				}
 				b_st_davids = {
 					welsh = Tyddewi
-					norwegian = "Ramsøy"
+					norwegian = "Rams y"
 					old_saxon = "Halig Dauid"
 					anglo = "Halig Dauid"
 					briton = "Dewi Sant"
@@ -43260,31 +43334,31 @@ e_britannia = {
 				b_narberth = {
 				}
 				b_haverford = {
-					old_saxon = Hæfarforda
-					anglo = Hæfarforda
+					old_saxon = H farforda
+					anglo = H farforda
 				}
 			}
 			c_glamorgan = {
 				color={ 155 120 15 }
 				color2={ 255 255 255 }
 
-				old_saxon = Hlæw
-				anglo = Hlæw
+				old_saxon = Hl w
+				anglo = Hl w
 				briton = Glywysing 
 				roman = Glevenses
 				romano_british = Glevenses
 				romano_gallic = Glevenses
 				welsh = Morgannwg 
-				old_frisian = Skatútlân
+				old_frisian = Skat tl n
 				dane = Skjultskat
-				jute = Sþulzjat
+				jute = S ulzjat
 			
 				b_cardiff = {
 					briton = Caerdyf
 				}
 				b_neath = {
-					old_saxon = Neað
-					anglo = Neað
+					old_saxon = Nea 
+					anglo = Nea 
 					briton = Nedd
 					roman = Nido
 					romano_british = Nido
@@ -43317,8 +43391,8 @@ e_britannia = {
 				color={ 160 75 5 }
 				color2={ 255 255 255 }
 
-				old_saxon = Portaschið 
-				anglo = Portaschið 
+				old_saxon = Portaschi  
+				anglo = Portaschi  
 				briton = Guent
 				roman = Silures
 				romano_british = Silures
@@ -43326,7 +43400,7 @@ e_britannia = {
 				gallic = Siluria
 				old_frisian = Arbeidsmerk
 				dane = Hedenskmarked
-				jute = Heðenskmarkeð
+				jute = He enskmarke 
 				saxon = Caerwent 
 			
 				b_caerwent = {
@@ -43345,8 +43419,8 @@ e_britannia = {
 					romano_british = Gobannia
 				}
 				b_monmouth = {
-					old_saxon = Monnowmuða
-					anglo = Monnowmuða
+					old_saxon = Monnowmu a
+					anglo = Monnowmu a
 					briton = Abermynwy
 					roman = Blestium
 					romano_british = Blestium
@@ -43562,8 +43636,8 @@ e_britannia = {
 					anglo = Andeferas
 				}
 				b_st_swithun = {
-					old_saxon = "Halig Swiþhun"
-					anglo = "Halig Swiþhun"
+					old_saxon = "Halig Swi hun"
+					anglo = "Halig Swi hun"
 				}
 				b_wherwell = {
 					old_saxon = Hwerwyl
@@ -43644,8 +43718,8 @@ e_britannia = {
 				color={ 241 25 70 }
 				color2={ 255 255 255 }
 
-				old_saxon = Dormsæte
-				anglo = Dormsæte
+				old_saxon = Dorms te
+				anglo = Dorms te
 				briton = "Caer Durnac"
 				roman = Durotriges
 				romano_british = Durotriges
@@ -43699,8 +43773,8 @@ e_britannia = {
 				holy_site = west_pagan
 				
 				b_bath = {
-					old_saxon = Baðan
-					anglo = Baðan
+					old_saxon = Ba an
+					anglo = Ba an
 					briton = "Caer Baddan"
 					roman = "Aquae Sulis"
 					romano_british = "Aquae Sulis"
@@ -43779,8 +43853,8 @@ e_britannia = {
 			pictish = "Gall-Ghaidhealaibh"
 			saxon = "Rhinns"
 			roman = "Novantia"
-			german = "Gälenausländischen"
-			thuringian = "Gälenausländischen"
+			german = "G lenausl ndischen"
+			thuringian = "G lenausl ndischen"
 			briton = Strathclyde
 			
 			c_galloway = {
@@ -43790,8 +43864,8 @@ e_britannia = {
 				welsh = Strathclyde
 				pictish = "Gall-Ghaidhealaibh"
 				roman = "Novantia"
-				german = "Gälenausländischen"
-				thuringian = "Gälenausländischen"
+				german = "G lenausl ndischen"
+				thuringian = "G lenausl ndischen"
 				
 				b_dumfries = {
 				}
@@ -43895,10 +43969,10 @@ e_britannia = {
 			color2 = { 255 255 255 }
 			capital = 35 # Inse Gall
 			
-			norwegian = "Søreyar"
-			danish = "Søreyar"
-			swedish = "Söröarna"
-			norse = "Suðreyjar"
+			norwegian = "S reyar"
+			danish = "S reyar"
+			swedish = "S r arna"
+			norse = "Su reyjar"
 			pictish = "Creonia"
 			
 			
@@ -43919,10 +43993,10 @@ e_britannia = {
 				color={ 20 60 243 }
 				color2={ 255 255 255 }
 				
-				norwegian = "Søreyar"
-				danish = "Søreyar"
-				swedish = "Söröarna"
-				norse = "Suðreyjar"
+				norwegian = "S reyar"
+				danish = "S reyar"
+				swedish = "S r arna"
+				norse = "Su reyjar"
 				pictish = "Creona"
 				roman = "Hyperborea"
 				greek = "Hyperborea"
@@ -43936,7 +44010,7 @@ e_britannia = {
 				b_iona = {
 				}
 				b_stornoway = {
-					norwegian = "Stornavåg"
+					norwegian = "Stornav g"
 					danish = "Stornavik"
 					swedish = "Stornavik"
 					norse = "Stornavik"
@@ -43964,7 +44038,7 @@ e_britannia = {
 				norse = "Mann"
 				manx = "Ellan Vannin"
 				roman = "Mona"
-				welsh = "Ynys Môn"
+				welsh = "Ynys M n"
 				pictish = "Monadh"
 				briton = "Menev"
 				irish = "Eubonia"
@@ -43973,10 +44047,10 @@ e_britannia = {
 				holy_site = celtic_pagan_reformed
 				
 				b_peel = {
-					norwegian = "Pålø"
-					danish = "Pålø"
-					swedish = "Pålø"
-					norse = "Pålø"
+					norwegian = "P l "
+					danish = "P l "
+					swedish = "P l "
+					norse = "P l "
 				}
 				b_rushen = {
 				}
@@ -43997,11 +44071,11 @@ e_britannia = {
 				color={ 15 150 240 }
 				color2={ 255 255 255 }
 
-				pictish = "Airer Goídel"
-				irish = "Dál Riata"
+				pictish = "Airer Go del"
+				irish = "D l Riata"
 				roman = "Castra Funiculus"
-				german = "Küstegael"
-				thuringian = "Küstegael"
+				german = "K stegael"
+				thuringian = "K stegael"
 				
 				b_st_moluag = {
 				}
@@ -44309,9 +44383,9 @@ e_britannia = {
 				color2={ 255 255 255 }
 				
 				norwegian = "Katanes"
-				danish = "Katanæs"
-				swedish = "Katanäs"
-				norse = "Katanæs"
+				danish = "Katan s"
+				swedish = "Katan s"
+				norse = "Katan s"
 				
 				b_wick = {
 					norwegian = "Vik"
@@ -44324,10 +44398,10 @@ e_britannia = {
 				b_dornoch = {
 				}
 				b_thurso = {
-					swedish = "Tjurså"
-					danish = "Tyrså"
-					norwegian = "Tyrså"
-					norse = "Tyrså"
+					swedish = "Tjurs "
+					danish = "Tyrs "
+					norwegian = "Tyrs "
+					norse = "Tyrs "
 				}
 				b_dunrobin = {
 				}
@@ -44360,8 +44434,8 @@ e_britannia = {
 		muslim = 1 
                 
         manx = Nerin
-		old_saxon = Íraland
-		anglo = Íraland
+		old_saxon =  raland
+		anglo =  raland
 		briton = Iwerddon
 		roman = Hibernia
 		romano_british = Hibernia
@@ -44369,7 +44443,7 @@ e_britannia = {
 		swedish = Irland
 		danish = Irland
 		norwegian = Irland
-		irish = Éire
+		irish =  ire
 		pictish = Iuerthon
 		welsh = Iwerddon
 		breton = Iwerzhon
@@ -44384,7 +44458,7 @@ e_britannia = {
 			norwegian = Strangfjord
 			swedish = Strangfjord
 			danish = Strangfjord
-			norse = Strangfjorðr
+			norse = Strangfjor r
 			irish = Aileach
 			pictish = Ulley
 			welsh = Wledd
@@ -44400,7 +44474,7 @@ e_britannia = {
 				norwegian = Strangfjord
 				swedish = Strangfjord
 				danish = Strangfjord
-				norse = Strangfjorðr
+				norse = Strangfjor r
 				irish = Ulaid
 				pictish = Ulley
 				welsh = Wledd
@@ -44414,23 +44488,23 @@ e_britannia = {
 					norwegian = Strangfjord
 					swedish = Strangfjord
 					danish = Strangfjord
-					norse = Strangfjorðr
-					irish = "Dún Pádraig"
-					pictish = "Dún Pádraig"
-					welsh = "Dún Pádraig"
-					breton = "Dún Pádraig"
-					briton = "Dún Pádraig"
-					manx = "Dún Pádraig"
-					gaelic = "Dún Pádraig"
+					norse = Strangfjor r
+					irish = "D n P draig"
+					pictish = "D n P draig"
+					welsh = "D n P draig"
+					breton = "D n P draig"
+					briton = "D n P draig"
+					manx = "D n P draig"
+					gaelic = "D n P draig"
 				}
 				b_dunseverick = {
-					irish = "Dún Sobhairce"
-					pictish = "Dún Sobhairce"
-					welsh = "Dún Sobhairce"
-					breton = "Dún Sobhairce"
-					briton = "Dún Sobhairce"
-					manx = "Dún Sobhairce"
-					gaelic = "Dún Sobhairce"
+					irish = "D n Sobhairce"
+					pictish = "D n Sobhairce"
+					welsh = "D n Sobhairce"
+					breton = "D n Sobhairce"
+					briton = "D n Sobhairce"
+					manx = "D n Sobhairce"
+					gaelic = "D n Sobhairce"
 				}
 				b_bangor = {
 					irish = Beannchar 
@@ -44460,13 +44534,13 @@ e_britannia = {
 					gaelic = "Na Cealla"
 				}
 				b_dromore = {
-					irish = "Druim Mór"
-					pictish = "Druim Mór"
-					welsh = "Druim Mór"
-					breton = "Druim Mór"
-					briton = "Druim Mór"
-					manx = "Druim Mór"
-					gaelic = "Druim Mór"
+					irish = "Druim M r"
+					pictish = "Druim M r"
+					welsh = "Druim M r"
+					breton = "Druim M r"
+					briton = "Druim M r"
+					manx = "Druim M r"
+					gaelic = "Druim M r"
 				}
 				b_larne = {
 					irish = Latharna 
@@ -44479,25 +44553,25 @@ e_britannia = {
 					roman = Latharna
 				}
 				b_dunluce = {
-					irish = "Dún Libhse"
-					pictish = "Dún Libhse"
-					welsh = "Dún Libhse"
-					breton = "Dún Libhse"
-					briton = "Dún Libhse"
-					manx = "Dún Libhse"
-					gaelic = "Dún Libhse"
+					irish = "D n Libhse"
+					pictish = "D n Libhse"
+					welsh = "D n Libhse"
+					breton = "D n Libhse"
+					briton = "D n Libhse"
+					manx = "D n Libhse"
+					gaelic = "D n Libhse"
 				}
 			}
 			c_oriel = {
 				color={ 30 180 45 }
 				color2={ 255 255 255 }
-				irish = Airgíalla
-				pictish = Airgíalla
-				welsh = Airgíalla
-				breton = Airgíalla
-				briton = Airgíalla
-				manx = Airgíalla
-				gaelic = Airgíalla
+				irish = Airg alla
+				pictish = Airg alla
+				welsh = Airg alla
+				breton = Airg alla
+				briton = Airg alla
+				manx = Airg alla
+				gaelic = Airg alla
 				roman = Ergallia
 				romano_british = Ergallia
 				
@@ -44524,14 +44598,14 @@ e_britannia = {
 					norwegian = Kerlingfjord
 					swedish = Kerlingfjord
 					danish = Kerlingfjord
-					norse = Kerlingfjorðr
-					irish = "Sráid Bhaile"
-					pictish = "Sráid Bhaile"
-					welsh = "Sráid Bhaile"
-					breton = "Sráid Bhaile"
-					briton = "Sráid Bhaile"
-					manx = "Sráid Bhaile"
-					gaelic = "Sráid Bhaile"
+					norse = Kerlingfjor r
+					irish = "Sr id Bhaile"
+					pictish = "Sr id Bhaile"
+					welsh = "Sr id Bhaile"
+					breton = "Sr id Bhaile"
+					briton = "Sr id Bhaile"
+					manx = "Sr id Bhaile"
+					gaelic = "Sr id Bhaile"
 				}
 				b_clogher = {
 					irish = Clochar
@@ -44552,56 +44626,56 @@ e_britannia = {
 					gaelic = Tredagh
 				}
 				b_monaghan = {
-					irish = Muineachán
-					pictish = Muineachán
-					welsh = Muineachán
-					breton = Muineachán
-					briton = Muineachán
-					manx = Muineachán
-					gaelic = Muineachán
+					irish = Muineach n
+					pictish = Muineach n
+					welsh = Muineach n
+					breton = Muineach n
+					briton = Muineach n
+					manx = Muineach n
+					gaelic = Muineach n
 					roman = "Castra Monapia"
 					romano_british = "Castra Monapia"
 				}
 				b_olouth = {
 				}
 				b_ardee = {
-					irish = "Áth Fhirdia"
-					pictish = "Áth Fhirdia"
-					welsh = "Áth Fhirdia"
-					breton = "Áth Fhirdia"
-					briton = "Áth Fhirdia"
-					manx = "Áth Fhirdia"
-					gaelic = "Áth Fhirdia"
+					irish = " th Fhirdia"
+					pictish = " th Fhirdia"
+					welsh = " th Fhirdia"
+					breton = " th Fhirdia"
+					briton = " th Fhirdia"
+					manx = " th Fhirdia"
+					gaelic = " th Fhirdia"
 				}
 			}
 			c_tyrone = {
 				color={ 66 157 22 }
 				color2={ 255 255 255 }
-				irish = "Tír Eoghain"
-				pictish = "Tír Eoghain"
-				welsh = "Tír Eoghain"
-				breton = "Tír Eoghain"
-				briton = "Tír Eoghain"
-				manx = "Tír Eoghain"
-				gaelic = "Tír Eoghain"
+				irish = "T r Eoghain"
+				pictish = "T r Eoghain"
+				welsh = "T r Eoghain"
+				breton = "T r Eoghain"
+				briton = "T r Eoghain"
+				manx = "T r Eoghain"
+				gaelic = "T r Eoghain"
 	
 				b_coleraine = {
-					irish = "Cúil Rathain"
-					pictish = "Cúil Rathain"
-					welsh = "Cúil Rathain"
-					breton = "Cúil Rathain"
-					briton = "Cúil Rathain"
-					manx = "Cúil Rathain"
-					gaelic = "Cúil Rathain"
+					irish = "C il Rathain"
+					pictish = "C il Rathain"
+					welsh = "C il Rathain"
+					breton = "C il Rathain"
+					briton = "C il Rathain"
+					manx = "C il Rathain"
+					gaelic = "C il Rathain"
 				}
 				b_dungannon = {
-					irish = "Dún Geanainn"
-					pictish = "Dún Geanainn"
-					welsh = "Dún Geanainn"
-					breton = "Dún Geanainn"
-					briton = "Dún Geanainn"
-					manx = "Dún Geanainn"
-					gaelic = "Dún Geanainn"
+					irish = "D n Geanainn"
+					pictish = "D n Geanainn"
+					welsh = "D n Geanainn"
+					breton = "D n Geanainn"
+					briton = "D n Geanainn"
+					manx = "D n Geanainn"
+					gaelic = "D n Geanainn"
 				}
 				b_aileach = {
 					irish = "In Fochla"
@@ -44613,13 +44687,13 @@ e_britannia = {
 					gaelic = "In Fochla"
 				}
 				b_maghera = {
-					irish = "Machaire Rátha"
-					pictish = "Machaire Rátha"
-					welsh = "Machaire Rátha"
-					breton = "Machaire Rátha"
-					briton = "Machaire Rátha"
-					manx = "Machaire Rátha"
-					gaelic = "Machaire Rátha"
+					irish = "Machaire R tha"
+					pictish = "Machaire R tha"
+					welsh = "Machaire R tha"
+					breton = "Machaire R tha"
+					briton = "Machaire R tha"
+					manx = "Machaire R tha"
+					gaelic = "Machaire R tha"
 				}
 				b_derry = {
 					irish = "Doire Calgach"
@@ -44631,52 +44705,52 @@ e_britannia = {
 					gaelic = "Doire Calgach"
 				}
 				b_omagh = {
-					irish = Óghmaigh 
-					pictish = Óghmaigh 
-					welsh = Óghmaigh 
-					breton = Óghmaigh 
-					briton = Óghmaigh 
-					manx = Óghmaigh 
-					gaelic = Óghmaigh 
+					irish =  ghmaigh 
+					pictish =  ghmaigh 
+					welsh =  ghmaigh 
+					breton =  ghmaigh 
+					briton =  ghmaigh 
+					manx =  ghmaigh 
+					gaelic =  ghmaigh 
 				}
 				b_tullyhogue = {
-					irish = "Tulach Óc"
-					pictish = "Tulach Óc" 
-					welsh = "Tulach Óc" 
-					breton = "Tulach Óc" 
-					briton = "Tulach Óc" 
-					manx = "Tulach Óc" 
-					gaelic = "Tulach Óc"
+					irish = "Tulach  c"
+					pictish = "Tulach  c" 
+					welsh = "Tulach  c" 
+					breton = "Tulach  c" 
+					briton = "Tulach  c" 
+					manx = "Tulach  c" 
+					gaelic = "Tulach  c"
 				}
 				b_dungiven = {
-					irish = "Dún Geimhin" 
-					pictish = "Dún Geimhin"  
-					welsh = "Dún Geimhin"  
-					breton = "Dún Geimhin"  
-					briton = "Dún Geimhin"  
-					manx = "Dún Geimhin"  
-					gaelic = "Dún Geimhin"  
+					irish = "D n Geimhin" 
+					pictish = "D n Geimhin"  
+					welsh = "D n Geimhin"  
+					breton = "D n Geimhin"  
+					briton = "D n Geimhin"  
+					manx = "D n Geimhin"  
+					gaelic = "D n Geimhin"  
 				}
 			}
 			c_tyrconnell = {
 				color={ 25 190 31 }
 				color2={ 255 255 255 }
-					irish = "Tír Chonaill"
-					pictish = "Tír Chonaill"
-					welsh = "Tír Chonaill"
-					breton = "Tír Chonaill"
-					briton = "Tír Chonaill"
-					manx = "Çheer Chonnal"
-					gaelic = "Çheer Chonnal"
+					irish = "T r Chonaill"
+					pictish = "T r Chonaill"
+					welsh = "T r Chonaill"
+					breton = "T r Chonaill"
+					briton = "T r Chonaill"
+					manx = " heer Chonnal"
+					gaelic = " heer Chonnal"
 			
 				b_gartan = {
-					irish = Gartán
-					pictish = Gartán
-					welsh = Gartán
-					breton = Gartán
-					briton = Gartán
-					manx = Gartán
-					gaelic = Gartán
+					irish = Gart n
+					pictish = Gart n
+					welsh = Gart n
+					breton = Gart n
+					briton = Gart n
+					manx = Gart n
+					gaelic = Gart n
 				}
 				b_moville = {
 					irish = "Bun an Phobail"
@@ -44688,13 +44762,13 @@ e_britannia = {
 					gaelic = "Bun an Phobail"
 				}
 				b_raphoe = {
-					irish = "Ráth Bhoth"
-					pictish = "Ráth Bhoth"
-					welsh = "Ráth Bhoth"
-					breton = "Ráth Bhoth"
-					briton = "Ráth Bhoth"
-					manx = "Ráth Bhoth"
-					gaelic = "Ráth Bhoth"
+					irish = "R th Bhoth"
+					pictish = "R th Bhoth"
+					welsh = "R th Bhoth"
+					breton = "R th Bhoth"
+					briton = "R th Bhoth"
+					manx = "R th Bhoth"
+					gaelic = "R th Bhoth"
 				}
 				b_fahan = {
 					irish = "Fathain Mura"
@@ -44706,31 +44780,31 @@ e_britannia = {
 					gaelic = "Fathain Mura"
 				}
 				b_donegal = {
-					irish = "Dún na nGall"
-					pictish = "Dún na nGall"
+					irish = "D n na nGall"
+					pictish = "D n na nGall"
 					welsh = "Din at Gall"
 					breton = "Din at Gall"
 					briton = "Din at Gall"
 					manx = "Din at Gall"
-					gaelic = "Dún na nGall"
+					gaelic = "D n na nGall"
 				}
 				b_ballyshannon = {	
-					irish = "Béal Átha Seanaidh"
-					pictish = "Béal Átha Seanaidh"
-					welsh = "Béal Átha Seanaidh"
-					breton = "Béal Átha Seanaidh"
-					briton = "Béal Átha Seanaidh"
-					manx = "Béal Átha Seanaidh"
-					gaelic = "Béal Átha Seanaidh"
+					irish = "B al  tha Seanaidh"
+					pictish = "B al  tha Seanaidh"
+					welsh = "B al  tha Seanaidh"
+					breton = "B al  tha Seanaidh"
+					briton = "B al  tha Seanaidh"
+					manx = "B al  tha Seanaidh"
+					gaelic = "B al  tha Seanaidh"
 				}
 				b_kilmacrenan = {
-					irish = "Cill Mhic nÉanáin"
-					pictish = "Cill Mhic nÉanáin"
-					welsh = "Cill Mhic Réanáin"
-					breton = "Cill Mhic Réanáin"
-					briton = "Cill Mhic Réanáin"
-					manx = "Cill Mhic Réanáin"
-					gaelic = "Cill Mhic Réanáin"
+					irish = "Cill Mhic n an in"
+					pictish = "Cill Mhic n an in"
+					welsh = "Cill Mhic R an in"
+					breton = "Cill Mhic R an in"
+					briton = "Cill Mhic R an in"
+					manx = "Cill Mhic R an in"
+					gaelic = "Cill Mhic R an in"
 				}
 				b_ballymacswiney = {
 				}
@@ -44765,34 +44839,34 @@ e_britannia = {
 					
 	
 				b_dromahair = {
-					irish = "Droim Dhá Thiar"
-					pictish = "Droim Dhá Thiar"
-					welsh = "Droim Dhá Thiar"
-					breton = "Droim Dhá Thiar"
-					briton = "Droim Dhá Thiar"
-					manx = "Droim Dhá Thiar"
-					gaelic = "Droim Dhá Thiar"
-					armorican = "Droim Dhá Thiar"
+					irish = "Droim Dh  Thiar"
+					pictish = "Droim Dh  Thiar"
+					welsh = "Droim Dh  Thiar"
+					breton = "Droim Dh  Thiar"
+					briton = "Droim Dh  Thiar"
+					manx = "Droim Dh  Thiar"
+					gaelic = "Droim Dh  Thiar"
+					armorican = "Droim Dh  Thiar"
 				}
 				b_kilmore = {
-					irish = "An Chill Mhór"
-					pictish = "An Chill Mhór"
-					welsh = "An Chill Mhór"
-					breton = "An Chill Mhór"
-					briton = "An Chill Mhór"
-					manx = "Yn Chill Mhór"
-					gaelic = "An Chill Mhór"
-					armorican = "An Chill Mhór"
+					irish = "An Chill Mh r"
+					pictish = "An Chill Mh r"
+					welsh = "An Chill Mh r"
+					breton = "An Chill Mh r"
+					briton = "An Chill Mh r"
+					manx = "Yn Chill Mh r"
+					gaelic = "An Chill Mh r"
+					armorican = "An Chill Mh r"
 				}
 				b_cavan = {
-					irish = "An Cabhán"
-					pictish = "An Cabhán"
-					welsh = "An Cabhán"
-					breton = "An Cabhán"
-					briton = "An Cabhán"
-					manx = "Yn Cabhán"
-					gaelic = "An Cabhán"
-					armorican = "An Cabhán"
+					irish = "An Cabh n"
+					pictish = "An Cabh n"
+					welsh = "An Cabh n"
+					breton = "An Cabh n"
+					briton = "An Cabh n"
+					manx = "Yn Cabh n"
+					gaelic = "An Cabh n"
+					armorican = "An Cabh n"
 				}
 				b_longford = {
 					irish = "An Longfort"
@@ -44902,14 +44976,14 @@ e_britannia = {
 					armorican = "Cluain Fearta"
 				}
 				b_roscommon = {
-					irish = "Ros Comáin"
-					pictish = "Ros Comáin"
-					welsh = "Ros Comáin"
-					breton = "Ros Comáin"
-					briton = "Ros Comáin"
-					manx = "Ros Comáin"
-					gaelic = "Ros Comáin"
-					armorican = "Ros Comáin"
+					irish = "Ros Com in"
+					pictish = "Ros Com in"
+					welsh = "Ros Com in"
+					breton = "Ros Com in"
+					briton = "Ros Com in"
+					manx = "Ros Com in"
+					gaelic = "Ros Com in"
+					armorican = "Ros Com in"
 				}
 				b_mayo = {
 					irish = Mhaigh 
@@ -45001,14 +45075,14 @@ e_britannia = {
 					armorican = "Cnoc Ailinne" 
 				}
 				b_athlone = {
-					irish = "Átha Luain"
-					pictish = "Átha Luain" 
-					welsh = "Átha Luain" 
-					breton = "Átha Luain" 
-					briton = "Átha Luain" 
-					manx = "Átha Luain" 
-					gaelic = "Átha Luain" 
-					armorican = "Átha Luain" 
+					irish = " tha Luain"
+					pictish = " tha Luain" 
+					welsh = " tha Luain" 
+					breton = " tha Luain" 
+					briton = " tha Luain" 
+					manx = " tha Luain" 
+					gaelic = " tha Luain" 
+					armorican = " tha Luain" 
 				}
 				b_kildare = {
 					manx = "Keeill darey"
@@ -45031,34 +45105,34 @@ e_britannia = {
 					armorican = "Maigh Nuad" 
 				}
 				b_st_brigit = {
-					irish = "Naomh Bríd"
-					pictish = "Naomh Bríd" 
+					irish = "Naomh Br d"
+					pictish = "Naomh Br d" 
 					welsh = Ffraid
 					breton = "Santez Berc'hed" 
-					briton = "Naomh Bríd" 
-					manx = "Brìghde Chill Dara" 
-					gaelic = "Naomh Bríd" 
-					armorican = "Naomh Bríd" 
+					briton = "Naomh Br d" 
+					manx = "Br ghde Chill Dara" 
+					gaelic = "Naomh Br d" 
+					armorican = "Naomh Br d" 
 				}
 				b_rathangan = {
-					irish = Iomgháin 
-					pictish = Iomgháin 
-					welsh = Iomgháin 
-					breton = Iomgháin 
-					briton = Iomgháin 
-					manx = Iomgháin 
-					gaelic = Iomgháin 
-					armorican = Iomgháin 
+					irish = Iomgh in 
+					pictish = Iomgh in 
+					welsh = Iomgh in 
+					breton = Iomgh in 
+					briton = Iomgh in 
+					manx = Iomgh in 
+					gaelic = Iomgh in 
+					armorican = Iomgh in 
 				}
 				b_durrow = {
-					irish = Darú 
-					pictish = Darú 
-					welsh = Darú 
-					breton = Darú 
-					briton = Darú 
-					manx = Darú 
-					gaelic = Darú 
-					armorican = Darú 
+					irish = Dar  
+					pictish = Dar  
+					welsh = Dar  
+					breton = Dar  
+					briton = Dar  
+					manx = Dar  
+					gaelic = Dar  
+					armorican = Dar  
 				}
 				b_clonard = {
 					irish = "Cluain Ioraird" 
@@ -45077,8 +45151,8 @@ e_britannia = {
 				
                 manx = Divlin
 				norse = Dyflinn
-				irish = Iomgháin 
-				pictish = Iomgháin 
+				irish = Iomgh in 
+				pictish = Iomgh in 
 				welsh = Teamhair  
 				breton = Teamhair  
 				briton = Teamhair  
@@ -45103,14 +45177,14 @@ e_britannia = {
 					armorican = Duibhlinn 
 				}
 				b_clondalkin = {
-					irish = "Cluain Dolcáin" 
-					pictish = "Cluain Dolcáin"  
-					welsh = "Cluain Dolcáin"  
-					breton = "Cluain Dolcáin"  
-					briton = "Cluain Dolcáin"  
-					manx = "Cluain Dolcáin"  
-					gaelic = "Cluain Dolcáin"  
-					armorican = "Cluain Dolcáin"  
+					irish = "Cluain Dolc in" 
+					pictish = "Cluain Dolc in"  
+					welsh = "Cluain Dolc in"  
+					breton = "Cluain Dolc in"  
+					briton = "Cluain Dolc in"  
+					manx = "Cluain Dolc in"  
+					gaelic = "Cluain Dolc in"  
+					armorican = "Cluain Dolc in"  
 				}
 				b_finglas = {
 					irish = Fionnghlas 
@@ -45123,46 +45197,46 @@ e_britannia = {
 					armorican = Fionnghlas 
 				}
 				b_wicklow = {
-					irish = "Cill Mhantáin"
-					pictish = "Cill Mhantáin" 
-					welsh = "Cill Mhantáin" 
-					breton = "Cill Mhantáin" 
-					briton = "Cill Mhantáin" 
-					manx = "Cill Mhantáin" 
-					gaelic = "Cill Mhantáin" 
-					armorican = "Cill Mhantáin" 
+					irish = "Cill Mhant in"
+					pictish = "Cill Mhant in" 
+					welsh = "Cill Mhant in" 
+					breton = "Cill Mhant in" 
+					briton = "Cill Mhant in" 
+					manx = "Cill Mhant in" 
+					gaelic = "Cill Mhant in" 
+					armorican = "Cill Mhant in" 
 				}
 				b_ath_cliath = {
-					irish = "Àtha Cliath" 
-					pictish = "Àtha Cliath"  
-					welsh = "Àtha Cliath"  
-					breton = "Àtha Cliath"  
-					briton = "Àtha Cliath"  
-					manx = "Àtha Cliath"  
-					gaelic = "Àtha Cliath"  
-					armorican = "Àtha Cliath" 
+					irish = " tha Cliath" 
+					pictish = " tha Cliath"  
+					welsh = " tha Cliath"  
+					breton = " tha Cliath"  
+					briton = " tha Cliath"  
+					manx = " tha Cliath"  
+					gaelic = " tha Cliath"  
+					armorican = " tha Cliath" 
 				}
 				b_christ_church = {
 				}
 				b_mellifont = {
-					irish = "Mhainistir Mhór" 
-					pictish = "Mhainistir Mhór"  
-					welsh = "Mhainistir Mhór"  
-					breton = "Mhainistir Mhór"  
-					briton = "Mhainistir Mhór"  
-					manx = "Mhainistir Mhór"  
-					gaelic = "Mhainistir Mhór"  
-					armorican = "Mhainistir Mhór"  
+					irish = "Mhainistir Mh r" 
+					pictish = "Mhainistir Mh r"  
+					welsh = "Mhainistir Mh r"  
+					breton = "Mhainistir Mh r"  
+					briton = "Mhainistir Mh r"  
+					manx = "Mhainistir Mh r"  
+					gaelic = "Mhainistir Mh r"  
+					armorican = "Mhainistir Mh r"  
 				}
 				b_trim = {
-					irish = "Baile Átha Troim" 
-					pictish = "Baile Átha Troim"  
-					welsh = "Baile Átha Troim"  
-					breton = "Baile Átha Troim"  
-					briton = "Baile Átha Troim"  
-					manx = "Baile Átha Troim"  
-					gaelic = "Baile Átha Troim"  
-					armorican = "Baile Átha Troim"  
+					irish = "Baile  tha Troim" 
+					pictish = "Baile  tha Troim"  
+					welsh = "Baile  tha Troim"  
+					breton = "Baile  tha Troim"  
+					briton = "Baile  tha Troim"  
+					manx = "Baile  tha Troim"  
+					gaelic = "Baile  tha Troim"  
+					armorican = "Baile  tha Troim"  
 				}
 			}
 		}
@@ -45175,7 +45249,7 @@ e_britannia = {
 			norwegian = Veisafjord
 			swedish = Veisafjord
 			danish = Veisafjord
-			norse = Veisafjorðr
+			norse = Veisafjor r
 			irish = Laigin 
 			pictish = Laighean 
 			welsh = Laighean 
@@ -45192,7 +45266,7 @@ e_britannia = {
 				norwegian = Veisafjord
 				swedish = Veisafjord
 				danish = Veisafjord
-				norse = Veisafjorðr
+				norse = Veisafjor r
 				irish = Laigin 
 				pictish = Laighean 
 				welsh = Laighean 
@@ -45206,7 +45280,7 @@ e_britannia = {
 					norwegian = Veisafjord
 					swedish = Veisafjord
 					danish = Veisafjord
-					norse = Veisafjorðr
+					norse = Veisafjor r
 					irish = "Loch Garman" 
 					pictish = "Loch Garman"
 					welsh = "Loch Garman" 
@@ -45227,19 +45301,19 @@ e_britannia = {
 					armorican = Seanleithghlinn 
 				}
 				b_arklow = {
-					norwegian = "Arnkell-lág"
-					swedish = "Arnkell-lág"
-					danish = "Arnkell-lág"
-					norse = "Arnkell-lág"
-					swede = "Arnkell-lág"
-					irish = "An tInbhear Mór" 
-					pictish = "An tInbhear Mór"  
-					welsh = "An tInbhear Mór"  
-					breton = "An tInbhear Mór"  
-					briton = "An tInbhear Mór"  
-					manx = "Yn tInbhear Mór"  
-					gaelic = "An tInbhear Mór"  
-					armorican = "An tInbhear Mór"  
+					norwegian = "Arnkell-l g"
+					swedish = "Arnkell-l g"
+					danish = "Arnkell-l g"
+					norse = "Arnkell-l g"
+					swede = "Arnkell-l g"
+					irish = "An tInbhear M r" 
+					pictish = "An tInbhear M r"  
+					welsh = "An tInbhear M r"  
+					breton = "An tInbhear M r"  
+					briton = "An tInbhear M r"  
+					manx = "Yn tInbhear M r"  
+					gaelic = "An tInbhear M r"  
+					armorican = "An tInbhear M r"  
 				}
 				b_carlow = {
 					irish = Ceatharlach 
@@ -45267,34 +45341,34 @@ e_britannia = {
 					armorican = Fearna 
 				}
 				b_glendalough = {
-					irish = "Gleann Dá Loch" 
-					pictish = "Gleann Dá Loch" 
-					welsh = "Gleann Dá Loch" 
-					breton = "Gleann Dá Loch" 
-					briton = "Gleann Dá Loch" 
-					manx = "Gleann Dá Loch" 
-					gaelic = "Gleann Dá Loch" 
-					armorican = "Gleann Dá Loch" 
+					irish = "Gleann D  Loch" 
+					pictish = "Gleann D  Loch" 
+					welsh = "Gleann D  Loch" 
+					breton = "Gleann D  Loch" 
+					briton = "Gleann D  Loch" 
+					manx = "Gleann D  Loch" 
+					gaelic = "Gleann D  Loch" 
+					armorican = "Gleann D  Loch" 
 				}
 				b_naas = {
-					irish = "An Nás" 
-					pictish = "An Nás" 
-					welsh = "An Nás" 
-					breton = "An Nás" 
-					briton = "An Nás" 
-					manx = "Yn Nás" 
-					gaelic = "An Nás" 
-					armorican = "An Nás" 
+					irish = "An N s" 
+					pictish = "An N s" 
+					welsh = "An N s" 
+					breton = "An N s" 
+					briton = "An N s" 
+					manx = "Yn N s" 
+					gaelic = "An N s" 
+					armorican = "An N s" 
 				}
 				b_enniscorthy = {
-					irish = "Inis Córthaidh" 
-					pictish = "Inis Córthaidh" 
-					welsh = "Inis Córthaidh" 
-					breton = "Inis Córthaidh" 
-					briton = "Inis Córthaidh" 
-					manx = "Ynys Córthaidh" 
-					gaelic = "Ynys Córthaidh" 
-					armorican = "Inis Córthaidh" 
+					irish = "Inis C rthaidh" 
+					pictish = "Inis C rthaidh" 
+					welsh = "Inis C rthaidh" 
+					breton = "Inis C rthaidh" 
+					briton = "Inis C rthaidh" 
+					manx = "Ynys C rthaidh" 
+					gaelic = "Ynys C rthaidh" 
+					armorican = "Inis C rthaidh" 
 				}
 			}
 			c_ossory = {
@@ -45319,31 +45393,31 @@ e_britannia = {
 					welsh = Osraige
 				}
 				b_gowran = {
-					manx = Gabhrán
-					irish = Gabhrán
-					gaelic = Gabhrán
-					cornish = Gabhrán
-					briton = Gabhrán
-					pictish = Gabhrán
-					welsh = Gabhrán
+					manx = Gabhr n
+					irish = Gabhr n
+					gaelic = Gabhr n
+					cornish = Gabhr n
+					briton = Gabhr n
+					pictish = Gabhr n
+					welsh = Gabhr n
 				}
 				b_clonmacnoise = {
-					manx = "Cluain Mhic Nóis"
-					irish = "Cluain Mhic Nóis"
-					gaelic = "Cluain Mhic Nóis"
-					cornish = "Cluain Mhic Nóis"
-					briton = "Cluain Mhic Nóis"
-					pictish = "Cluain Mhic Nóis"
-					welsh = "Cluain Mhic Nóis"
+					manx = "Cluain Mhic N is"
+					irish = "Cluain Mhic N is"
+					gaelic = "Cluain Mhic N is"
+					cornish = "Cluain Mhic N is"
+					briton = "Cluain Mhic N is"
+					pictish = "Cluain Mhic N is"
+					welsh = "Cluain Mhic N is"
 				}
 				b_aghaboe = {
-					manx = "Achadh Bhó"
-					irish = "Achadh Bhó"
-					gaelic = "Achadh Bhó"
-					cornish = "Achadh Bhó"
-					briton = "Achadh Bhó"
-					pictish = "Achadh Bhó"
-					welsh = "Achadh Bhó"
+					manx = "Achadh Bh "
+					irish = "Achadh Bh "
+					gaelic = "Achadh Bh "
+					cornish = "Achadh Bh "
+					briton = "Achadh Bh "
+					pictish = "Achadh Bh "
+					welsh = "Achadh Bh "
 				}
 				b_jerpoint = {
 				}
@@ -45436,13 +45510,13 @@ e_britannia = {
 					welsh = "Cill Dalua"
 				}
 				b_emly = {
-					irish = "Medón Mairtine"
-					gaelic = "Medón Mairtine"
-					manx = "Medón Mairtine"
-					cornish = "Medón Mairtine"
-					briton = "Medón Mairtine"
-					pictish = "Medón Mairtine"
-					welsh = "Medón Mairtine"
+					irish = "Med n Mairtine"
+					gaelic = "Med n Mairtine"
+					manx = "Med n Mairtine"
+					cornish = "Med n Mairtine"
+					briton = "Med n Mairtine"
+					pictish = "Med n Mairtine"
+					welsh = "Med n Mairtine"
 				}
 				b_ennis = {
 					irish = Inis
@@ -45454,35 +45528,35 @@ e_britannia = {
 					welsh = Inis
 				}
 				b_kilfenora = {
-					irish = "Cill Fhionnúrach"
-					gaelic = "Cill Fhionnúrach"
-					manx = "Cill Fhionnúrach"
-					cornish = "Cill Fhionnúrach"
-					briton = "Cill Fhionnúrach"
-					pictish = "Cill Fhionnúrach"
-					welsh = "Cill Fhionnúrach"
+					irish = "Cill Fhionn rach"
+					gaelic = "Cill Fhionn rach"
+					manx = "Cill Fhionn rach"
+					cornish = "Cill Fhionn rach"
+					briton = "Cill Fhionn rach"
+					pictish = "Cill Fhionn rach"
+					welsh = "Cill Fhionn rach"
 				}
 				b_askeaton = {
 					anglo = Gephtine
 					old_saxon = Gepthine
 					old_frisian = Gepthine
 					jute = Gepthine
-					irish = "Eas Géitine"
-					gaelic = "Eas Géitine"
-					manx = "Eas Géitine"
-					cornish = "Eas Géitine"
-					briton = "Eas Géitine"
-					pictish = "Eas Géitine"
-					welsh = "Eas Géitine"
+					irish = "Eas G itine"
+					gaelic = "Eas G itine"
+					manx = "Eas G itine"
+					cornish = "Eas G itine"
+					briton = "Eas G itine"
+					pictish = "Eas G itine"
+					welsh = "Eas G itine"
 				}
 				b_adare = {
-					irish = "Áth Dara"
-					gaelic = "Áth Dara"
-					manx = "Áth Dara"
-					cornish = "Áth Dara"
-					briton = "Áth Dara"
-					pictish = "Áth Dara"
-					welsh = "Áth Dara"
+					irish = " th Dara"
+					gaelic = " th Dara"
+					manx = " th Dara"
+					cornish = " th Dara"
+					briton = " th Dara"
+					pictish = " th Dara"
+					welsh = " th Dara"
 				}
 			}
 			c_ormond = {
@@ -45492,7 +45566,7 @@ e_britannia = {
 				norwegian = Vedrafjord
 				swedish = Vedrafjord
 				danish = Vedrafjord
-				norse = Veðrafjorðr
+				norse = Ve rafjor r
 				irish = Urumhain
 				gaelic = Urumhain
 				manx = Urumhain
@@ -45506,14 +45580,14 @@ e_britannia = {
 					norwegian = Vedrafjord
 					swedish = Vedrafjord
 					danish = Vedrafjord
-					norse = Veðrafjorðr 
-					irish = "Port Láirge"
-					gaelic = "Port Láirge"
-					manx = "Port Láirge"
-					cornish = "Port Láirge"
-					briton = "Port Láirge"
-					pictish = "Phort Láirge"
-					welsh = "Port Láirge"
+					norse = Ve rafjor r 
+					irish = "Port L irge"
+					gaelic = "Port L irge"
+					manx = "Port L irge"
+					cornish = "Port L irge"
+					briton = "Port L irge"
+					pictish = "Phort L irge"
+					welsh = "Port L irge"
 				}
 				b_cahir = {
 					irish = Cathair
@@ -45543,22 +45617,22 @@ e_britannia = {
 					welsh = "Cluain Meala" 
 				}
 				b_lismore = {
-					irish = "Lios Mór"
-					gaelic = "Lios Mór"
-					manx = "Lios Mór"
-					cornish = "Lios Mór"
-					briton = "Lios Mór"
-					pictish = "Lios Mór" 
-					welsh = "Lios Mór"
+					irish = "Lios M r"
+					gaelic = "Lios M r"
+					manx = "Lios M r"
+					cornish = "Lios M r"
+					briton = "Lios M r"
+					pictish = "Lios M r" 
+					welsh = "Lios M r"
 				}
 				b_roscrea = {
-					irish = "Ros Cré"
-					gaelic = "Ros Cré"
-					manx = "Ros Cré"
-					cornish = "Ros Cré"
-					briton = "Ros Cré"
-					pictish = "Ros Cré" 
-					welsh = "Ros Cré"
+					irish = "Ros Cr "
+					gaelic = "Ros Cr "
+					manx = "Ros Cr "
+					cornish = "Ros Cr "
+					briton = "Ros Cr "
+					pictish = "Ros Cr " 
+					welsh = "Ros Cr "
 				}
 				b_nenagh = {
 					irish = "An tAonach"
@@ -45601,13 +45675,13 @@ e_britannia = {
 					welsh = Corcaigh 
 				}
 				b_dunasead = {
-					manx = "Dún na Séad"
-					irish = "Dún na Séad"
-					gaelic = "Dún na Séad"
-					cornish = "Dún na Séad"
-					briton = "Dún na Séad" 
-					pictish = "Dún na Séad" 
-					welsh = "Dún na Séad" 
+					manx = "D n na S ad"
+					irish = "D n na S ad"
+					gaelic = "D n na S ad"
+					cornish = "D n na S ad"
+					briton = "D n na S ad" 
+					pictish = "D n na S ad" 
+					welsh = "D n na S ad" 
 				}
 				b_ross = {
 					manx = Ros 
@@ -45646,13 +45720,13 @@ e_britannia = {
 					welsh = Cluain  	
 				}
 				b_fermoy = {
-					manx = "Mainistir Fhear Maí"
-					irish = "Mainistir Fhear Maí" 
-					gaelic = "Mainistir Fhear Maí" 
-					cornish = "Mainistir Fhear Maí" 
-					briton = "Mainistir Fhear Maí"  
-					pictish = "Mainistir Fhear Maí"  
-					welsh = "Mainistir Fhear Maí"
+					manx = "Mainistir Fhear Ma "
+					irish = "Mainistir Fhear Ma " 
+					gaelic = "Mainistir Fhear Ma " 
+					cornish = "Mainistir Fhear Ma " 
+					briton = "Mainistir Fhear Ma "  
+					pictish = "Mainistir Fhear Ma "  
+					welsh = "Mainistir Fhear Ma "
 				}
 				b_blarney = {
 					manx = Bhlarna 
@@ -45984,7 +46058,7 @@ e_africa = {
 					greek = "Thamusida"
 					tashellhit = "Tasurt"
 					african_romance = "Thamusida"
-					vandalic = "Þamusida"
+					vandalic = " amusida"
 					tamazight = "Tasurt"
 					mzab_wargla = "Tasurt"
 					riffian = "Tasurt"
@@ -51481,8 +51555,8 @@ e_italy = {
 				noricroman = "Vindobona"
 				rygir = "Wien"
 				alamannian = "Wien"
-				ostrogothic = "Dalaþland"
-				romano_gothic = "Dalaþland"
+				ostrogothic = "Dala land"
+				romano_gothic = "Dala land"
 				romano_gallic = Vindovina
 				romano_hispanic = Vindovina
 				romano_dacian = Vindovina
@@ -51503,8 +51577,8 @@ e_italy = {
 					noricroman = "Vindobona"
 					rygir = "Wien"
 					alamannian = "Wien"
-					ostrogothic = "Dalaþland"
-					romano_gothic = "Dalaþland"
+					ostrogothic = "Dala land"
+					romano_gothic = "Dala land"
 				    romano_gallic = Vindovina
 				    romano_hispanic = Vindovina
 				    romano_dacian = Vindovina
@@ -51579,8 +51653,8 @@ e_italy = {
 				romano_hispanic = "Tauriscia"
 				raetoroman = "Tauriscia"
 				noricroman = "Tauriscia"
-				ostrogothic = "Grunháims"
-				romano_gothic = "Grunháims"
+				ostrogothic = "Grunh ims"
+				romano_gothic = "Grunh ims"
 				english = "Styria"
 				polish = "Styria"
 				romano_dacian = Tauriscia
@@ -51666,7 +51740,7 @@ e_italy = {
 				color={ 211 63 63 }
 				color2={ 255 255 255 }
 				
-				german = Ödenburg
+				german =  denburg
 				roman = "Scarbantia"
 				noricroman = "Scarbantia"
 				ostrogothic = "Scarbantia"
@@ -51814,9 +51888,9 @@ e_italy = {
 					german = Eisenburg
 				    croatian = Zelezna
 				    roman = "Savaria"
-				    ostrogothic = "Þeits"
+				    ostrogothic = " eits"
 				    dalmatian = "Szazara"
-				    romano_gothic = "Þeits"               
+				    romano_gothic = " eits"               
 				    romano_gallic = Savaria
 				    romano_hispanic = Savaria
 				    romano_dacian = Savaria
@@ -51853,8 +51927,8 @@ e_italy = {
 				
 				alamannian = "Warasdin"
 				roman = "Varasdinum"
-				ostrogothic = "Leitilsláun"
-				romano_gothic = "Leitilsláun"
+				ostrogothic = "Leitilsl un"
+				romano_gothic = "Leitilsl un"
 				romano_gallic = Varasdinum
 				romano_hispanic = Varasdinum
 				romano_dacian = Varasdinum
@@ -51874,8 +51948,8 @@ e_italy = {
 				b_varazdin = {
 					alamannian = "Warasdin"
 				    roman = "Varasdinum"
-				    ostrogothic = "Leitilsláun"
-				    romano_gothic = "Leitilsláun"
+				    ostrogothic = "Leitilsl un"
+				    romano_gothic = "Leitilsl un"
 				    romano_gallic = Varasdinum
 				    romano_hispanic = Varasdinum
 				    romano_dacian = Varasdinum
@@ -51947,8 +52021,8 @@ e_italy = {
 				
 				german = Stuhlweissenburg
 				roman = "Gorsium"
-				romano_gothic = "Þeitssitls"
-				ostrogothic = "Þeitssitls"
+				romano_gothic = " eitssitls"
+				ostrogothic = " eitssitls"
 				romano_gallic = Gorsium
 				romano_hispanic = Gorsium
 				romano_dacian = Gorsium
@@ -51968,8 +52042,8 @@ e_italy = {
 				b_szekezfehervar = {
 					german = Stuhlweissenburg
 				    roman = "Gorsium"
-				    romano_gothic = "Þeitssitls"
-				    ostrogothic = "Þeitssitls"
+				    romano_gothic = " eitssitls"
+				    ostrogothic = " eitssitls"
 				    romano_gallic = Gorsium
 				    romano_hispanic = Gorsium
 				    romano_dacian = Gorsium
@@ -56016,11 +56090,11 @@ e_italy = {
 				noricroman = "Arbor Felix"
 				skirian = "Arbor Felix"
 				burgundian = "Arbor Felix"
-				rygir = "Faheþstriu"
-				ostrogothic = "Faheþstriu"
-				romano_gothic = "Faheþstriu"
-				alamannian = "Sâligboum"
-				thuringian = "Sâligboum"               
+				rygir = "Fahe striu"
+				ostrogothic = "Fahe striu"
+				romano_gothic = "Fahe striu"
+				alamannian = "S ligboum"
+				thuringian = "S ligboum"               
 				romano_dacian = "Arbor Felix"
 				romano_frank = "Arbor Felix"
 				romano_persian = "Arbor Felix"
@@ -56214,9 +56288,9 @@ e_italy = {
 				dalmatian = Turicum
 				noricroman = Turicum
 				alamannian = "Switesburg"
-				skirian = "Suitibaúrgs"
-				ostrogothic = "Suitibaúrgs"
-				romano_gothic = "Suitibaúrgs"
+				skirian = "Suitiba rgs"
+				ostrogothic = "Suitiba rgs"
+				romano_gothic = "Suitiba rgs"
 				romano_dacian = Turicum
 				romano_frank = Turicum
 				romano_persian = Turicum
@@ -56236,9 +56310,9 @@ e_italy = {
 					dalmatian = "Alpes Suetas"
 					noricroman = "Alpes Suetas"
 					alamannian = "Switesburg"
-					skirian = "Suitibaúrgs"
-					ostrogothic = "Suitibaúrgs"
-					romano_gothic = "Suitibaúrgs"
+					skirian = "Suitiba rgs"
+					ostrogothic = "Suitiba rgs"
+					romano_gothic = "Suitiba rgs"
 				    romano_dacian = "Alpes Suetas"
 				    romano_frank = "Alpes Suetas"
 				    romano_persian = "Alpes Suetas"
@@ -56739,9 +56813,9 @@ e_italy = {
 				pannonian = Iuvavum
 				dalmatian = Iuvavum
 				noricroman = Iuvavum
-				ostrogothic = "Stáinsland"
-				rygir = "Stáinsland"
-				romano_gothic = "Stáinsland"
+				ostrogothic = "St insland"
+				rygir = "St insland"
+				romano_gothic = "St insland"
 				alamannian = "Salzburg"
 				romano_dacian = Iuvavum
 				romano_frank = Iuvavum
@@ -56761,8 +56835,8 @@ e_italy = {
 					pannonian = Iuvavum
 					dalmatian = Iuvavum
 					noricroman = Iuvavum
-					ostrogothic = "Stáinsland"
-					romano_gothic = "Stáinsland"
+					ostrogothic = "St insland"
+					romano_gothic = "St insland"
 					alamannian = "Salzburg"
 				    romano_dacian = Iuvavum
 				    romano_frank = Iuvavum
@@ -57370,7 +57444,7 @@ e_north_africa = {
 					greek = "Adelphes"
 					tashellhit = "Anawa"
 					african_romance = "Fratres"
-					vandalic = "Broþor"
+					vandalic = "Bro or"
 					tamazight = "Anawa"
 					mzab_wargla = "Anawa"
 					riffian = "Anawa"
@@ -57444,7 +57518,7 @@ e_north_africa = {
 					roman = "Iulia Campestris Babba"
 					tashellhit = "Barba"
 					african_romance = "Babba"
-					vandalic = "Babbühel"
+					vandalic = "Babb hel"
 					tamazight = "Barba"
 					mzab_wargla = "Barba"
 					riffian = "Barba"
@@ -59349,7 +59423,7 @@ e_north_africa = {
 				greek = "Carthago"
 				tashellhit = "Carthighrem"
 				african_romance = "Carthago"
-				vandalic = "Carþago"
+				vandalic = "Car ago"
 				tamazight = "Carthighrem"
 				mzab_wargla = "Carthighrem"
 				riffian = "Carthighrem"
@@ -59391,7 +59465,7 @@ e_north_africa = {
 					roman = "Uthina"
 					tashellhit = "Oudna"
 					african_romance = "Uthina"
-					vandalic = "Uþina"
+					vandalic = "U ina"
 					tamazight = "Oudna"
 					mzab_wargla = "Oudna"
 					riffian = "Oudna"
@@ -59423,7 +59497,7 @@ e_north_africa = {
 					greek = "Utica"
 					tashellhit = "Uthames"
 					african_romance = "Utica"
-					vandalic = "Uþica"
+					vandalic = "U ica"
 					tamazight = "Uthames"
 					mzab_wargla = "Uthames"
 					riffian = "Uthames"
@@ -59519,7 +59593,7 @@ e_north_africa = {
 					greek = "Thurburbo"
 					tashellhit = "Thurburba"
 					african_romance = "Thurburbo"
-					vandalic = "Þurburbo Maius"
+					vandalic = " urburbo Maius"
 					tamazight = "Thurburba"
 					mzab_wargla = "Thurburba"
 					riffian = "Thurburba"
@@ -59746,7 +59820,7 @@ e_north_africa = {
 					greek = "Abthugna"
 					tashellhit = "Abthugni"
 					african_romance = "Abthugni"
-					vandalic = "Abþugni"
+					vandalic = "Ab ugni"
 					tamazight = "Abthugna"
 					mzab_wargla = "Abthugna"
 					riffian = "Abthugna"
@@ -59884,7 +59958,7 @@ e_north_africa = {
 					greek = "Thapsos"
 					tashellhit = "Thapsu"
 					african_romance = "Thapsus"
-					vandalic = "Þapsus"
+					vandalic = " apsus"
 					tamazight = "Thapsu"
 					mzab_wargla = "Thapsu"
 					riffian = "Thapsu"
@@ -59931,7 +60005,7 @@ e_north_africa = {
 				greek = "Tokae"
 				tashellhit = "Dougga"
 				african_romance = "Thugga"
-				vandalic = "Þugga"
+				vandalic = " ugga"
 				tamazight = "Dougga"
 				mzab_wargla = "Dougga"
 				riffian = "Dougga"
@@ -59965,7 +60039,7 @@ e_north_africa = {
 					greek = "Thurbursicu"
 					tashellhit = "Thurbursicu"
 					african_romance = "Thurburiscu Numidarum"
-					vandalic = "Þurbursig"
+					vandalic = " urbursig"
 					tamazight = "Thurbursicu"
 					mzab_wargla = "Thurbursicu"
 					riffian = "Thurbursicu"
@@ -60135,7 +60209,7 @@ e_north_africa = {
 					greek = "Phisitana"
 					tashellhit = "Thisitana"
 					african_romance = "Thisitana"
-					vandalic = "Þisitawa"
+					vandalic = " isitawa"
 					tamazight = "Thisitana"
 					mzab_wargla = "Thisitana"
 					riffian = "Thisitana"
@@ -60167,7 +60241,7 @@ e_north_africa = {
 					greek = "Thimida"
 					tashellhit = "Thimi"
 					african_romance = "Thimi"
-					vandalic = "Þimida"
+					vandalic = " imida"
 					tamazight = "Thimi"
 					mzab_wargla = "Thimi"
 					riffian = "Thimi"
@@ -60231,7 +60305,7 @@ e_north_africa = {
 					greek = "Thizika"
 					tashellhit = "Thizika"
 					african_romance = "Thizicum"
-					vandalic = "Þizicum"
+					vandalic = " izicum"
 					tamazight = "Thizika"
 					mzab_wargla = "Thizika"
 					riffian = "Thizika"
@@ -60370,7 +60444,7 @@ e_north_africa = {
 					greek = "Thrabraca"
 					tashellhit = "Tabraka"
 					african_romance = "Tabraka"
-					vandalic = "Þrabaca"
+					vandalic = " rabaca"
 					tamazight = "Tabraka"
 					mzab_wargla = "Tabraka"
 					riffian = "Tabraka"
@@ -60402,7 +60476,7 @@ e_north_africa = {
 					greek = "Simmithus"
 					tashellhit = "Simmithu"
 					african_romance = "Simmithus"
-					vandalic = "Simmiþus"
+					vandalic = "Simmi us"
 					tamazight = "Simmithu"
 					mzab_wargla = "Simmithu"
 					riffian = "Simmithu"
@@ -60578,7 +60652,7 @@ e_north_africa = {
 					greek = "Thibilis"
 					tashellhit = "Tibili"
 					african_romance = "Thibilis"
-					vandalic = "Þibilis"
+					vandalic = " ibilis"
 					tamazight = "Tibili"
 					mzab_wargla = "Tibili"
 					riffian = "Tibili"
@@ -60624,7 +60698,7 @@ e_north_africa = {
 				greek = "Thucca"
 				tashellhit = "Thucca"
 				african_romance = "Thucensis"
-				vandalic = "Þucens"
+				vandalic = " ucens"
 				tamazight = "Thucca"
 				mzab_wargla = "Thucca"
 				riffian = "Thucca"
@@ -60798,7 +60872,7 @@ e_north_africa = {
 					greek = "Thamugas"
 					tashellhit = "Thamugadi"
 					african_romance = "Thamugas"
-					vandalic = "Þamugas"
+					vandalic = " amugas"
 					tamazight = "Thamugadi"
 					mzab_wargla = "Thamugadi"
 					riffian = "Thamugadi"
@@ -61112,7 +61186,7 @@ e_north_africa = {
 				greek = "Limes Thiges"
 				tashellhit = "Thigusa"
 				african_romance = "Limes Thigensium"
-				vandalic = "Limes Þigensium"
+				vandalic = "Limes  igensium"
 				tamazight = "Thigusa"
 				mzab_wargla = "Thigusa"
 				riffian = "Thigusa"
@@ -61143,7 +61217,7 @@ e_north_africa = {
 					greek = "Thiges"
 					tashellhit = "Thiges"
 					african_romance = "Thigensium"
-					vandalic = "Þigensium"
+					vandalic = " igensium"
 					tamazight = "Thiges"
 					mzab_wargla = "Thiges"
 					riffian = "Thiges"
@@ -61179,7 +61253,7 @@ e_north_africa = {
 					greek = "Thiges"
 					tashellhit = "Thiges"
 					african_romance = "Thigensium"
-					vandalic = "Þigensium"
+					vandalic = " igensium"
 					tamazight = "Thiges"
 					mzab_wargla = "Thiges"
 					riffian = "Thiges"
@@ -61211,7 +61285,7 @@ e_north_africa = {
 					greek = "Thiges"
 					tashellhit = "Thiges"
 					african_romance = "Thigensium"
-					vandalic = "Þigensium"
+					vandalic = " igensium"
 					tamazight = "Thiges"
 					mzab_wargla = "Thiges"
 					riffian = "Thiges"
@@ -61243,7 +61317,7 @@ e_north_africa = {
 					greek = "Thiges"
 					tashellhit = "Thiges"
 					african_romance = "Thigensium"
-					vandalic = "Þigensium"
+					vandalic = " igensium"
 					tamazight = "Thiges"
 					mzab_wargla = "Thiges"
 					riffian = "Thiges"
@@ -61275,7 +61349,7 @@ e_north_africa = {
 					greek = "Thiges"
 					tashellhit = "Thiges"
 					african_romance = "Thigensium"
-					vandalic = "Þigensium"
+					vandalic = " igensium"
 					tamazight = "Thiges"
 					mzab_wargla = "Thiges"
 					riffian = "Thiges"
@@ -61311,7 +61385,7 @@ e_north_africa = {
 				greek = "Theveste"
 				tashellhit = "Tbessa"
 				african_romance = "Theveste"
-				vandalic = "Þeveste"
+				vandalic = " eveste"
 				tamazight = "Tbessa"
 				mzab_wargla = "Tbessa"
 				riffian = "Tbessa"
@@ -61342,7 +61416,7 @@ e_north_africa = {
 					greek = "Theveste"
 					tashellhit = "Tbessa"
 					african_romance = "Theveste"
-					vandalic = "Þeveste"
+					vandalic = " eveste"
 					tamazight = "Tbessa"
 					mzab_wargla = "Tbessa"
 					riffian = "Tbessa"
@@ -61392,7 +61466,7 @@ e_north_africa = {
 					greek = "Theveste"
 					tashellhit = "Tbessa"
 					african_romance = "Theveste"
-					vandalic = "Þeveste"
+					vandalic = " eveste"
 					tamazight = "Tbessa"
 					mzab_wargla = "Tbessa"
 					riffian = "Tbessa"
@@ -61408,7 +61482,7 @@ e_north_africa = {
 					greek = "Theveste"
 					tashellhit = "Tbessa"
 					african_romance = "Theveste"
-					vandalic = "Þeveste"
+					vandalic = " eveste"
 					tamazight = "Tbessa"
 					mzab_wargla = "Tbessa"
 					riffian = "Tbessa"
@@ -61424,7 +61498,7 @@ e_north_africa = {
 					greek = "Theveste"
 					tashellhit = "Tbessa"
 					african_romance = "Theveste"
-					vandalic = "Þeveste"
+					vandalic = " eveste"
 					tamazight = "Tbessa"
 					mzab_wargla = "Tbessa"
 					riffian = "Tbessa"
@@ -61440,7 +61514,7 @@ e_north_africa = {
 					greek = "Theveste"
 					tashellhit = "Tbessa"
 					african_romance = "Theveste"
-					vandalic = "Þeveste"
+					vandalic = " eveste"
 					tamazight = "Tbessa"
 					mzab_wargla = "Tbessa"
 					riffian = "Tbessa"
@@ -62448,7 +62522,7 @@ e_north_africa = {
 					greek = "Thubactis"
 					tashellhit = "Tubartis"
 					african_romance = "Thubactis"
-					vandalic = "Þubactis"
+					vandalic = " ubactis"
 					tamazight = "Tubartis"
 					mzab_wargla = "Tubartis"
 					riffian = "Tubartis"
@@ -62612,7 +62686,7 @@ e_north_africa = {
 				greek = "Theonteos"
 				tashellhit = "Theonteos"
 				african_romance = "Theonteos"
-				vandalic = "Þeonteos"
+				vandalic = " eonteos"
 				tamazight = "Theonteos"
 				mzab_wargla = "Theonteos"
 				riffian = "Theonteos"
@@ -62644,7 +62718,7 @@ e_north_africa = {
 					greek = "Castra Theontiensis"
 					tashellhit = "Theonta"
 					african_romance = "Castra Theontiensis"
-					vandalic = "Castra Þeontiensis"
+					vandalic = "Castra  eontiensis"
 					tamazight = "Theonta"
 					mzab_wargla = "Theonta"
 					riffian = "Theonta"
@@ -62676,7 +62750,7 @@ e_north_africa = {
 					greek = "Vicus Theontiensis"
 					tashellhit = "Theonta"
 					african_romance = "Vicus Theontiensis"
-					vandalic = "Vicus Þeontiensis"
+					vandalic = "Vicus  eontiensis"
 					tamazight = "Theonta"
 					mzab_wargla = "Theonta"
 					riffian = "Theonta"
@@ -62708,7 +62782,7 @@ e_north_africa = {
 					greek = "Thebunte"
 					tashellhit = "Thebunte"
 					african_romance = "Thebunte"
-					vandalic = "Þebunte"
+					vandalic = " ebunte"
 					tamazight = "Thebunte"
 					mzab_wargla = "Thebunte"
 					riffian = "Thebunte"
@@ -63244,7 +63318,7 @@ e_north_africa = {
 				greek = "Thrabunacti"
 				tashellhit = "Tabwinat"
 				african_romance = "Thrabunacti"
-				vandalic = "Þrabunacti"
+				vandalic = " rabunacti"
 				tamazight = "Tabwinat"
 				mzab_wargla = "Tabwinat"
 				riffian = "Tabwinat"
@@ -63275,7 +63349,7 @@ e_north_africa = {
 					greek = "Thramusdusim"
 					tashellhit = "Thrasduzm"
 					african_romance = "Thramusdusim"
-					vandalic = "Þramusdusim"
+					vandalic = " ramusdusim"
 					tamazight = "Thrasduzm"
 					mzab_wargla = "Thrasduzm"
 					riffian = "Thrasduzm"
@@ -63311,7 +63385,7 @@ e_north_africa = {
 					greek = "Thramusdusim"
 					tashellhit = "Thrasduzm"
 					african_romance = "Thramusdusim"
-					vandalic = "Þramusdusim"
+					vandalic = " ramusdusim"
 					tamazight = "Thrasduzm"
 					mzab_wargla = "Thrasduzm"
 					riffian = "Thrasduzm"
@@ -63343,7 +63417,7 @@ e_north_africa = {
 					greek = "Thramusdusim"
 					tashellhit = "Thrasduzm"
 					african_romance = "Thramusdusim"
-					vandalic = "Þramusdusim"
+					vandalic = " ramusdusim"
 					tamazight = "Thrasduzm"
 					mzab_wargla = "Thrasduzm"
 					riffian = "Thrasduzm"
@@ -63375,7 +63449,7 @@ e_north_africa = {
 					greek = "Thramusdusim"
 					tashellhit = "Thrasduzm"
 					african_romance = "Thramusdusim"
-					vandalic = "Þramusdusim"
+					vandalic = " ramusdusim"
 					tamazight = "Thrasduzm"
 					mzab_wargla = "Thrasduzm"
 					riffian = "Thrasduzm"
@@ -63407,7 +63481,7 @@ e_north_africa = {
 					greek = "Thramusdusim"
 					tashellhit = "Thrasduzm"
 					african_romance = "Thramusdusim"
-					vandalic = "Þramusdusim"
+					vandalic = " ramusdusim"
 					tamazight = "Thrasduzm"
 					mzab_wargla = "Thrasduzm"
 					riffian = "Thrasduzm"
@@ -63475,7 +63549,7 @@ e_north_africa = {
 					greek = "Thenteos"
 					tashellhit = "Thenteos"
 					african_romance = "Thenteos"
-					vandalic = "Þhenteos"
+					vandalic = " henteos"
 					tamazight = "Thenteos"
 					mzab_wargla = "Thenteos"
 					riffian = "Thenteos"
@@ -63511,7 +63585,7 @@ e_north_africa = {
 					greek = "Thenteos"
 					tashellhit = "Thenteos"
 					african_romance = "Thenteos"
-					vandalic = "Þhenteos"
+					vandalic = " henteos"
 					tamazight = "Thenteos"
 					mzab_wargla = "Thenteos"
 					riffian = "Thenteos"
@@ -63543,7 +63617,7 @@ e_north_africa = {
 					greek = "Thenteos"
 					tashellhit = "Thenteos"
 					african_romance = "Thenteos"
-					vandalic = "Þhenteos"
+					vandalic = " henteos"
 					tamazight = "Thenteos"
 					mzab_wargla = "Thenteos"
 					riffian = "Thenteos"
@@ -63575,7 +63649,7 @@ e_north_africa = {
 					greek = "Thenteos"
 					tashellhit = "Thenteos"
 					african_romance = "Thenteos"
-					vandalic = "Þhenteos"
+					vandalic = " henteos"
 					tamazight = "Thenteos"
 					mzab_wargla = "Thenteos"
 					riffian = "Thenteos"
@@ -63607,7 +63681,7 @@ e_north_africa = {
 					greek = "Thenteos"
 					tashellhit = "Thenteos"
 					african_romance = "Thenteos"
-					vandalic = "Þhenteos"
+					vandalic = " henteos"
 					tamazight = "Thenteos"
 					mzab_wargla = "Thenteos"
 					riffian = "Thenteos"
@@ -63707,7 +63781,7 @@ e_north_africa = {
 					greek = "Municipium Gigthis"
 					tashellhit = "Gigthis"
 					african_romance = "Municipium Gigthis"
-					vandalic = "Municipium Gigþis"
+					vandalic = "Municipium Gig is"
 					tamazight = "Gigthis"
 					mzab_wargla = "Gigthis"
 					riffian = "Gigthis"
@@ -64136,7 +64210,7 @@ e_north_africa = {
 					greek = "Thebelami"
 					tashellhit = "Thebelami"
 					african_romance = "Thebelami"
-					vandalic = "Þebelami"
+					vandalic = " ebelami"
 					tamazight = "Thebelami"
 					mzab_wargla = "Thebelami"
 					riffian = "Thebelami"
@@ -65204,11 +65278,11 @@ e_finland = {
 					finnish = "Nevanlinna"
 				}
 				b_noteborg = {
-					swedish = "Nöteborg"
-					norse = "Nöteborg"
-					norwegian = "Nøteborg"
-					danish = "Nøteborg"
-					german = "Schlüsselburg"
+					swedish = "N teborg"
+					norse = "N teborg"
+					norwegian = "N teborg"
+					danish = "N teborg"
+					german = "Schl sselburg"
 					russian = "Oreshek"
 				}
 				b_valaam = {
@@ -65279,10 +65353,10 @@ e_finland = {
 				color={ 135 25 25 }
 				color2={ 255 255 255 }
 				
-				swedish = "Östkarelen"
-				norse = "Östkarelen"
-				danish = "Østkarelen"
-				norwegian = "Østkarelen"
+				swedish = " stkarelen"
+				norse = " stkarelen"
+				danish = " stkarelen"
+				norwegian = " stkarelen"
 				russian = "Kareliya"
 			
 				b_kem = {
@@ -65451,10 +65525,10 @@ e_finland = {
 				danish = "Nyland"
 			
 				b_porvoo = {
-					swedish = "Borgå"
-					norse = "Borgå"
-					norwegian = "Borgå"
-					danish = "Borgå"
+					swedish = "Borg "
+					norse = "Borg "
+					norwegian = "Borg "
+					danish = "Borg "
 				}
 				b_raseborg = {
 					swedish = "Raseborg"
@@ -65469,16 +65543,16 @@ e_finland = {
 					danish = "Esbo"
 				}
 				b_siuntio = {
-					swedish = "Sjundeå"
-					norse = "Sjundeå"
+					swedish = "Sjunde "
+					norse = "Sjunde "
 				}
 				b_svartholm = {
 				}
 				b_hanko = {
-					swedish = "Hangö"
-					norse = "Hangö"
-					norwegian = "Hangø"
-					danish = "Hangø"
+					swedish = "Hang "
+					norse = "Hang "
+					norwegian = "Hang "
+					danish = "Hang "
 				}
 				b_lohja = {
 					swedish = "Lojo"
@@ -65499,22 +65573,22 @@ e_finland = {
 				danish = "Finland"
 			
 				b_kuusisto  = {
-					swedish = "Kustö"
-					norse = "Kustö"
-					norwegian = "Kustø"
-					danish = "Kustø"
+					swedish = "Kust "
+					norse = "Kust "
+					norwegian = "Kust "
+					danish = "Kust "
 				}
 				b_turku  = {
-					swedish = "Åbo"
-					norse = "Åbo"
-					norwegian = "Åbo"
-					danish = "Åbo"
+					swedish = " bo"
+					norse = " bo"
+					norwegian = " bo"
+					danish = " bo"
 				}
 				b_naantali = {
-					swedish = "Nådendal"
-					norse = "Nådendal"
-					norwegian = "Nådendal"
-					danish = "Nådendal"
+					swedish = "N dendal"
+					norse = "N dendal"
+					norwegian = "N dendal"
+					danish = "N dendal"
 				}
 				b_rikala  = {
 				}
@@ -65594,16 +65668,16 @@ e_finland = {
 				color={ 152 66 66 }
 				color2={ 255 255 255 }
 				
-				swedish = "Österbotten"
-				norwegian = "Østerbotten"
-				danish = "Østerbotten"
+				swedish = " sterbotten"
+				norwegian = " sterbotten"
+				danish = " sterbotten"
 				norse = "Austerbotn"
 			
 				b_oulu = {
-					swedish = "Uleåborg"
-					norse = "Uleåborg"
-					norwegian = "Uleåborg"
-					danish = "Uleåborg"
+					swedish = "Ule borg"
+					norse = "Ule borg"
+					norwegian = "Ule borg"
+					danish = "Ule borg"
 				}
 				b_nykarleby = {
 					swedish = "Nykarleby"
@@ -65658,7 +65732,7 @@ e_finland = {
 		finnish_pagan_reformed = 300 # Crusade target weight
 		baltic_pagan_reformed = 100 # Crusade target weight
 		
-		norse = Garðariki
+		norse = Gar ariki
 		
 		culture = russian
 		
@@ -65777,10 +65851,10 @@ e_finland = {
 			
 			capital = 414 # Novgorod
 			
-			swedish = "Holmgård"
-			norse = "Holmgarðr"
-			danish = "Holmgård"
-			norwegian = "Holmgård"
+			swedish = "Holmg rd"
+			norse = "Holmgar r"
+			danish = "Holmg rd"
+			norwegian = "Holmg rd"
 			ilmenian = "Ilmen"
 			severian = "Ilmen"
 			mordvin = "Ilmen"
@@ -65808,7 +65882,7 @@ e_finland = {
 				color={ 144 161 101 }
 				color2={ 255 255 255 }
 				
-				finnish = "Nevajärvi"
+				finnish = "Nevaj rvi"
 					
 				b_bezhetsk = { # Staraya Ladoga
 					swedish = "Aldeigjuborg"
@@ -65818,9 +65892,9 @@ e_finland = {
 					finnish = "Alodejoki"
 				}
 				b_spasnakholmu = {
-					swedish = "Spångsholm"
-					norse = "Spångsholmr"
-					danish = "Spångsholm"
+					swedish = "Sp ngsholm"
+					norse = "Sp ngsholmr"
+					danish = "Sp ngsholm"
 					norwegian = "Spngsholm"
 				}
 				b_sonkovo = { # Gorodishche
@@ -65875,10 +65949,10 @@ e_finland = {
 				color={ 149 166 106 }
 				color2={ 255 255 255 }
 				
-				swedish = "Holmgård"
-				norse = "Holmgarðr"
-				danish = "Holmgård"
-				norwegian = "Holmgård"
+				swedish = "Holmg rd"
+				norse = "Holmgar r"
+				danish = "Holmg rd"
+				norwegian = "Holmg rd"
 				
 				holy_site = slavic_pagan
 				holy_site = slavic_pagan_reformed
@@ -65886,16 +65960,16 @@ e_finland = {
 				holy_site = finnish_pagan_reformed
 						
 				b_borovichi = {
-					norse = Nygarðr
-					swedish = Nygård
-					norwegian = Nygård
-					danish = Nygård
+					norse = Nygar r
+					swedish = Nyg rd
+					norwegian = Nyg rd
+					danish = Nyg rd
 				}
 				b_novgorod = {
-					swedish = "Holmgård"
-					norse = "Holmgarðr"
-					danish = "Holmgård"
-					norwegian = "Holmgård"
+					swedish = "Holmg rd"
+					norse = "Holmgar r"
+					danish = "Holmg rd"
+					norwegian = "Holmg rd"
 				}
 				b_tikhvin = {					
 				}
@@ -66837,16 +66911,16 @@ d_oxford = { # Obsolete
 	old_saxon = Oxenforda
 	anglo = Oxenforda
 	jute = Okserfjord
-	norse = Vaðnauta
+	norse = Va nauta
 	roman = Boumvadum
 	geatish = Oxarford
 	old_frisian = Ossenford
 	german = Ochsenfurt
-	irish = Damhát
+	irish = Damh t
 	thuringian = Voluford
-	greek = Vódiasidoros
+	greek = V diasidoros
 	basque = Idiford
-	ostrogothic = Aúhsafdord
+	ostrogothic = A hsafdord
 
 	allow = {
 		always = no
@@ -66961,7 +67035,7 @@ d_geats = {
 	
 	dignity = 8
 	
-	capital	= 297 # Västergötland
+	capital	= 297 # V sterg tland
 	
 	allow = {
 		always = no
@@ -68799,7 +68873,7 @@ e_mexikha = {
 #		always = no
 #	}
 #	
-#	capital = 262 # Lübeck
+#	capital = 262 # L beck
 #	
 #	dignity = 10
 #}
@@ -68808,7 +68882,7 @@ k_hansa = {
 	color={ 142 142 142 }
 	color2={ 255 255 255 }
 	
-	capital = 262 # Lübeck
+	capital = 262 # L beck
 	
 	dignity = 200 # Never want the Hanseatic League to change primary title
 	
@@ -69085,7 +69159,7 @@ b_ulpius = {
 	religion = nicene
 }
 
-# LÜBECK:
+# L BECK:
 
 b_bardewik = {
 	culture = german
