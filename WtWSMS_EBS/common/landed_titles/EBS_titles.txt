@@ -113,6 +113,19 @@ k_hen_ogledd = {
 	}
 }
 
+k_gallia = {
+	color={ 30 110 25 }
+	color2={ 255 255 255 }
+	capital = 118 # Augusta Treverorum (Trier)
+	
+	culture = romano_gallic
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+}
+
 d_raetia_prima = {
 	color={ 135 195 190 }
 	color2 = { 255 255 255 }
@@ -139,5 +152,18 @@ k_chionites = { #Xionites
 	# Creation/Usurp Trigger
 	allow = {
 		always = no
+	}
+}
+
+d_viennensis = {
+	color={ 35 68 101 }
+	color2={ 255 255 255 }
+	
+	capital = 228
+	
+	culture = roman
+
+	allow = {
+		d_viennensis = { is_titular = no }
 	}
 }
