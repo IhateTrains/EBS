@@ -25853,6 +25853,18 @@ e_gaul = {
 			tier = king
 		}
 	}
+k_gallia = {
+	color={ 30 110 25 }
+	color2={ 255 255 255 }
+	capital = 118 # Augusta Treverorum (Trier)
+	
+	culture = romano_gallic
+	
+	# Creation/Usurp Trigger
+	allow = {
+		always = no
+	}
+	}
 
 	k_lugdunensis = {
 		color={ 0 100 0 }
