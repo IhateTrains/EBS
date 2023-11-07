@@ -27898,7 +27898,18 @@ k_gallia = {
 		germanic_pagan_reformed = 150
 		celtic_pagan_reformed = 150
 		muslim = 50
-		
+d_viennensis = {
+	color={ 35 68 101 }
+	color2={ 255 255 255 }
+	
+	capital = 228
+	
+	culture = roman
+
+	allow = {
+		d_viennensis = { is_titular = no }
+	}
+}
 		d_novempopulana = {
 			color={ 220 145 0 }
 			color2={ 255 255 255 }
