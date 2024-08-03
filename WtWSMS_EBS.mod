@@ -1,4 +1,4 @@
-name = "WtWSMS Early Bookmarks Submod"
+name = "[NOT MAINTAINED] WtWSMS Early Bookmarks Submod"
 path = "mod/WtWSMS_EBS"
 dependencies = { "When the World Stopped Making Sense" }
 picture = "EBS.jpg"
